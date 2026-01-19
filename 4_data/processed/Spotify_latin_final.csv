@@ -1,0 +1,933 @@
+name_track,artist_name_raw,artist_name_norm,name_album,type,year,duration_ms,popularity,id_genre
+Cristina,Sebastian Yatra,sebastian yatra,FANTASÍA,track,2019,201626,72,4
+LA CANCIÓN,J Balvin,j balvin,OASIS,track,2019,242573,89,4
+105 F Remix,KEVVO,kevvo,105 F Remix,track,2019,464200,68,4
+Kemba Walker,Eladio Carrion,eladio carrion,Kemba Walker,track,2019,152960,66,4
+La Playa,Myke Towers,myke towers,La Playa,track,2019,207731,67,4
+Ganas Sobran,Bryant Myers,bryant myers,Cambio de Clima,track,2019,237920,64,4
+Otro Trago - Remix,Sech,sech,Otro Trago (Remix),track,2019,287773,71,4
+11 PM,Maluma,maluma,11:11,track,2019,175733,78,4
+El Efecto - Remix,Rauw Alejandro,rauw alejandro,El Efecto (Remix),track,2019,289898,72,4
+Tal Vez,Paulo Londra,paulo londra,Homerun,track,2019,263899,76,4
+Si Se Da - Remix,Myke Towers,myke towers,Si Se da Remix,track,2019,332240,75,4
+Pa Mí (Remix),Dalex,dalex,Climaxxx,track,2019,360960,74,4
+A Mí,Rels B,rels b,A Mí,track,2019,209680,81,4
+Verte Ir,DJ Luian,dj luian,Verte Ir,track,2019,267500,72,4
+Adan y Eva,Paulo Londra,paulo londra,Homerun,track,2019,256971,76,4
+Adicto (with Anuel AA & Ozuna),Tainy,tainy,Adicto (with Anuel AA & Ozuna),track,2019,270740,79,4
+No Te Debí Besar,C. Tangana,c tangana,No Te Debí Besar,track,2019,182815,64,4
+Tusa,KAROL G,karol g,Tusa,track,2019,200960,74,4
+Mirándote,Rvfv,rvfv,Mirándote,track,2019,135914,76,4
+Zorra,Bad Gyal,bad gyal,Zorra,track,2019,186120,58,4
+UN PESO,J Balvin,j balvin,OASIS,track,2019,277106,80,4
+No Me Conoce - Remix,JHAYCO,jhayco,Famouz,track,2019,309120,85,4
+Mayores,Becky G,becky g,MALA SANTA,track,2019,203183,76,4
+"Acapella (feat. Bryant Myers, El Alfa, Jon Z, Myke Towers & Almighty)",Bryant Myers,bryant myers,"Acapella (feat. Bryant Myers, El Alfa, Jon Z, Myke Towers & Almighty)",track,2019,306946,59,4
+Inocente,Myke Towers,myke towers,Inocente,track,2019,201579,67,4
+Callaita,Bad Bunny,bad bunny,Callaita,track,2019,250533,75,4
+Swing,Danny Ocean,danny ocean,54+1,track,2019,155058,73,4
+A Solas (Remix),Lunay,lunay,Épico,track,2019,273198,70,4
+Prendio - Remix,Rvfv,rvfv,Prendio (Remix),track,2019,191184,60,4
+Alocao (With Bad Gyal),Omar Montes,omar montes,Alocao (With Bad Gyal),track,2019,209320,60,4
+Me Niego (feat. Ozuna & Wisin),Reik,reik,Ahora,track,2019,221653,76,4
+"Yo x Ti, Tu x Mi",ROSALÍA,rosalia,"Yo x Ti, Tu x Mi",track,2019,201040,75,4
+No Podemos - Remix,Ele A El Dominio,ele a el dominio,No Podemos (Remix),track,2019,240000,56,4
+Indeciso,Reik,reik,Indeciso,track,2019,217253,70,4
+Baila Baila Baila - Remix,Ozuna,ozuna,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",track,2019,235284,77,4
+Soltera (Remix),Lunay,lunay,Épico,track,2019,266086,76,4
+El Efecto,Rauw Alejandro,rauw alejandro,El Efecto,track,2019,217142,83,4
+Una Lady Como Tú,Manuel Turizo,manuel turizo,ADN,track,2019,217032,75,4
+Aventura,Lunay,lunay,Épico,track,2019,217129,67,4
+Ella Te Las Va A Pegar (feat. Ele a el Dominio & Noriel),Jon Z,jon z,Voodoo,track,2019,217525,75,4
+Cuaderno,Dalex,dalex,Climaxxx,track,2019,286506,72,4
+Contando Lunares (feat. Cruz Cafuné),Don Patricio,don patricio,La Dura Vida del Joven Rapero,track,2019,219666,66,4
+China,Anuel AA,anuel aa,China,track,2019,301714,74,4
+Despacito,Luis Fonsi,luis fonsi,VIDA,track,2019,229360,82,4
+QUE PRETENDES,J Balvin,j balvin,OASIS,track,2019,222346,82,4
+Con Calma,Daddy Yankee,daddy yankee,Con Calma,track,2019,193226,80,4
+Nena Maldición (feat. Lenny Tavárez),Paulo Londra,paulo londra,Homerun,track,2019,227518,77,4
+Me Rehúso,Danny Ocean,danny ocean,54+1,track,2019,205714,83,4
+Velitas,Darell,darell,Velitas,track,2019,225542,74,4
+Loco,Beéle,beele,Loco,track,2019,204000,78,4
+COMO UN BEBÉ,J Balvin,j balvin,OASIS,track,2019,218826,72,4
+Inmortal,Aventura,aventura,Utopia,track,2019,256428,69,4
+Hola Señorita,GIMS,gims,Ceinture noire (Transcendance),track,2019,218546,72,4
+Si Me Gano Un Grammy,Jon Z,jon z,Si Me Gano Un Grammy,track,2019,146409,69,4
+Delincuente,Farruko,farruko,Gangalee,track,2019,396120,64,4
+Codeine Crazy - Spanish Remix,Ele A El Dominio,ele a el dominio,Codeine Crazy (Spanish Remix),track,2019,321904,65,4
+Dream Girl - Remix,Ir Sais,ir sais,Dream Girl (Remix),track,2019,192452,71,4
+Mírame a la Cara,Khaled,khaled,Mírame a la Cara,track,2019,185285,54,4
+Fantasias,Rauw Alejandro,rauw alejandro,Fantasias,track,2019,199711,71,4
+Cuerpo en Venta,Noriel,noriel,Cuerpo en Venta,track,2019,254413,63,4
+Se iluminaba,Fred De Palma,fred de palma,Uebe,track,2019,174291,57,4
+Hola - Remix,Dalex,dalex,Hola (Remix),track,2019,249520,70,4
+Animal,Eladio Carrion,eladio carrion,Animal,track,2019,217736,65,4
+Que Mas Pues - Remix,Sech,sech,Sueños,track,2019,305962,72,4
+Goteo,Duki,duki,Goteo,track,2019,164457,65,4
+Amigos Con Derechos,Reik,reik,Ahora,track,2019,227480,76,4
+Traicionera,Myke Towers,myke towers,Traicionera,track,2019,170467,61,4
+LowKey,Bryant Myers,bryant myers,LowKey,track,2019,193027,61,4
+Khalifa,Alex Rose,alex rose,Khalifa,track,2019,256973,61,4
+Recuerdos - Remix,Juhn,juhn,Recuerdos (Remix),track,2019,322626,62,4
+Con Altura,ROSALÍA,rosalia,Con Altura,track,2019,161626,71,4
+Te Robaré,Nicky Jam,nicky jam,Intimo,track,2019,201818,67,4
+Gan-Ga - Remix,Bryant Myers,bryant myers,Gan-Ga (Remix),track,2019,193363,65,4
+Detective,Rauw Alejandro,rauw alejandro,Detective,track,2019,204631,62,4
+Diavla,Chris Viz,chris viz,Diavla,track,2019,265952,62,4
+Ocean,KAROL G,karol g,OCEAN,track,2019,155946,68,4
+La Mejor Versión de Mi - Remix,NATTI NATASHA,natti natasha,La Mejor Versión de Mi (Remix),track,2019,229333,69,4
+Serpiente Veneno (feat. Ele A El Dominio),Kidd Keo,kidd keo,Serpiente Veneno (feat. Ele A El Dominio),track,2019,268437,60,4
+Santa María (Feat. Busy Signal),Bad Gyal,bad gyal,Santa Maria,track,2019,154933,57,4
+Imaginaste,JHAYCO,jhayco,Famouz,track,2019,198613,68,4
+El Boom,Chimbala,chimbala,El Boom,track,2019,219402,60,4
+Culpables,Manuel Turizo,manuel turizo,ADN,track,2019,233929,70,4
+Quizas,Rich Music LTD,rich music ltd,The Academy,track,2019,216066,73,4
+Mejor No Nos Vemos,Rels B,rels b,Mejor No Nos Vemos,track,2019,189187,68,4
+SIN MIRAR LAS SEÑALES,Rels B,rels b,Happy Birthday Flakko,track,2019,180000,68,4
+Secreto,Anuel AA,anuel aa,Secreto,track,2019,258799,72,4
+Otro Trago,Sech,sech,Sueños,track,2019,225933,70,4
+HASTA ABAJO,KEVIN ROLDAN,kevin roldan,KrING,track,2019,229826,71,4
+Échame La Culpa,Luis Fonsi,luis fonsi,VIDA,track,2019,173800,75,4
+Desconocidos,Mau y Ricky,mau y ricky,Para Aventuras y Curiosidades,track,2019,204488,74,4
+X,Nicky Jam,nicky jam,Intimo,track,2019,172854,76,4
+Porno,Rich Music LTD,rich music ltd,The Academy,track,2019,212653,71,4
+Rueda,Chimbala,chimbala,Rueda,track,2019,210528,59,4
+"Ajena (with Myke Towers, Dylan Fuentes)",Dayme y El High,dayme y el high,Ajena,track,2019,162901,63,4
+Culpables,KAROL G,karol g,OCEAN,track,2019,228960,71,4
+La Rubia - Remix 2,La Nueva Escuela,la nueva escuela,La Rubia (Remix 2),track,2019,210860,58,4
+Dembow,Danny Ocean,danny ocean,54+1,track,2019,215082,76,4
+Créeme,KAROL G,karol g,OCEAN,track,2019,214293,74,4
+Dispuestos a morir,Natos y Waor,natos y waor,Dispuestos a morir,track,2019,260000,56,4
+Nada,Cazzu,cazzu,Error 93,track,2019,305113,72,4
+B11 (feat. Myke Towers),Rvssian,rvssian,B11 (feat. Myke Towers),track,2019,251929,60,4
+Suave - Remix,Jey Blessing,jey blessing,Suave (Remix),track,2019,203000,57,4
+HP,Maluma,maluma,11:11,track,2019,184546,68,4
+Un Año,Sebastian Yatra,sebastian yatra,Un Año,track,2019,164440,64,4
+Chica Paranormal,Paulo Londra,paulo londra,Homerun,track,2019,221083,71,4
+RITMO (Bad Boys For Life),Black Eyed Peas,black eyed peas,RITMO (Bad Boys For Life),track,2019,221714,69,4
+Sola,KHEA,khea,Sola,track,2019,199803,64,4
+Imaginate,Rich Music LTD,rich music ltd,The Academy,track,2019,225013,69,4
+Mírame - Remix,Nio Garcia,nio garcia,Mírame,track,2019,377580,66,4
+"Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""",Morat,morat,Mar De Colores (Versión Extendida),track,2019,179280,56,4
+No Tenemos Nada,Amenazzy,amenazzy,No Tenemos Nada,track,2019,204277,56,4
+Boomerang,Sech,sech,Sueños,track,2019,203392,65,4
+Recuerdos,Juhn,juhn,Recuerdos,track,2019,221066,65,4
+Algo Como Tú,Kaydy Cain,kaydy cain,Lo Mejor de Lo Peor,track,2019,194285,54,4
+La Cintura,Alvaro Soler,alvaro soler,Mar De Colores (Versión Extendida),track,2019,204666,66,4
+Dime Que Sí,Jay Wheeler,jay wheeler,Platónico,track,2019,211102,65,4
+X.O.X.O. (feat. Rvfv & Chiki El De La Vaina) - Remix,D' La Crem,d la crem,X.O.X.O. (feat. Rvfv & Chiki El De La Vaina) [Remix],track,2019,234500,61,4
+Algo contigo,Rita Payés,rita payes,Imagina,track,2019,297664,67,4
+Una Mala - Remix,El Completo Rd,el completo rd,Una Mala (Remix),track,2019,184761,50,4
+Pa Los Gustos Los Colores,Javiielo,javiielo,Pa Los Gustos Los Colores,track,2019,139809,64,4
+Forever Happy,Miky Woodz,miky woodz,EL OG WEEK,track,2019,183093,59,4
+Imposible,Luis Fonsi,luis fonsi,VIDA,track,2019,164533,65,4
+La Cama,Lunay,lunay,Épico,track,2019,189295,60,4
+Por Eso Vine,Paulo Londra,paulo londra,Homerun,track,2019,178534,69,4
+Bandolera,Bryant Myers,bryant myers,Bandolera,track,2019,201858,57,4
+Me Enamoré,Jay Wheeler,jay wheeler,Platónico,track,2019,253830,63,4
+Te Quemaste,Manuel Turizo,manuel turizo,ADN,track,2019,199090,62,4
+Sin Pijama,Becky G,becky g,MALA SANTA,track,2019,190151,68,4
+Yo No Me Enamoro,Dalex,dalex,Climaxxx,track,2019,211666,60,4
+"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix",Justin Quiles,justin quiles,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) [Remix]",track,2019,258600,67,4
+Baila Conmigo (feat. Kelly Ruiz),Dayvi,dayvi,Baila Conmigo (Willy William Remix) (feat. Kelly Ruiz),track,2019,189817,67,4
+Usted,Juan Magán,juan magan,4.0,track,2019,233748,53,4
+Al Mismo Tiempo,Rauw Alejandro,rauw alejandro,"Trap Cake, Vol. 1",track,2019,250838,67,4
+Cuando Te Besé,Becky G,becky g,MALA SANTA,track,2019,256522,72,4
+Infeliz,Arcángel,arcangel,Historias de un Capricornio,track,2019,221103,69,4
+Hookah,Bad Gyal,bad gyal,Hookah,track,2019,179893,52,4
+Ontas?,C. Tangana,c tangana,Ontas?,track,2019,197441,51,4
+Fluye,Almighty,almighty,La BESTia,track,2019,191118,54,4
+Dembow y Reggaeton,El Alfa,el alfa,DEMBO$$,track,2019,248589,60,4
+Vamos Pa la Playa,FlowZeta,flowzeta,Vamos Pa la Playa,track,2019,215033,50,4
+Contra La Pared,Sean Paul,sean paul,Contra La Pared,track,2019,224680,67,4
+Miss Lonely - Dimelo Flow Remix,Sech,sech,Sueños,track,2019,240365,66,4
+Salgo a Buscarte,Jon Z,jon z,Salgo a Buscarte,track,2019,201225,57,4
+"Trueno: Bzrp Freestyle Sessions, Vol. 6",Bizarrap,bizarrap,"Trueno: Bzrp Freestyle Sessions, Vol. 6",track,2019,199391,63,4
+Loco Contigo (feat. J. Balvin & Tyga),DJ Snake,dj snake,Carte Blanche,track,2019,185194,74,4
+Vete,Bad Bunny,bad bunny,Vete,track,2019,192024,72,4
+Caliente,Darell,darell,Caliente,track,2019,240261,64,4
+"Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) - Remix",Neo Pistea,neo pistea,"Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki) [Remix]",track,2019,456939,64,4
+Piensa en Mí,Sticky M.A.,sticky m a,5ta Dimensión,track,2019,199968,53,4
+Esperándote,Manuel Turizo,manuel turizo,ADN,track,2019,202317,65,4
+Mi Persona Favorita,Alejandro Sanz,alejandro sanz,Mi Persona Favorita,track,2019,239972,57,4
+El Beso Que No Le Di,Romeo Santos,romeo santos,Utopia,track,2019,208490,63,4
+Rayando el Sol (feat. Pablo Alborán),Maná,mana,Rayando el Sol (feat. Pablo Alborán),track,2019,258937,61,4
+Dónde Están Corazón,Enrique Iglesias,enrique iglesias,Greatest Hits,track,2019,259613,68,4
+Suena El Dembow,Joey Montana,joey montana,La Movida,track,2019,195760,62,4
+Escombros,La Suprema Corte,la suprema corte,Escombros,track,2019,238631,68,4
+Baila Baila Baila,Ozuna,ozuna,Nibiru,track,2019,158760,68,4
+No Ando Solo,Bryant Myers,bryant myers,Cambio de Clima,track,2019,241520,58,4
+Cambio,Ozuna,ozuna,Cambio,track,2019,370491,58,4
+No Puedo,Paulo Londra,paulo londra,Homerun,track,2019,175028,66,4
+Ganga - Young Kingz Version,Myke Towers,myke towers,Ganga (Young Kingz Version),track,2019,215781,56,4
+Aute Cuture,ROSALÍA,rosalia,Aute Cuture,track,2019,147626,57,4
+Cristina (feat. Shelow Shaq),Maffio,maffio,Cristina (feat. Shelow Shaq),track,2019,186893,56,4
+Destino,Greeicy,greeicy,Baila,track,2019,180480,67,4
+Rutina,Myke Towers,myke towers,Rutina,track,2019,217226,52,4
+Whine Up,Nicky Jam,nicky jam,Intimo,track,2019,215459,61,4
+La Boca,Mau y Ricky,mau y ricky,Para Aventuras y Curiosidades,track,2019,206271,66,4
+Perreo en La Luna,Rich Music LTD,rich music ltd,The Academy,track,2019,218586,64,4
+Llégale,Lunay,lunay,Llégale,track,2019,253333,54,4
+Forever Alone,Paulo Londra,paulo londra,Homerun,track,2019,214310,66,4
+Falsas Promesas,Sech,sech,Sueños,track,2019,206606,63,4
+Estamos Arriba,Bad Bunny,bad bunny,Estamos Arriba,track,2019,225693,59,4
+Cuando Me Acerco A Ti,Danny Ocean,danny ocean,54+1,track,2019,193435,68,4
+Cicatrices (feat. Indara),Sergio Contreras,sergio contreras,Cicatrices (feat. Indara),track,2019,173868,47,4
+En Filita Cooperando - Remix,Musicologo The Libro,musicologo the libro,En Filita Cooperando (Remix),track,2019,251612,48,4
+Loco,Enrique Iglesias,enrique iglesias,Greatest Hits,track,2019,213413,54,4
+Tutu,Camilo,camilo,Tutu,track,2019,178613,64,4
+No Vuelvas Más,Darell,darell,No Vuelvas Más,track,2019,239093,59,4
+De Los Besos Que Te Di,Christian Nodal,christian nodal,Ahora,track,2019,167373,76,4
+Encima De Mi,Rauw Alejandro,rauw alejandro,"Trap Cake, Vol. 1",track,2019,224307,63,4
+Guerra,Almighty,almighty,Guerra,track,2019,193703,53,4
+No Te Veo - Remix,Casper Magico,casper magico,No Te Veo,track,2019,252440,55,4
+Costear,JHAYCO,jhayco,Famouz,track,2019,239080,59,4
+Abusadora,Almighty,almighty,La BESTia,track,2019,252542,53,4
+FULL ICE (prod. ORODEMBOW),YSY A,ysy a,HECHO A MANO,track,2019,160078,65,4
+Bellaquita,Dalex,dalex,Bellaquita,track,2019,204786,66,4
+Lo siento (feat. Sofía Reyes),Beret,beret,Prisma,track,2019,232655,60,4
+Déjate Llevar,Juan Magán,juan magan,4.0,track,2019,233080,58,4
+Ellos,Ceky Viciny,ceky viciny,Ellos,track,2019,175081,47,4
+Prendela,Atomic Otro Way,atomic otro way,Prendela,track,2019,173026,50,4
+Easy,JHAYCO,jhayco,Famouz,track,2019,239373,52,4
+Me Odias?,Alex Rose,alex rose,Me Odias?,track,2019,234605,61,4
+Homerun (Intro),Paulo Londra,paulo londra,Homerun,track,2019,149504,66,4
+"Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",Bizarrap,bizarrap,"Nicki Nicole: Bzrp Music Sessions, Vol. 13/66",track,2019,143291,63,4
+PPP,KEVIN ROLDAN,kevin roldan,KrING,track,2019,129332,65,4
+"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,dj snake,Carte Blanche,track,2019,212500,75,4
+Si Veo a Tu Mamá,Bad Bunny,bad bunny,YHLQMDLG,track,2020,170971,83,4
+Que Malo,Bad Bunny,bad bunny,YHLQMDLG,track,2020,167975,73,4
+LVCC,Myke Towers,myke towers,Easy Money Baby,track,2020,141550,70,4
+25/8,Bad Bunny,bad bunny,YHLQMDLG,track,2020,243275,74,4
+La Santa,Bad Bunny,bad bunny,YHLQMDLG,track,2020,206420,81,4
+HACIENDO QUE ME AMAS,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,217768,76,4
+Safaera,Bad Bunny,bad bunny,YHLQMDLG,track,2020,295176,79,4
+Dile a El,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,209540,78,4
+Relación Rota,Myke Towers,myke towers,Easy Money Baby,track,2020,160666,69,4
+Recuerdos,Luar La L,luar la l,Los G4 New Generation,track,2020,266626,67,4
+A Tu Merced,Bad Bunny,bad bunny,YHLQMDLG,track,2020,175918,77,4
+Una Vez,Bad Bunny,bad bunny,YHLQMDLG,track,2020,232496,78,4
+CÓMO SE SIENTE - Remix,JHAYCO,jhayco,CÓMO SE SIENTE (Remix),track,2020,227520,79,4
+El Mismo Aire - con Pablo Alborán,Camilo,camilo,El Mismo Aire (con Pablo Alborán),track,2020,188213,75,4
+Bandido,Myke Towers,myke towers,Bandido,track,2020,232853,70,4
+Hasta Que Dios Diga,Anuel AA,anuel aa,Emmanuel,track,2020,246000,80,4
+120,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,151506,76,4
+Despeinada,Ozuna,ozuna,ENOC,track,2020,224186,75,4
+Ponte Pa' Mi,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,184817,72,4
+BOOKER T,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,156430,77,4
+El Manual,Anuel AA,anuel aa,Emmanuel,track,2020,210623,62,4
+Una Locura,Ozuna,ozuna,ENOC,track,2020,230693,73,4
+La Historia,El Taiger,el taiger,La Historia,track,2020,237900,65,4
+Extasy,Myke Towers,myke towers,Para Mi Ex,track,2020,187191,73,4
+4K,El Alfa,el alfa,4K,track,2020,201500,78,4
+MIB,Myke Towers,myke towers,Easy Money Baby,track,2020,134013,66,4
+Piensan,Myke Towers,myke towers,Easy Money Baby,track,2020,173451,74,4
+LA NOCHE DE ANOCHE,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,203200,78,4
+Hechizo,Myke Towers,myke towers,Easy Money Baby,track,2020,145360,64,4
+3 Am,Eladio Carrion,eladio carrion,Sauce Boyz,track,2020,208236,72,4
+A Partir De Hoy,David Bisbal,david bisbal,En Tus Planes,track,2020,196802,68,4
+La Curiosidad,Jay Wheeler,jay wheeler,Platonicos,track,2020,219048,78,4
+Hace Mucho Tiempo,Ele A El Dominio,ele a el dominio,Hace Mucho Tiempo,track,2020,262079,73,4
+La Última Canción,Rels B,rels b,LA ISLA LP,track,2020,184748,76,4
+Tattoo - Remix with Camilo,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,222680,76,4
+Inolvidable,Ovy On The Drums,ovy on the drums,Inolvidable,track,2020,225812,77,4
+Diosa,Myke Towers,myke towers,Easy Money Baby,track,2020,214013,70,4
+Girl,Myke Towers,myke towers,Easy Money Baby,track,2020,186426,74,4
+DÁKITI,Bad Bunny,bad bunny,DÁKITI,track,2020,205090,80,4
+Si Tú La Quieres,David Bisbal,david bisbal,En Tus Planes,track,2020,224761,63,4
+Caile,Luar La L,luar la l,L3tra,track,2020,141340,66,4
+Otro,Myke Towers,myke towers,Easy Money Baby,track,2020,226200,61,4
+Tú,Myke Towers,myke towers,Easy Money Baby,track,2020,204746,71,4
+Hecha Pa' Mi,Boza,boza,Más Negro Que Rojo,track,2020,186133,80,4
+Mamichula - con Nicki Nicole,Trueno,trueno,Atrevido,track,2020,219201,75,4
+Hawái,Maluma,maluma,PAPI JUANCHO,track,2020,199112,80,4
+Como Panas,Bryant Myers,bryant myers,Bendecido,track,2020,198997,73,4
+La Forma en Que Me Miras,Super Yei,super yei,Eternity,track,2020,307435,72,4
+La Jeepeta - Remix,Nio Garcia,nio garcia,La Jeepeta (Remix),track,2020,345240,68,4
+Vete Pal Carajo,Yan Block,yan block,Vete Pal Carajo,track,2020,176146,62,4
+Hablamos Mañana,Bad Bunny,bad bunny,YHLQMDLG,track,2020,240253,70,4
+YO VISTO ASÍ,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,191526,69,4
+La Zona,Bad Bunny,bad bunny,YHLQMDLG,track,2020,136892,70,4
+Mi Error,Eladio Carrion,eladio carrion,Sauce Boyz,track,2020,215133,60,4
+BORRAXXA,Feid,feid,FERXXO (VOL 1: M.O.R),track,2020,223480,73,4
+Reggaetonera,Anuel AA,anuel aa,Emmanuel,track,2020,212312,62,4
+Amarillo,J Balvin,j balvin,Colores,track,2020,157733,70,4
+Está Cabrón Ser Yo,Bad Bunny,bad bunny,YHLQMDLG,track,2020,227939,70,4
+Explícito,Myke Towers,myke towers,Para Mi Ex,track,2020,195066,65,4
+Dolerme,ROSALÍA,rosalia,Dolerme,track,2020,143975,59,4
+Smartphone,Soto Asa,soto asa,Coupé,track,2020,179303,58,4
+Ayer Me Llamó Mi Ex,KHEA,khea,Ayer Me Llamó Mi Ex,track,2020,206760,69,4
+Side Bitch,Luar La L,luar la l,L3tra,track,2020,199700,63,4
+Profecía,Ñengo Flow,nengo flow,Profecía,track,2020,205700,69,4
+Yo Perreo Sola,Bad Bunny,bad bunny,YHLQMDLG,track,2020,172127,75,4
+Fuera del Planeta - Remix,Eloy,eloy,Clasicos 2008-2010,track,2020,225080,75,4
+Una Noche,Liderj,liderj,Una Noche,track,2020,156378,52,4
+Parcerita,Myke Towers,myke towers,Easy Money Baby,track,2020,207373,63,4
+GIRL LIKE ME,Black Eyed Peas,black eyed peas,TRANSLATION,track,2020,222522,80,4
+Embriagá,Bryant Myers,bryant myers,Bendecido,track,2020,189013,54,4
+Mi Carta,Beéle,beele,Mi Carta,track,2020,184920,70,4
+La Mitad,Camilo,camilo,Por Primera Vez,track,2020,177791,76,4
+Como vas?,Kidd Keo,kidd keo,BACK TO ROCKPORT,track,2020,160266,62,4
+TE MUDASTE,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,130013,76,4
+Medusa,JHAYCO,jhayco,Medusa,track,2020,305333,68,4
+Soliá,Bad Bunny,bad bunny,YHLQMDLG,track,2020,159282,73,4
+PORFA,Feid,feid,FERXXO (VOL 1: M.O.R),track,2020,232653,73,4
+Bichiyal,Bad Bunny,bad bunny,YHLQMDLG,track,2020,196500,76,4
+Carita de Inocente (feat. Myke Towers) - Remix,Prince Royce,prince royce,Carita de Inocente (feat. Myke Towers) [Remix],track,2020,191924,63,4
+Azul,J Balvin,j balvin,Colores,track,2020,205933,79,4
+38,JC Reyes,jc reyes,38,track,2020,178965,54,4
+LA DROGA,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,162299,71,4
+Keii,Anuel AA,anuel aa,Keii,track,2020,210000,65,4
+Favorito,Camilo,camilo,Por Primera Vez,track,2020,209765,71,4
+<3,Bad Bunny,bad bunny,YHLQMDLG,track,2020,157967,70,4
+La Difícil,Bad Bunny,bad bunny,YHLQMDLG,track,2020,163084,73,4
+Elegí (feat. Dímelo Flow),Rauw Alejandro,rauw alejandro,Elegí (feat. Dímelo Flow),track,2020,197721,73,4
+Me Olvidé De Los 2,Rels B,rels b,LA ISLA LP,track,2020,179066,72,4
+Besalo,El Alfa,el alfa,El Androide,track,2020,163265,70,4
+Algo Mágico,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,261603,73,4
+Y Que Fue?,Don Miguelo,don miguelo,Y Que Fue?,track,2020,163759,77,4
+Rojo,J Balvin,j balvin,Colores,track,2020,150720,73,4
+"Nathy Peluso: Bzrp Music Sessions, Vol. 36/66",Bizarrap,bizarrap,"Nathy Peluso: Bzrp Music Sessions, Vol. 36/66",track,2020,171215,66,4
+Reloj,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,231594,74,4
+CORAZÓN SIN VIDA,Aitana,aitana,11 RAZONES,track,2020,181200,62,4
+"La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",Jay Wheeler,jay wheeler,"La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",track,2020,382555,66,4
+Madrid (feat. Myke Towers),Maluma,maluma,PAPI JUANCHO,track,2020,198569,66,4
+Llegará,Myke Towers,myke towers,Llegará,track,2020,207573,62,4
+Pensándote,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,216413,74,4
+CANCIÓN CON YANDEL,Yandel,yandel,LAS QUE NO IBAN A SALIR,track,2020,209180,70,4
+Sugar Mami,La Zowi,la zowi,Sugar Mami,track,2020,176326,52,4
+La Nota,Manuel Turizo,manuel turizo,La Nota,track,2020,216107,64,4
+Subiendo De Nivel - Remix,JHAYCO,jhayco,Famouz Reloaded,track,2020,249253,61,4
+Que Calor,Major Lazer,major lazer,Music is the Weapon,track,2020,169997,68,4
+La Prisión,Rels B,rels b,LA ISLA LP,track,2020,199897,67,4
+TE DESEO LO MEJOR,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,139576,71,4
+MAKINE,Cojo Crazy,cojo crazy,MAKINE,track,2020,282723,65,4
+Jangueo,Anuel AA,anuel aa,Emmanuel,track,2020,231745,63,4
+René,Residente,residente,René,track,2020,457591,67,4
+Todavía,Borja Rubio,borja rubio,Todavía,track,2020,208988,50,4
+UN DIA (ONE DAY) (Feat. Tainy),J Balvin,j balvin,UN DIA (ONE DAY) (Feat. Tainy),track,2020,232253,72,4
+Michael Myers,Myke Towers,myke towers,Michael Myers,track,2020,251533,60,4
+Algo Que Se Quede,Grupo Niche,grupo niche,40,track,2020,220135,73,4
+Singapur,El Alfa,el alfa,El Androide,track,2020,178407,68,4
+Ignorantes,Bad Bunny,bad bunny,YHLQMDLG,track,2020,210606,70,4
+La Última Vez,Camin,camin,La Última Vez,track,2020,176842,53,4
+Morado,J Balvin,j balvin,Colores,track,2020,200266,70,4
+Cuando Fue,Jay Wheeler,jay wheeler,Platonicos,track,2020,184420,68,4
+A Un Paso De La Luna,Ana Mena,ana mena,A Un Paso De La Luna,track,2020,167313,54,4
+Ronca,Myke Towers,myke towers,Easy Money Baby,track,2020,149733,57,4
+ANTES QUE SE ACABE,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,221186,73,4
+PA' ROMPERLA,Bad Bunny,bad bunny,LAS QUE NO IBAN A SALIR,track,2020,194200,66,4
+Partido a Partido,Leiva,leiva,Partido a Partido,track,2020,220810,52,4
+De Vuelta Pa' La Vuelta,Daddy Yankee,daddy yankee,De Vuelta Pa' La Vuelta,track,2020,231593,69,4
+Si Se Da,Myke Towers,myke towers,Easy Money Baby,track,2020,237013,60,4
+La Cama (Remix),Lunay,lunay,La Cama (Remix),track,2020,330240,63,4
+Fabuloso,Sech,sech,1 of 1,track,2020,200494,61,4
+No Fue - Remix,Leebrian,leebrian,"No Fue (feat. Brray, Feid) [Remix]",track,2020,317789,66,4
+Color Esperanza 2020,Diego Torres,diego torres,Color Esperanza 2020,track,2020,217546,67,4
+Mi Niña,Wisin,wisin,Mi Niña,track,2020,213313,66,4
+Funeral,Myke Towers,myke towers,Easy Money Baby,track,2020,214733,58,4
+Caramelo - Remix,Ozuna,ozuna,ENOC,track,2020,233160,69,4
+Fuera del Planeta,Eloy,eloy,Clasicos 2008-2010,track,2020,225000,75,4
+Relación - Remix,Sech,sech,Relación (Remix),track,2020,247308,68,4
+La Prision,Ñengo Flow,nengo flow,The Goat,track,2020,197346,61,4
+HOY COBRÉ,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,162151,69,4
+Fabricando Fantasías - Salsa Version,Tito Nieves,tito nieves,Salsa Romántica vol. 1,track,2020,272266,69,4
+Donde,Ñengo Flow,nengo flow,The Goat,track,2020,245354,61,4
+Sur y Norte,Ñengo Flow,nengo flow,The Goat,track,2020,215172,58,4
+Moon Talk,Kidd Keo,kidd keo,BACK TO ROCKPORT,track,2020,184500,60,4
+Follow,KAROL G,karol g,Follow,track,2020,203093,63,4
+Only Fans - Remix,Young Martino,young martino,Only Fans (Remix),track,2020,422576,57,4
+TKN (feat. Travis Scott),ROSALÍA,rosalia,TKN (feat. Travis Scott),track,2020,129370,67,4
+Te Esperé,Jesse & Joy,jesse joy,Aire (Versión Día),track,2020,216000,73,4
+Quiéreme Mientras Se Pueda,Manuel Turizo,manuel turizo,Quiéreme Mientras Se Pueda,track,2020,191945,64,4
+Blin Blin,Bad Gyal,bad gyal,Blin Blin,track,2020,144613,55,4
+3 de Abril,Anuel AA,anuel aa,3 de Abril,track,2020,224285,60,4
+Conversacion Con Dios,Anuel AA,anuel aa,Conversacion Con Dios,track,2020,259583,59,4
+Parce (feat. Justin Quiles),Maluma,maluma,PAPI JUANCHO,track,2020,248345,68,4
+Fake Capo - Remix,Karetta el Gucci,karetta el gucci,Fake Capo (Remix),track,2020,230863,50,4
+Gan-Ga,Bryant Myers,bryant myers,Bendecido,track,2020,194700,55,4
+Hennessy,Eladio Carrion,eladio carrion,Sauce Boyz,track,2020,184405,59,4
+Activa,Bryant Myers,bryant myers,Bendecido,track,2020,221055,55,4
+Como no te voy a querer,JdM,jdm,Como no te voy a querer,track,2020,228223,49,4
+LHNA,RobGz,robgz,LHNA,track,2020,200145,60,4
+Trendy,Rvfv,rvfv,Trendy,track,2020,183564,49,4
+Mala,JC el Diamante,jc el diamante,Mala,track,2020,206861,48,4
+Singapur (Remix),El Alfa,el alfa,Singapur (Remix),track,2020,287787,59,4
+lamento de una supernova,Ralphie Choo,ralphie choo,lamento de una supernova,track,2020,147533,53,4
+Por Primera Vez,Camilo,camilo,Por Primera Vez,track,2020,182708,65,4
+Del Mar,Ozuna,ozuna,ENOC,track,2020,214506,67,4
+Rain II,Trueno,trueno,Atrevido,track,2020,198078,63,4
+Miedito o Qué? (feat. KAROL G),Ovy On The Drums,ovy on the drums,Miedito o Qué? (feat. KAROL G),track,2020,209905,68,4
+Enchule,Rauw Alejandro,rauw alejandro,Afrodisíaco,track,2020,185718,65,4
+Pero Ya No,Bad Bunny,bad bunny,YHLQMDLG,track,2020,160638,69,4
+Dónde Estás,KHEA,khea,Dónde Estás,track,2020,153560,64,4
+24/7,Bryant Myers,bryant myers,Bendecido,track,2020,199760,54,4
+Relación,Sech,sech,1 of 1,track,2020,184254,68,4
+BAD CON NICKY,Bad Bunny,bad bunny,LAS QUE NO IBAN A SALIR,track,2020,202240,62,4
+Diosa - Remix,Myke Towers,myke towers,Diosa (Remix),track,2020,259242,60,4
+Easy - Remix,JHAYCO,jhayco,Famouz Reloaded,track,2020,219866,57,4
+Narcos,Anuel AA,anuel aa,Emmanuel,track,2020,259250,63,4
+Que Se Freezen los Relojes,Jon Z,jon z,Perdonen la Espera,track,2020,281959,51,4
+Tu Eres Un Bom Bom - Remix,Kafu Banton,kafu banton,Tu Eres Un Bom Bom (Remix),track,2020,173453,54,4
+ADMV,Maluma,maluma,ADMV,track,2020,193699,65,4
+Me Gusta,Shakira,shakira,Me Gusta,track,2020,190570,66,4
+Si Me Dices Que Sí,Reik,reik,Si Me Dices Que Sí,track,2020,211651,67,4
+Mi Cuarto,Jerry Di,jerry di,DI LETRA,track,2020,197586,70,4
+Reina Pepiada,Alvaro Diaz,alvaro diaz,Diaz Antes,track,2020,244360,72,4
+SORRY PAPI,Bad Bunny,bad bunny,EL ÚLTIMO TOUR DEL MUNDO,track,2020,163053,71,4
+No Quiero Verte,Rvfv,rvfv,No Quiero Verte,track,2020,201142,53,4
+Te Boté - Remix,Nio Garcia,nio garcia,Now Or Never,track,2020,417920,66,4
+Tiroteo - Remix,Marc Seguí,marc segui,Tiroteo (Remix),track,2021,321555,85,4
+Flores en Anónimo,Eladio Carrion,eladio carrion,Sauce Boyz 2,track,2021,170000,67,4
+23 Preguntas,Anuel AA,anuel aa,23 Preguntas,track,2021,251221,72,4
+Miénteme,TINI,tini,Miénteme,track,2021,165275,70,4
+Aquel Nap ZzZz,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,295038,80,4
+Me Hace Daño Verte,Fresto Music,fresto music,Trovando El Son,track,2021,300791,76,4
+Tacones Rojos,Sebastian Yatra,sebastian yatra,Tacones Rojos,track,2021,189320,70,4
+Desenfocao',Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,170535,79,4
+EL BARCO,KAROL G,karol g,KG0516,track,2021,203506,76,4
+COSAS QUE NO TE DIJE,SAIKO,saiko,COSAS QUE NO TE DIJE,track,2021,224725,79,4
+Cosa Guapa,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,255712,74,4
+MÍRENME AHORA,Myke Towers,myke towers,LYKE MIKE,track,2021,187897,69,4
+Universitaria,Quevedo,quevedo,Universitaria,track,2021,133022,58,4
+Volando,Mora,mora,Primer Dia de Clases,track,2021,188571,65,4
+ALMAS GEMELAS,Myke Towers,myke towers,ALMAS GEMELAS,track,2021,235411,76,4
+Sin Frenos,Eladio Carrion,eladio carrion,Sauce Boyz 2,track,2021,211394,67,4
+Dile (Homenaje),JHAYCO,jhayco,Timelezz,track,2021,228933,63,4
+512,Mora,mora,Primer Dia de Clases,track,2021,193636,75,4
+Todo De Ti,Rauw Alejandro,rauw alejandro,Todo De Ti,track,2021,199604,73,4
+Tuyo,Mora,mora,Primer Dia de Clases,track,2021,269714,79,4
+Nostálgico,Rvssian,rvssian,Nostálgico,track,2021,209883,76,4
+Hola Como Vas,Eladio Carrion,eladio carrion,Sauce Boyz 2,track,2021,198739,71,4
+Desesperados,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,224996,79,4
+Ley Seca,JHAYCO,jhayco,Timelezz,track,2021,263253,72,4
+Mon Amour - Remix,zzoilo,zzoilo,Mon Amour (Remix),track,2021,179940,77,4
+Air Drop,Bryant Myers,bryant myers,Air Drop,track,2021,205565,68,4
+Pepas,Farruko,farruko,Pepas,track,2021,287120,79,4
+Cúrame,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,164705,76,4
+Todo o Nada,Eladio Carrion,eladio carrion,Monarca,track,2021,159704,66,4
+Ateo,C. Tangana,c tangana,Ateo,track,2021,239925,61,4
+Tokyo,JHAYCO,jhayco,Timelezz,track,2021,202160,72,4
+Pareja Del Año,Sebastian Yatra,sebastian yatra,Pareja Del Año,track,2021,195053,70,4
+Volví,Aventura,aventura,Volví,track,2021,230125,76,4
+911 (Remix),Sech,sech,911 (Remix),track,2021,208631,69,4
+CONTIGO VOY A MUERTE,KAROL G,karol g,KG0516,track,2021,219960,73,4
+Me Gustas Natural,Eladio Carrion,eladio carrion,Sauce Boyz 2,track,2021,170078,73,4
+Volando - Remix,Mora,mora,Volando (Remix),track,2021,273474,78,4
+La Niña de la Escuela,Lola Indigo,lola indigo,La Niña,track,2021,204414,64,4
+Giuseppe,Luar La L,luar la l,Giuseppe,track,2021,133480,65,4
+EXPERIMENTO,Myke Towers,myke towers,EXPERIMENTO,track,2021,222728,70,4
+BEBÉ,Camilo,camilo,Mis Manos,track,2021,197284,72,4
+Bandido - Remix,Cyril Kamer,cyril kamer,Bandido (Remix),track,2021,246575,58,4
+La Old Skul,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,214857,77,4
+Yonaguni,Bad Bunny,bad bunny,Yonaguni,track,2021,206710,80,4
+Loco,Justin Quiles,justin quiles,La Última Promesa,track,2021,231603,68,4
+34 Amor y Mafia,JC Reyes,jc reyes,Los Green Lanters,track,2021,206954,65,4
+"Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",Bizarrap,bizarrap,"Eladio Carrion: Bzrp Music Sessions, Vol. 40/66",track,2021,164895,70,4
+"Tiago PZK: Bzrp Music Sessions, Vol. 48/66",Bizarrap,bizarrap,"Tiago PZK: Bzrp Music Sessions, Vol. 48/66",track,2021,160000,68,4
+Manos de Tijera,Yiyo Sarante,yiyo sarante,Manos de Tijera,track,2021,230112,76,4
+SR DE LOS CIELOS,Myke Towers,myke towers,LYKE MIKE,track,2021,174602,62,4
+Angelito,Ovy On The Drums,ovy on the drums,Angelito,track,2021,227513,67,4
+Fiel - Remix,Wisin,wisin,Fiel (Remix),track,2021,349546,63,4
+Te Conoci Perriando,Mora,mora,Primer Dia de Clases,track,2021,190106,66,4
+Eso Es Un Vibe,Omar Courtz,omar courtz,Eso Es Un Vibe,track,2021,212500,66,4
+Primer Dia de Clases,Mora,mora,Primer Dia de Clases,track,2021,146823,65,4
+Mujeriego,Ryan Castro,ryan castro,Mujeriego,track,2021,142500,69,4
+Desaparecer,Mora,mora,Primer Dia de Clases,track,2021,165973,64,4
+Sexo Virtual,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,208291,70,4
+Ella,El Bobe,el bobe,Ella,track,2021,165007,54,4
+El Bloque,El Daddy,el daddy,El Bloque,track,2021,184800,52,4
+1942,Anuel AA,anuel aa,Las Leyendas Nunca Mueren,track,2021,178252,65,4
+Paz Mental,Eladio Carrion,eladio carrion,SEN2 KBRN VOL. 1,track,2021,151500,60,4
+200 COPAS,KAROL G,karol g,KG0516,track,2021,217213,73,4
+METALLICA,Yung Beef,yung beef,El Plugg 2,track,2021,228218,60,4
+Su Payita (Gramos),Bad Gyal,bad gyal,Su Payita (Gramos),track,2021,140586,58,4
+Esquina,Camin,camin,Orígenes,track,2021,181038,53,4
+Millones,Camilo,camilo,Mis Manos,track,2021,221749,67,4
+Uva Bombom,Rochy RD,rochy rd,Uva Bombom,track,2021,136427,63,4
+Vida de Rico,Camilo,camilo,Mis Manos,track,2021,184721,69,4
+SHORTY QUE TE VAYA BN <3,Rels B,rels b,SHORTY QUE TE VAYA BN <3,track,2021,219681,68,4
+Llori Pari,Alvaro Diaz,alvaro diaz,Felicilandia,track,2021,215026,72,4
+Ella No Es Tuya - Remix,Rochy RD,rochy rd,Ella No Es Tuya (Remix),track,2021,218000,65,4
+Nueva York (Tot*),Bad Gyal,bad gyal,Nueva York (Tot*),track,2021,154173,55,4
+Promesa,Alex Gargolas,alex gargolas,Gárgolas Forever,track,2021,206706,63,4
+DUELE EL CORAZON,Enrique Iglesias,enrique iglesias,FINAL (Vol.1),track,2021,199693,72,4
+Aloha,Maluma,maluma,"Aloha (feat. Darell, Mambo Kingz & Dj Luian)",track,2021,241659,70,4
+Problemón,Alvaro Diaz,alvaro diaz,Felicilandia,track,2021,192613,73,4
+Malbec,Duki,duki,Desde el Fin del Mundo,track,2021,175890,66,4
+Conexión,Foreign Teck,foreign teck,Conexión,track,2021,288282,64,4
+Qué Más Pues?,J Balvin,j balvin,JOSE,track,2021,217360,71,4
+"Anuel AA: Bzrp Music Sessions, Vol. 46/66",Bizarrap,bizarrap,"Anuel AA: Bzrp Music Sessions, Vol. 46/66",track,2021,201507,61,4
+12 AM,D Jam Saw,d jam saw,12 AM,track,2021,215172,54,4
+North Carolina,Anuel AA,anuel aa,Las Leyendas Nunca Mueren,track,2021,176538,64,4
+Socio,Eladio Carrion,eladio carrion,Sauce Boyz 2,track,2021,253500,63,4
+Medallo,Blessd,blessd,Hecho En Medellín,track,2021,233453,73,4
+Rimmel,Quevedo,quevedo,Rimmel,track,2021,180577,58,4
+Tus Vueltas,Milo j,milo j,Tus Vueltas,track,2021,122181,72,4
+Si Te Interesa,Beéle,beele,Si Te Interesa,track,2021,232500,72,4
+No Te Deseo el Mal,Eladio Carrion,eladio carrion,Sauce Boyz 2,track,2021,232560,63,4
+Cuando Ella Sale,Morad,morad,Cuando Ella Sale,track,2021,222798,61,4
+FRIKI,Feid,feid,INTER SHIBUYA (FERXXO EDITION),track,2021,145120,71,4
+Te Pienso,JC Reyes,jc reyes,Los Green Lanters,track,2021,226024,56,4
+"Morad: Bzrp Music Sessions, Vol. 47/66",Bizarrap,bizarrap,"Morad: Bzrp Music Sessions, Vol. 47/66",track,2021,177583,64,4
+Lola,Jedis,jedis,Lola,track,2021,263000,76,4
+FEEL ME??,Trueno,trueno,FEEL ME??,track,2021,187331,64,4
+Una Vaina Loca,Fuego,fuego,Una Vaina Loca,track,2021,226187,61,4
+No Contesta,Ele A El Dominio,ele a el dominio,No Contesta,track,2021,189821,66,4
+DANCE CRIP,Trueno,trueno,DANCE CRIP,track,2021,165019,64,4
+Rakata - Remix,Moncho Chavea,moncho chavea,Rakata (Remix),track,2021,329920,50,4
+FUMETEO - Remix,Feid,feid,INTER SHIBUYA (FERXXO EDITION),track,2021,214880,61,4
+JOVEN LEYENDA,Myke Towers,myke towers,LYKE MIKE,track,2021,192690,60,4
+Los Bo,JHAYCO,jhayco,Los Bo,track,2021,239120,61,4
+JUGADOR FRANQUICIA,Myke Towers,myke towers,LYKE MIKE,track,2021,171663,61,4
+Locura y Maldad,Cris MJ,cris mj,Locura y Maldad,track,2021,200000,70,4
+Morenita,HUGEL,hugel,Morenita,track,2021,176491,68,4
+Colorín Colorado,Justin Quiles,justin quiles,La Última Promesa,track,2021,194989,62,4
+La Boca Junta,Melendi,melendi,Likes y Cicatrices,track,2021,228866,56,4
+Persia - Remix,Jossef,jossef,Persia (Remix),track,2021,250906,69,4
+Mónaco,LAGOS,lagos,Clásicos,track,2021,192313,78,4
+Jóvenes Millonarios,Eladio Carrion,eladio carrion,Jóvenes Millonarios,track,2021,182189,57,4
+Exit,Anuel AA,anuel aa,Las Leyendas Nunca Mueren,track,2021,235968,61,4
+Habla Claro,Eladio Carrion,eladio carrion,Habla Claro,track,2021,230000,56,4
+EL MAKINON,KAROL G,karol g,KG0516,track,2021,209160,69,4
+como si no importara,Emilia,emilia,como si no importara,track,2021,173052,62,4
+Mcgregor,Anuel AA,anuel aa,Las Leyendas Nunca Mueren,track,2021,283232,63,4
+Antes,Anuel AA,anuel aa,Los Dioses,track,2021,206586,60,4
+Colorin Colorado,Mike Morato,mike morato,Colorin Colorado,track,2021,223268,52,4
+Se Mandó a Mudar,Mdmoney,mdmoney,2060,track,2021,246333,53,4
+SUBEME LA RADIO,Enrique Iglesias,enrique iglesias,FINAL (Vol.1),track,2021,207680,70,4
+Happy Birthday,Tempo,tempo,Happy Birthday,track,2021,155629,68,4
+Travesuras - Remix,Nio Garcia,nio garcia,Travesuras (Remix),track,2021,324426,61,4
+Llueve sobre mojado,Pablo Alborán,pablo alboran,Llueve sobre mojado,track,2021,228783,55,4
+Fiel,Los Legendarios,los legendarios,Los Legendarios 001,track,2021,261665,66,4
+2/Catorce,Rauw Alejandro,rauw alejandro,VICE VERSA,track,2021,205714,69,4
+44,Bad Gyal,bad gyal,Warm Up,track,2021,185466,53,4
+"Para Aute: Pasaba por Aquí (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodríguez, Vanesa Martin & Xoel López)",Joaquín Sabina,joaquin sabina,"Para Aute: Pasaba por Aquí (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodríguez, Vanesa Martin & Xoel López)",track,2021,178811,59,4
+Como Antes,Rels B,rels b,Como Antes,track,2021,142576,67,4
+SI TÚ SUPIERAS - Bonus Track,Feid,feid,INTER SHIBUYA - LA MAFIA,track,2021,196373,70,4
+KESI,Camilo,camilo,Mis Manos,track,2021,177255,61,4
+"Nicky Jam: Bzrp Music Sessions, Vol. 41/66",Bizarrap,bizarrap,"Nicky Jam: Bzrp Music Sessions, Vol. 41/66",track,2021,158086,61,4
+Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,tainy,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),track,2021,207301,74,4
+Tan Bonita,Piso 21,piso 21,El Amor En Los Tiempos Del Perreo,track,2021,211998,69,4
+"Ptazeta: Bzrp Music Sessions, Vol. 45/66",Bizarrap,bizarrap,"Ptazeta: Bzrp Music Sessions, Vol. 45/66",track,2021,161485,61,4
+Súbelo,Anuel AA,anuel aa,Las Leyendas Nunca Mueren,track,2021,239797,62,4
+AM Remix,Nio Garcia,nio garcia,AM Remix,track,2021,261334,69,4
+"L-Gante: Bzrp Music Sessions, Vol. 38/66",Bizarrap,bizarrap,"L-Gante: Bzrp Music Sessions, Vol. 38/66",track,2021,192347,64,4
+BICHOTA,KAROL G,karol g,KG0516,track,2021,178693,69,4
+Dame Lu,Dei V,dei v,Yin Yang,track,2021,197253,61,4
+UN DIA (ONE DAY),J Balvin,j balvin,JOSE,track,2021,232146,73,4
+De Museo,Bad Bunny,bad bunny,De Museo,track,2021,209770,64,4
+Esta Dejá,JHAYCO,jhayco,Timelezz,track,2021,241973,61,4
+PIN PIN,Myke Towers,myke towers,LYKE MIKE,track,2021,159572,59,4
+Sobrio,Maluma,maluma,Sobrio,track,2021,201180,68,4
+MAFIOSA,NATHY PELUSO,nathy peluso,MAFIOSA,track,2021,266217,56,4
+Solo,Omar Montes,omar montes,Solo,track,2021,204043,49,4
+Julieta,LATIN MAFIA,latin mafia,Julieta,track,2021,210413,74,4
+Un beso de improviso,Ana Mena,ana mena,Un beso de improviso,track,2021,171194,51,4
+Liit,Çantamarta,cantamarta,Liit,track,2021,167449,57,4
+SEJODIOTO,KAROL G,karol g,SEJODIOTO,track,2021,181106,68,4
+Idiota,Morat,morat,¿A Dónde Vamos?,track,2021,183693,67,4
+Un Palo,JC Reyes,jc reyes,Los Green Lanters,track,2021,172214,53,4
+Ritmo,Raffa Fl,raffa fl,Ritmo,track,2021,183810,68,4
+Slim Thick,Bad Gyal,bad gyal,Sound System: The Final Releases,track,2021,144013,52,4
+Índigo,Camilo,camilo,Índigo,track,2021,214933,64,4
+AMOR DE MI VIDA,Feid,feid,INTER SHIBUYA (FERXXO EDITION),track,2021,189613,68,4
+Mala Mía,LIT killah,lit killah,MAWZ,track,2021,190928,66,4
+Sin que lo sepan,JC Reyes,jc reyes,Los Green Lanters,track,2021,169565,53,4
+Nanae,Jay Menez,jay menez,Nanae,track,2021,193157,62,4
+Berlín,Aitana,aitana,Berlín,track,2021,146493,51,4
+Sex Toy,Kaydy Cain,kaydy cain,Sex Toy,track,2021,145200,48,4
+Lo Que Hará Mi Boca,Antonio José,antonio jose,Fénix,track,2021,174653,58,4
+Además de Mí - Remix,Rusherking,rusherking,Además de Mí (Remix),track,2021,330040,65,4
+Flamenkito,Lérica,lerica,Cocoterapia,track,2021,202153,50,4
+Canción Bonita,Carlos Vives,carlos vives,Canción Bonita,track,2021,169559,63,4
+Aroma,JC el Diamante,jc el diamante,Aroma,track,2021,189333,48,4
+REDBULL,Eladio Carrion,eladio carrion,REDBULL,track,2021,192653,51,4
+Fotitos,JC el Diamante,jc el diamante,Fotitos,track,2021,192258,48,4
+YaMeFui,Bizarrap,bizarrap,YaMeFui,track,2021,182594,61,4
+RD,Anuel AA,anuel aa,Los Dioses,track,2021,198386,60,4
+Dos Problemas (feat. Big Soto) - Remix,Blessd,blessd,Dos Problemas (feat. Big Soto) [Remix],track,2021,243216,64,4
+"Snow Tha Product: Bzrp Music Sessions, Vol. 39/66",Bizarrap,bizarrap,"Snow Tha Product: Bzrp Music Sessions, Vol. 39/66",track,2021,177442,64,4
+Beba Qué Quieres Que Haga,Omar Montes,omar montes,Beba Qué Quieres Que Haga,track,2021,178263,50,4
+Aprendiendo El Sexo,Bad Gyal,bad gyal,Warm Up,track,2021,147040,51,4
+Flow 2000,Bad Gyal,bad gyal,Flow 2000,track,2021,155213,58,4
+Pintao,Duki,duki,Desde el Fin del Mundo,track,2021,167340,65,4
+Cuando Sera,Mora,mora,Primer Dia de Clases,track,2021,176000,60,4
+Una Vida Para Recordar,Piso 21,piso 21,El Amor En Los Tiempos Del Perreo,track,2021,215086,66,4
+PAM,Justin Quiles,justin quiles,La Última Promesa,track,2021,201000,58,4
+La Cartita Remix (feat. Mala Rodríguez),Rasel,rasel,La Cartita Remix (feat. Mala Rodríguez),track,2021,202106,48,4
+Babysita </3,Alvaro Diaz,alvaro diaz,Felicilandia,track,2021,281880,70,4
+"No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",BANDIDO,bandido,"No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",track,2021,280274,63,4
+BURBERRY,Myke Towers,myke towers,LYKE MIKE,track,2021,281218,58,4
+100 MILLONES,Bad Bunny,bad bunny,100 MILLONES,track,2021,237459,65,4
+TOP 5,Duki,duki,Temporada de Reggaetón,track,2021,146815,60,4
+Si Esta Casa Hablara,Joel Santos,joel santos,Jslove,track,2021,231784,58,4
+Linda,Tokischa,tokischa,Linda,track,2021,144018,65,4
+KESI - Remix,Camilo,camilo,KESI (Remix),track,2021,176575,66,4
+"Ay, DiOs Mío!",KAROL G,karol g,KG0516,track,2021,189413,68,4
+¿Qué Nos Pasó?,Anuel AA,anuel aa,¿Qué Nos Pasó?,track,2022,245738,78,4
+La Jumpa,Arcángel,arcangel,La Jumpa,track,2022,255693,73,4
+Una Noche en Medellín,Cris MJ,cris mj,Una Noche en Medellín,track,2022,153750,80,4
+Flow 2000 - Remix,Bad Gyal,bad gyal,Flow 2000 (Remix),track,2022,168520,65,4
+Un Coco,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,196412,80,4
+Mbappe,Eladio Carrion,eladio carrion,SEN2 KBRN VOL. 2,track,2022,147692,72,4
+LA INOCENTE,Mora,mora,MICRODOSIS,track,2022,202173,79,4
+LA FAMA,ROSALÍA,rosalia,MOTOMAMI,track,2022,188121,78,4
+Fuera del mercado,Danny Ocean,danny ocean,@dannocean,track,2022,159849,76,4
+Dos Mil 16,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,208615,78,4
+DESPECHÁ,ROSALÍA,rosalia,DESPECHÁ,track,2022,157017,73,4
+Enséñame a Bailar,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,176000,79,4
+MEMORIAS,Mora,mora,MICRODOSIS,track,2022,228750,75,4
+Efecto,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,213061,83,4
+Si No Estás,iñigo quintero,inigo quintero,Si No Estás,track,2022,184061,80,4
+Tuenti - Remix,Raul Clyde,raul clyde,Tuenti (Remix),track,2022,184276,59,4
+Lately,Luar La L,luar la l,Lately,track,2022,184072,67,4
+No es lo mío,John Pollõn,john pollon,No es lo mío,track,2022,154285,58,4
+Neverita,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,173119,81,4
+Dominicana,Rvfv,rvfv,Dominicana,track,2022,216000,64,4
+Quiero Decirte,Abraham Mateo,abraham mateo,Quiero Decirte,track,2022,222348,78,4
+Estrellita De Madrugada - Original 2022 Remaster (Ft. Daddy Yankee),Omega,omega,Estrellita De Madrugada (Ft. Daddy Yankee),track,2022,213472,63,4
+VVS,Dei V,dei v,VVS,track,2022,164822,64,4
+Mi Luz - ft. Rels B,Rvfv,rvfv,NASTU,track,2022,168000,67,4
+Vacile,Yan Block,yan block,Vacile,track,2022,140239,75,4
+7 Lágrimas - Remix,Soge Culebra,soge culebra,7 Lágrimas (Remix),track,2022,202894,68,4
+Quieren Ser Yo,Dei V,dei v,Quieren Ser Yo,track,2022,216000,67,4
+Ojitos Lindos,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,258298,85,4
+ESCALOFRÍOS,Mora,mora,MICRODOSIS,track,2022,138510,72,4
+BB ;(,SAIKO,saiko,BB ;(,track,2022,180363,67,4
+Muchoperro,Juseph,juseph,Muchoperro,track,2022,219534,64,4
+La Bachata,Manuel Turizo,manuel turizo,La Bachata,track,2022,162637,79,4
+Moscow Mule,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,245939,85,4
+"Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",La Pantera,la pantera,"Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",track,2022,413110,66,4
+Hey Mor,Ozuna,ozuna,OzuTochi,track,2022,196600,79,4
+Besos Moja2,Wisin & Yandel,wisin yandel,La Última Misión,track,2022,229064,71,4
+Tití Me Preguntó,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,243716,86,4
+Tarot,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,237894,80,4
+Normal,Feid,feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,track,2022,171880,76,4
+MODELITO,Mora,mora,PARAÍSO,track,2022,190496,72,4
+Un Verano Sin Ti,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,148143,77,4
+APA,Mora,mora,PARAÍSO,track,2022,199831,66,4
+Me Porto Bonito,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,178567,84,4
+COMO HAS ESTAU?,Mora,mora,PARAÍSO,track,2022,127333,69,4
+cómo dormiste?,Rels B,rels b,cómo dormiste?,track,2022,112572,75,4
+"Quevedo: Bzrp Music Sessions, Vol. 52/66",Bizarrap,bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52/66",track,2022,198937,82,4
+Delincuente,Tokischa,tokischa,Delincuente,track,2022,226490,71,4
+Korazón de Piedra,Yan Block,yan block,12 AM,track,2022,162220,64,4
+Pantysito,Alejo,alejo,Pantysito,track,2022,240413,67,4
+Monstruo,Anuel AA,anuel aa,LLNM2,track,2022,235707,67,4
+Te Felicito,Shakira,shakira,Te Felicito,track,2022,172235,71,4
+Solo Conmigo,Romeo Santos,romeo santos,"Fórmula, Vol. 3",track,2022,254914,70,4
+MARGIELA,Omar Courtz,omar courtz,MARGIELA,track,2022,171291,65,4
+CASUALIDAD,Mora,mora,PARAÍSO,track,2022,183709,63,4
+Feliz,Chimbala,chimbala,Feliz,track,2022,177240,64,4
+Yo No Soy Celoso,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,230704,77,4
+pa quererte,Rels B,rels b,pa quererte,track,2022,167272,70,4
+Respuesta Cero,Quevedo,quevedo,Respuesta Cero,track,2022,203951,59,4
+La Corriente,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,198367,76,4
+CALENTÓN,Mora,mora,PARAÍSO,track,2022,202967,61,4
+Tigini,Rvfv,rvfv,Tigini,track,2022,175555,59,4
+QUE HABILIDAD,Mora,mora,PARAÍSO,track,2022,233552,65,4
+Dharma,Sebastian Yatra,sebastian yatra,Dharma,track,2022,195760,60,4
+Andrea,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,339611,79,4
+Otro Atardecer,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,244444,82,4
+Aguacero,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,210989,77,4
+Después de la Playa,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,230400,76,4
+CHORRITO PA LAS ANIMAS,Feid,feid,SIXDO,track,2022,168133,74,4
+Maya (Remix),De La Rose,de la rose,Maya (Remix),track,2022,217258,66,4
+CANDY,ROSALÍA,rosalia,MOTOMAMI,track,2022,193488,67,4
+DOMINGO DE BOTE,Mora,mora,PARAÍSO,track,2022,190745,65,4
+La Prendo,Bad Gyal,bad gyal,La Prendo,track,2022,181986,58,4
+Un Ratito,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,176936,77,4
+De La Nada - Remix,Rokero,rokero,De La Nada (Remix),track,2022,300373,65,4
+Fantasia,Luar La L,luar la l,L3tra 2,track,2022,157635,63,4
+IBIZA,JC Reyes,jc reyes,IBIZA,track,2022,172682,56,4
+El Bolero,Yami Safdie,yami safdie,Dije Que No Me Iba a Enamorar,track,2022,206146,74,4
+MAMIII,Becky G,becky g,MAMIII,track,2022,226088,70,4
+Yandel 150,Yandel,yandel,Yandel 150,track,2022,216148,70,4
+Quieres,Aitana,aitana,Quieres,track,2022,213666,60,4
+LACONE,Polimá Westcoast,polima westcoast,LACONE,track,2022,260952,64,4
+Ferxxo 100,Feid,feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,track,2022,167760,74,4
+MERCHO,LiL CaKe,lil cake,MERCHO,track,2022,161451,65,4
+Me Fui de Vacaciones,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,180929,75,4
+mwah :3,rusowsky,rusowsky,mwah :3,track,2022,122377,67,4
+Agosto,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,139041,76,4
+Mami,Rvfv,rvfv,NASTU,track,2022,168367,63,4
+"Villano Antillano: Bzrp Music Sessions, Vol. 51/66",Bizarrap,bizarrap,"Villano Antillano: Bzrp Music Sessions, Vol. 51/66",track,2022,187500,69,4
+"Duki: Bzrp Music Sessions, Vol. 50/66",Bizarrap,bizarrap,"Duki: Bzrp Music Sessions, Vol. 50/66",track,2022,221303,66,4
+Feliz Cumpleaños Ferxxo,Feid,feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,track,2022,155960,77,4
+PROVENZA,KAROL G,karol g,PROVENZA,track,2022,210200,73,4
+La Llevo Al Cielo (Ft. Ñengo Flow),Chris Jedi,chris jedi,La Llevo Al Cielo (Ft. Ñengo Flow),track,2022,254920,72,4
+Antes de Perderte,Duki,duki,Temporada de Reggaetón 2,track,2022,176727,67,4
+Brother,Anuel AA,anuel aa,LLNM2,track,2022,209578,62,4
+506,Morat,morat,SI AYER FUERA HOY,track,2022,180552,68,4
+La Fiesta,Pedro Capó,pedro capo,La Fiesta,track,2022,201044,61,4
+EL NENE,Anuel AA,anuel aa,LLNM2,track,2022,179999,65,4
+Instagram,Blessd,blessd,Instagram,track,2022,162000,73,4
+Suelta,Jay Wheeler,jay wheeler,Emociones,track,2022,243934,61,4
+Le Pido a DIOS,Feid,feid,SIXDO,track,2022,165880,71,4
+GIVENCHY,Duki,duki,GIVENCHY,track,2022,182610,65,4
+MUSEO,Rauw Alejandro,rauw alejandro,TRAP CAKE VOL. 2,track,2022,255412,70,4
+Amigos (con Maria Becerra),Pablo Alborán,pablo alboran,Amigos (con Maria Becerra),track,2022,233755,62,4
+Si Quieren Frontear,Duki,duki,Si Quieren Frontear,track,2022,200337,61,4
+PECADO,Mora,mora,MICRODOSIS,track,2022,171976,65,4
+Marisola (Remix),Cris MJ,cris mj,Marisola (Remix),track,2022,237473,69,4
+Morocha,Milo j,milo j,Morocha,track,2022,139172,70,4
+Entre Nosotros (Remix) [con Nicki Nicole],Tiago PZK,tiago pzk,Entre Nosotros (Remix) [con Nicki Nicole],track,2022,260000,72,4
+SAOKO,ROSALÍA,rosalia,MOTOMAMI,track,2022,137533,68,4
+La Mamá de la Mamá,El Alfa,el alfa,SAGITARIO,track,2022,219000,77,4
+Descará,Lucho RK,lucho rk,Descará,track,2022,186947,53,4
+Presta,La Fortaleza Real,la fortaleza real,Presta,track,2022,186389,53,4
+Milagrosa,Milo j,milo j,Milagrosa,track,2022,140288,70,4
+Eazt,Jay Wheeler,jay wheeler,De Mi Para Ti,track,2022,216000,64,4
+Volare,Danny Ocean,danny ocean,@dannocean,track,2022,147598,73,4
+Prohibidox,Feid,feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,track,2022,166253,70,4
+Chamaquita,Quevedo,quevedo,Chamaquita,track,2022,170699,54,4
+ROBERT DE NIRO,Mora,mora,MICRODOSIS,track,2022,174916,61,4
+Mastercard,Yan Block,yan block,Mastercard,track,2022,199616,64,4
+2010,Mora,mora,MICRODOSIS,track,2022,171690,61,4
+Monotonía,Shakira,shakira,Monotonía,track,2022,158804,69,4
+Deseándote,Frankie Ruiz,frankie ruiz,Feliz Navidad Con Salsa,track,2022,283546,75,4
+Si Tú Te Vas (feat. Yung Beef) - Remix,Omar Montes,omar montes,Si Tú Te Vas (feat. Yung Beef) [Remix],track,2022,215766,54,4
+PLAYA DEL INGLÉS,Quevedo,quevedo,PLAYA DEL INGLÉS,track,2022,237525,60,4
+Los Aparatos,El Alfa,el alfa,SAGITARIO,track,2022,232843,66,4
+ULTRA SOLO,Polimá Westcoast,polima westcoast,ULTRA SOLO,track,2022,227220,66,4
+El Pañuelo,Romeo Santos,romeo santos,"Fórmula, Vol. 3",track,2022,234784,65,4
+Party,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,227628,77,4
+Traductor,Tiago PZK,tiago pzk,Portales,track,2022,222857,61,4
+Ayúdame a Imaginar,Soto Asa,soto asa,Ayúdame a Imaginar,track,2022,265527,54,4
+Si Te La Encuentras Por Ahí,Feid,feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,track,2022,191506,66,4
+LA COMBI VERSACE,ROSALÍA,rosalia,MOTOMAMI,track,2022,160296,67,4
+Yo No Sé,Rvfv,rvfv,NASTU,track,2022,168960,65,4
+SOLO POR VOS,Trueno,trueno,BIEN O MAL,track,2022,199825,69,4
+TUS LÁGRIMAS,Mora,mora,MICRODOSIS,track,2022,174482,66,4
+Toda - Remix,Alex Rose,alex rose,ENR,track,2022,368453,71,4
+Cero - Remix,El Jhota,el jhota,Cero (Remix),track,2022,171162,50,4
+Desde Mis Ojos - Remix,Chris Lebron,chris lebron,Desde Mis Ojos (Remix),track,2022,223563,63,4
+Gato de Noche,Ñengo Flow,nengo flow,Gato de Noche,track,2022,227013,69,4
+badtrip :(,Mora,mora,MICRODOSIS,track,2022,191596,61,4
+París,Morat,morat,París,track,2022,182187,62,4
+EN LA ORILLA,Mora,mora,PARAÍSO,track,2022,235431,60,4
+Punto G - (Remix),Brytiago,brytiago,"The Greatest Hits, Vol. I",track,2022,446098,67,4
+FERNET,Rei,rei,FERNET,track,2022,192668,59,4
+Sintiéndolo Mucho (feat. Leiva),Joaquín Sabina,joaquin sabina,Sintiéndolo Mucho (feat. Leiva),track,2022,244013,55,4
+Valores del West,Milo j,milo j,Valores del West,track,2022,202080,64,4
+El Apagón,Bad Bunny,bad bunny,Un Verano Sin Ti,track,2022,201816,74,4
+PLAYA PRIVADA,Mora,mora,MICRODOSIS,track,2022,157647,63,4
+DURO,Chris Jedi,chris jedi,DURO,track,2022,218320,60,4
+En El Coche,Aitana,aitana,En El Coche,track,2022,125080,52,4
+Pantera,Rvfv,rvfv,Pantera,track,2022,181333,53,4
+Oh Mi Amore,El Bobe,el bobe,Oh Mi Amore,track,2022,166168,49,4
+Yatekomo,Juseph,juseph,Yatekomo,track,2022,213354,52,4
+SI ES AMOR,Danny Ocean,danny ocean,@dannocean,track,2022,212914,66,4
+Risueña,Omar Montes,omar montes,Risueña,track,2022,211892,49,4
+5 SENTÍOS,India Martinez,india martinez,Nuestro Mundo,track,2022,215320,51,4
+Vudu,Milo j,milo j,Vudu,track,2022,188372,67,4
+La Musiquita,Daviles de Novelda,daviles de novelda,La Musiquita,track,2022,168442,51,4
+Los Cachos,Piso 21,piso 21,777,track,2022,212304,66,4
+Get Busy,Sean Paul,sean paul,Dutty Rock (20th Anniversary),track,2022,211666,79,4
+OJOS COLORAU,Mora,mora,MICRODOSIS,track,2022,221136,57,4
+Tendencia Global,Blessd,blessd,Siempre Blessd,track,2022,234402,70,4
+Mux0,l0rna,l0rna,Mux0,track,2022,146935,50,4
+Entre Nosotros,Tiago PZK,tiago pzk,Portales,track,2022,192352,71,4
+Salir Con Vida,Morat,morat,SI AYER FUERA HOY,track,2022,176086,67,4
+WAOH,Kabasaki,kabasaki,Temperatura,track,2022,198367,51,4
+Nota,Eladio Carrion,eladio carrion,Nota,track,2022,159482,60,4
+BIEN O MAL,Trueno,trueno,BIEN O MAL,track,2022,176629,66,4
+K alegría,DELLAFUENTE,dellafuente,K alegría,track,2022,159215,51,4
+Chica Ideal,Sebastian Yatra,sebastian yatra,Dharma,track,2022,183253,67,4
+Que Dios Bendiga,Cano,cano,Que Dios Bendiga,track,2022,177250,50,4
+Hugo,Eladio Carrion,eladio carrion,SEN2 KBRN VOL. 2,track,2022,178560,61,4
+Enchule,ICON,icon,Enchule,track,2022,149196,64,4
+Gogo Dance,El Alfa,el alfa,SABIDURIA,track,2022,173389,68,4
+Mi grammy,Rvfv,rvfv,Mi grammy,track,2022,217812,51,4
+SIRI,Romeo Santos,romeo santos,"Fórmula, Vol. 3",track,2022,164102,64,4
+Bebo,Romeo Santos,romeo santos,"Fórmula, Vol. 3",track,2022,235733,65,4
+"Paulo Londra: Bzrp Music Sessions, Vol. 23/66",Bizarrap,bizarrap,"Paulo Londra: Bzrp Music Sessions, Vol. 23/66",track,2022,258541,63,4
+D3M0N,Yan Block,yan block,12 AM,track,2022,121500,60,4
+BIZCOCHITO,ROSALÍA,rosalia,MOTOMAMI,track,2022,109109,66,4
+RUMBATÓN,Daddy Yankee,daddy yankee,LEGENDADDY,track,2022,248768,62,4
+Desnúdate Mujer,Frankie Ruiz,frankie ruiz,Feliz Navidad Con Salsa,track,2022,289880,73,4
+La Morocha,Luck Ra,luck ra,La Morocha,track,2023,134144,74,4
+NO ME QUIERO CASAR,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,225654,84,4
+HORA CERO,Myke Towers,myke towers,HORA CERO,track,2023,231200,71,4
+TELEFONO NUEVO,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,354784,74,4
+Las Bratz (Remix),Aissa,aissa,Las Bratz (Remix),track,2023,444631,61,4
+lo que hay x aquí,Rels B,rels b,lo que hay x aquí,track,2023,155031,77,4
+DONDE SE APRENDE A QUERER?,Mora,mora,ESTRELLA,track,2023,144427,73,4
+M.A.I,Milo j,milo j,111,track,2023,184027,80,4
+Coco Chanel,Eladio Carrion,eladio carrion,3MEN2 KBRN,track,2023,208125,75,4
+El Cielo,Sky Rompiendo,sky rompiendo,El Cielo,track,2023,191320,73,4
+No soy Eterno,Bizarrap,bizarrap,en dormir sin Madrid,track,2023,151468,77,4
+Los del Espacio,LIT killah,lit killah,Los del Espacio,track,2023,338000,71,4
+BONNIE AND CLYDE - REMIX,iZaak,izaak,BONNIE AND CLYDE (REMIX),track,2023,286265,73,4
+TU$$I (with Dei V),YOVNGCHIMI,yovngchimi,WLGS,track,2023,163200,70,4
+Vagabundo,Sebastian Yatra,sebastian yatra,Vagabundo,track,2023,215600,75,4
+REINA,Mora,mora,ESTRELLA,track,2023,211879,68,4
+No Te Quieren Conmigo,Gaby Music,gaby music,No Te Quieren Conmigo,track,2023,252040,69,4
+MOJABI GHOST,Tainy,tainy,DATA,track,2023,232131,85,4
+X SI VOLVEMOS,KAROL G,karol g,MAÑANA SERÁ BONITO,track,2023,200120,77,4
+LA CAPI,Myke Towers,myke towers,LVEU: VIVE LA TUYA...NO LA MIA,track,2023,202360,64,4
+NADIE SABE,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,379058,74,4
+Bailando Bachata,Chayanne,chayanne,Bailemos Otra Vez,track,2023,170809,78,4
+SIN SEÑAL,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,185084,69,4
+Rara Vez,Milo j,milo j,Rara Vez,track,2023,128677,82,4
+DILUVIO,Rauw Alejandro,rauw alejandro,PLAYA SATURNO,track,2023,197052,81,4
+El Merengue,Marshmello,marshmello,El Merengue,track,2023,189668,75,4
+CRUSH,Sky Rompiendo,sky rompiendo,CRUSH,track,2023,233333,70,4
+MONACO,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,267194,83,4
+EL TONTO,Lola Indigo,lola indigo,EL DRAGÓN,track,2023,187986,62,4
+Kyoto,Omar Courtz,omar courtz,Kyoto,track,2023,247840,80,4
+WANDA,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,160909,69,4
+RÁPIDO,Mora,mora,RÁPIDO,track,2023,182857,69,4
+BESO,ROSALÍA,rosalia,RR,track,2023,194543,80,4
+PERRO NEGRO,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,162767,83,4
+AMARGURA,KAROL G,karol g,MAÑANA SERÁ BONITO,track,2023,170480,82,4
+Columbia,Quevedo,quevedo,Columbia,track,2023,186000,80,4
+VISTA AL MAR,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,180672,75,4
+OA,Anuel AA,anuel aa,OA,track,2023,235200,71,4
+TQG,KAROL G,karol g,MAÑANA SERÁ BONITO,track,2023,197933,82,4
+PERO TÚ,KAROL G,karol g,MAÑANA SERÁ BONITO,track,2023,183480,76,4
+LA FALDA,Myke Towers,myke towers,LVEU: VIVE LA TUYA...NO LA MIA,track,2023,174229,77,4
+POLARIS - Remix,SAIKO,saiko,POLARIS (Remix),track,2023,288000,67,4
+LUNA,Feid,feid,FERXXOCALIPSIS,track,2023,196800,86,4
+PUNTO G,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,151324,73,4
+LALA,Myke Towers,myke towers,LA VIDA ES UNA,track,2023,197920,80,4
+QLONA,KAROL G,karol g,MAÑANA SERÁ BONITO (BICHOTA SEASON),track,2023,172797,80,4
+YANKEE,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,194400,62,4
+UNA BALA,Milo j,milo j,111,track,2023,183890,75,4
+ACHO PR,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,359647,72,4
+Hunnids,Bryant Myers,bryant myers,Hunnids,track,2023,173292,65,4
+MUÑECA,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,210750,59,4
+Extrañándote,Zhamira ,zhamira,Extrañándote,track,2023,183157,71,4
+UNA NOCHE EN MEDELLÍN - REMIX,KAROL G,karol g,MAÑANA SERÁ BONITO (BICHOTA SEASON),track,2023,205144,77,4
+MI EX TENÍA RAZÓN,KAROL G,karol g,MAÑANA SERÁ BONITO (BICHOTA SEASON),track,2023,154374,78,4
+Ya t Has Corrido?,Metrika,metrika,Femme Fatale,track,2023,125426,58,4
+FINA,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,216327,76,4
+Rincón,Milo j,milo j,Rincón,track,2023,164810,72,4
+Right Thru,Dei V,dei v,Right Thru,track,2023,166615,65,4
+Que te vaya bien,Rvfv,rvfv,Que te vaya bien,track,2023,204960,57,4
+Holanda,JHAYCO,jhayco,Holanda,track,2023,231693,68,4
+AHORA QUÉ,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,171428,66,4
+Baja y Sube,Rokero,rokero,Baja y Sube,track,2023,170422,65,4
+MEDIA LUNA,Mora,mora,ESTRELLA,track,2023,134948,67,4
+PASIEMPRE,Tainy,tainy,DATA,track,2023,355795,72,4
+Arena y Sal,Omar Montes,omar montes,Arena y Sal,track,2023,174415,60,4
+NO PIENSO LLAMAR,Soge Culebra,soge culebra,STORM,track,2023,198352,60,4
+WHERE SHE GOES,Bad Bunny,bad bunny,WHERE SHE GOES,track,2023,231704,77,4
+DAME,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,231428,65,4
+Diabólica,Cris MJ,cris mj,Partyson,track,2023,192000,69,4
+SEDA,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,190476,71,4
+SUPERNOVA,SAIKO,saiko,SUPERNOVA,track,2023,190909,59,4
+La_Original.mp3,Emilia,emilia,.mp3,track,2023,140625,71,4
+UuU 2,ROA,roa,Private Suite (Vol. 1 / Reloaded),track,2023,308266,67,4
+Antes,Rvfv,rvfv,Antes,track,2023,153684,60,4
+Fruto,Bizarrap,bizarrap,en dormir sin Madrid,track,2023,132294,73,4
+LOKERA,Rauw Alejandro,rauw alejandro,SATURNO,track,2023,197101,78,4
+Pa Ti Estoy,Ozuna,ozuna,Cosmo,track,2023,206103,71,4
+MIENTRAS ME CURO DEL CORA,KAROL G,karol g,MAÑANA SERÁ BONITO,track,2023,164386,76,4
+THUNDER Y LIGHTNING,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,217133,71,4
+CANIJO,Judeline,judeline,CANIJO,track,2023,141586,62,4
+HIBIKI,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,208000,74,4
+Buenas,Quevedo,quevedo,Buenas,track,2023,192954,64,4
+Santorini,Beéle,beele,Santorini,track,2023,160893,73,4
+Casanova,Soolking,soolking,Casanova,track,2023,243806,62,4
+Desespero,Morad,morad,Reinsertado,track,2023,194400,64,4
+Miente,John Pollõn,john pollon,Miente,track,2023,201290,58,4
+Clavaito,Chanel,chanel,Clavaito,track,2023,162734,62,4
+WYA,J Abdiel,j abdiel,WYA,track,2023,196363,70,4
+BABY HELLO,Rauw Alejandro,rauw alejandro,BABY HELLO,track,2023,222461,67,4
+FERXXO 151,Feid,feid,"MOR, No Le Temas a La Oscuridad",track,2023,195386,76,4
+Según Quién,Maluma,maluma,Don Juan,track,2023,142334,80,4
+Si La Calle Llama - Remix,Eladio Carrion,eladio carrion,3MEN2 KBRN,track,2023,240000,68,4
+"Shakira: Bzrp Music Sessions, Vol. 53/66",Bizarrap,bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53/66",track,2023,214945,78,4
+"Milo J: Bzrp Music Sessions, Vol. 57/66",Bizarrap,bizarrap,"Milo J: Bzrp Music Sessions, Vol. 57/66",track,2023,189901,74,4
+Bellakita,CDobleta,cdobleta,Bellakita,track,2023,182500,64,4
+Corazón Roto pt. 3,Brray,brray,Corazón Roto pt. 3,track,2023,348400,67,4
+GATITA GANGSTER,KAROL G,karol g,MAÑANA SERÁ BONITO (BICHOTA SEASON),track,2023,170920,64,4
+NUEVA VIDA,Peso Pluma,peso pluma,GÉNESIS,track,2023,190680,82,4
+LUCES AZULES,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,160975,58,4
+LO LOGRÉ,Myke Towers,myke towers,LA VIDA ES UNA,track,2023,243893,67,4
+Los Ángeles,Aitana,aitana,alpha,track,2023,158826,59,4
+LOS PITS,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,250851,71,4
+VUELVE CANDY B,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,266171,71,4
+LISBOA,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,151304,60,4
+Tu beso en la mejilla,John Pollõn,john pollon,Tu beso en la mejilla,track,2023,183004,55,4
+LUCES DE TECNO,Feid,feid,"MOR, No Le Temas a La Oscuridad",track,2023,164293,68,4
+CLASSY 101,Feid,feid,CLASSY 101,track,2023,195986,71,4
+Ten Cuidao,Rvfv,rvfv,Ten Cuidao,track,2023,221601,56,4
+morena,Beéle,beele,morena,track,2023,188930,72,4
+Mia Na' Mas,Cris MJ,cris mj,Partyson,track,2023,185600,65,4
+MENEITO,Nil Moliner,nil moliner,Lugar Paraíso,track,2023,198196,57,4
+MERCEDES CAROTA,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,202635,73,4
+KÁRMIKA,KAROL G,karol g,MAÑANA SERÁ BONITO,track,2023,236586,69,4
+ASI ES LA VIDA,Enrique Iglesias,enrique iglesias,ASI ES LA VIDA,track,2023,172095,67,4
+Lollipop,Darell,darell,EVERYBODY GO TO THE DISCOTEK,track,2023,199946,68,4
+"Rauw Alejandro: Bzrp Music Sessions, Vol. 56/66",Bizarrap,bizarrap,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56/66",track,2023,191254,65,4
+PARANORMAL,Tainy,tainy,DATA,track,2023,197935,73,4
+CARENCIAS DE CORDURA,Milo j,milo j,111,track,2023,178105,72,4
+BABY NUEVA,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,240773,74,4
+Single,Dei V,dei v,Single,track,2023,178181,61,4
+CORAZÓN DESPEINADO,Rauw Alejandro,rauw alejandro,SATURNO,track,2023,207063,65,4
+333,Cris MJ,cris mj,Partyson,track,2023,165318,69,4
+La Bebe - Remix,Yng Lvcas,yng lvcas,La Bebe (Remix),track,2023,234352,79,4
+MR. OCTOBER,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,189258,73,4
+Pasado Pisado,Comando Tiburon,comando tiburon,Pasado Pisado,track,2023,201769,60,4
+Andando,Morad,morad,Reinsertado,track,2023,261713,60,4
+PASAJERO,Mora,mora,ESTRELLA,track,2023,149538,64,4
+XXX,David Marley,david marley,XXX,track,2023,193810,56,4
+CYBERTRUCK,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,191959,73,4
+un x100to,Grupo Frontera,grupo frontera,un x100to,track,2023,194563,79,4
+COCO LOCO,Maluma,maluma,COCO LOCO,track,2023,166734,64,4
+Toy en el Mic,Bizarrap,bizarrap,en dormir sin Madrid,track,2023,137053,70,4
+Lo Siento BB:/,Tainy,tainy,DATA,track,2023,206343,79,4
+Primera Cita,Carín León,carin leon,Colmillo De Leche,track,2023,186455,83,4
+Antidepresivos,SAIKO,saiko,Antidepresivos,track,2023,145384,57,4
+Tú Con El,Frankie Ruiz,frankie ruiz,"Cantándole al Amor, Vol. 2",track,2023,301441,77,4
+Cupido,TINI,tini,Cupido,track,2023,174369,68,4
+PACTO (feat. Bryant Myers & Dei V) - Remix,Jay Wheeler,jay wheeler,TRAPPii,track,2023,340000,66,4
+"0 Sentimientos (Remix) [feat. Baby Rasta, Darkiel, Messiah & Lyan]",Boy Wonder CF,boy wonder cf,Chosen Few: New Generation,track,2023,335736,70,4
+Mi Nena Remix,Maikel Delacalle,maikel delacalle,CÓDIGOS,track,2023,220000,61,4
+Beso (Fruta Fresca),Wakyin,wakyin,Beso (Fruta Fresca),track,2023,197694,73,4
+GRACIAS POR NADA,Bad Bunny,bad bunny,nadie sabe lo que va a pasar mañana,track,2023,177450,69,4
+VOLVER,Tainy,tainy,DATA,track,2023,185806,71,4
+"Quizás, Tal Vez",Eladio Carrion,eladio carrion,3MEN2 KBRN,track,2023,147499,62,4
+si preguntas por mi,Tainy,tainy,DATA,track,2023,215412,67,4
+CARACAS EN EL 2000,ELENA ROSE,elena rose,CARACAS EN EL 2000,track,2023,227784,71,4
+COLMILLO,Tainy,tainy,DATA,track,2023,265999,72,4
+LUGARES QUE LLEGO,YSY A,ysy a,EL AFTER DEL AFTER,track,2023,225920,62,4
+Ella Baila Sola,Eslabon Armado,eslabon armado,Ella Baila Sola,track,2023,165671,77,4
+Daytona,Cris MJ,cris mj,Partyson,track,2023,173785,75,4
+Ni Me Debes Ni Te Debo,Carín León,carin leon,Colmillo De Leche,track,2023,169895,76,4
+Arranca (feat. Omega),Becky G,becky g,Arranca (feat. Omega),track,2023,166529,65,4
+Acróstico - Milan + Sasha,Shakira,shakira,Acróstico (Milan + Sasha),track,2023,170785,70,4
+Donde Están,El Jhota,el jhota,Donde Están,track,2023,172881,53,4
+FANTASMA | AVC,Tainy,tainy,DATA,track,2023,285074,67,4
+PUNTO 40,Rauw Alejandro,rauw alejandro,SATURNO,track,2023,190654,69,4
+ÉRAMOS DOS,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,174425,57,4
+VAMPIROS,ROSALÍA,rosalia,RR,track,2023,176590,64,4
+piloto automático,céro,cero,piloto automático,track,2023,129600,53,4
+Mami Chula,JHAYCO,jhayco,Mami Chula,track,2023,220600,58,4
+Sikora,SAIKO,saiko,Sikora,track,2023,161311,53,4
+Penas de Antaño,Bizarrap,bizarrap,en dormir sin Madrid,track,2023,201272,70,4
+Patadas de Ahogado,LATIN MAFIA,latin mafia,Patadas de Ahogado,track,2023,224835,76,4
+LLYLM,ROSALÍA,rosalia,LLYLM,track,2023,174044,63,4
+GATA,Ralphie Choo,ralphie choo,SUPERNOVA,track,2023,131052,59,4
+DUBAI,Trueno,trueno,DUBAI,track,2023,146000,57,4
+Mi Juego,Haze,haze,Mi Juego,track,2023,167213,61,4
+Solo $exo,Myke Towers,myke towers,Icy Hot,track,2023,189000,59,4
+QUÉ RICO CH**GAMOS,Rauw Alejandro,rauw alejandro,SATURNO,track,2023,246746,69,4
+algo así (remix),paopao,paopao,diamante$ + espina$,track,2023,223084,63,4
+AL BORDE,Milo j,milo j,511,track,2023,148321,69,4
+ESTOY A UN VASO NOMA',VIUS,vius,ESTOY A UN VASO NOMA',track,2023,171845,63,4
+Mas Rica Que Ayer,Anuel AA,anuel aa,Mas Rica Que Ayer,track,2023,199148,66,4
+DONDE QUIERO ESTAR,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,200470,57,4
+PHI PHI,Camin,camin,PHI PHI,track,2023,196165,53,4
+Mantra (Feat Liderj),Oscar el Ruso,oscar el ruso,Mantra (Feat Liderj),track,2023,209349,53,4
+"Arcángel: Bzrp Music Sessions, Vol. 54/66",Bizarrap,bizarrap,"Arcángel: Bzrp Music Sessions, Vol. 54/66",track,2023,223019,65,4
+El camino,DELLAFUENTE,dellafuente,Lágrimas pa otro día,track,2023,136955,57,4
+QUÉSESIENTE,Lucho RK,lucho rk,QUÉSESIENTE,track,2023,148806,55,4
+DOM1NGO,Milo j,milo j,111,track,2023,188742,69,4
+Un Rodeoooo,Rels B,rels b,afroLOVA 23',track,2023,136082,65,4
+UN DESEO,Mora,mora,ESTRELLA,track,2023,218883,67,4
+Ven Bailalo (Reggaeton Mix),Angel Y Khriz,angel y khriz,Ven Bailalo (Reggaeton Mix),track,2023,251733,76,4
+CUÉNTALE,Quevedo,quevedo,DONDE QUIERO ESTAR,track,2023,198000,58,4
