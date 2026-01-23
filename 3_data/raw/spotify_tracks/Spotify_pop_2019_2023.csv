@@ -1,0 +1,914 @@
+name_track,name_artist,name_album,type,year,duration_ms,genre,popularity
+Breaking Me,Topic,Breaking Me,track,2019,166793,pop,73
+Someone You Loved,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,track,2019,182160,pop,87
+The Man,Taylor Swift,Lover,track,2019,190360,pop,77
+needy,Ariana Grande,"thank u, next",track,2019,171573,pop,84
+Higher Love,Kygo,Higher Love,track,2019,228267,pop,73
+Primaveras En El Pelo,El Arrebato,Abrazos,track,2019,223987,pop,56
+Heavenly,Cigarettes After Sex,Cry,track,2019,286773,pop,82
+Cristina,Sebastian Yatra,FANTASÍA,track,2019,201626,pop,72
+La Luna,Galvan Real,La Luna,track,2019,250319,pop,59
+Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent (Extended Edition),track,2019,215106,pop,84
+Esperándote,Manuel Turizo,ADN,track,2019,202317,pop,65
+Peces de Ciudad (feat. Pablo López),Pablo Alborán,Peces de Ciudad (feat. Pablo López),track,2019,390861,pop,54
+Touch,Cigarettes After Sex,Cry,track,2019,292853,pop,80
+Un Año,Sebastian Yatra,Un Año,track,2019,164440,pop,64
+Doin' Time,Lana Del Rey,Norman Fucking Rockwell!,track,2019,202192,pop,78
+Destino,Greeicy,Baila,track,2019,180480,pop,67
+Golden,Harry Styles,Fine Line,track,2019,208917,pop,75
+If the World Was Ending (feat. Julia Michaels),JP Saxe,If the World Was Ending (feat. Julia Michaels),track,2019,208687,pop,74
+Azahara,Galvan Real,Azahara,track,2019,259984,pop,55
+Ok Love You Bye,Olivia Dean,Ok Love You Bye,track,2019,154386,pop,84
+A Mí Na Ma,El Arrebato,Abrazos,track,2019,222330,pop,51
+La Vida Bailando,Galvan Real,La Vida Bailando,track,2019,229290,pop,51
+Tus Ojos y los Míos,Demarco Flamenco,Le sonrío al agua,track,2019,194583,pop,48
+Un Amor Tan Grande,El Arrebato,Abrazos,track,2019,213496,pop,49
+La Boca,Mau y Ricky,Para Aventuras y Curiosidades,track,2019,206271,pop,66
+Pa Ti y Pa Mí Na Má,Demarco Flamenco,Le sonrío al agua,track,2019,181016,pop,52
+Hold Me While You Wait,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,track,2019,205686,pop,77
+Tu Juego,Galvan Real,Tu Juego,track,2019,313849,pop,51
+"thank u, next",Ariana Grande,"thank u, next",track,2019,207320,pop,83
+RITMO (Bad Boys For Life),Black Eyed Peas,RITMO (Bad Boys For Life),track,2019,221714,pop,69
+Cicatrices (feat. Indara),Sergio Contreras,Cicatrices (feat. Indara),track,2019,173868,pop,47
+A Dónde Vamos,Morat,A Dónde Vamos,track,2019,203102,pop,63
+Si La Hubieras Visto,El Arrebato,Abrazos,track,2019,252258,pop,50
+Mi Persona Favorita,Alejandro Sanz,#ELDISCO,track,2019,239972,pop,61
+Miss Americana & The Heartbreak Prince,Taylor Swift,Lover,track,2019,234146,pop,78
+Tu Velero,Galvan Real,Tu Velero,track,2019,281483,pop,52
+Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,Late Night Feelings,track,2019,217099,pop,74
+bloodline,Ariana Grande,"thank u, next",track,2019,216893,pop,84
+Tutu,Camilo,Tutu,track,2019,178613,pop,64
+ilomilo,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",track,2019,156370,pop,76
+Culpables,Manuel Turizo,ADN,track,2019,233929,pop,70
+"Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""",Morat,Mar De Colores (Versión Extendida),track,2019,179280,pop,56
+Amigos Con Derechos,Reik,Ahora,track,2019,227480,pop,76
+El Danzar De Las Mariposas,El Barrio,El Danzar De Las Mariposas,track,2019,256690,pop,56
+Don't Start Now,Dua Lipa,Don't Start Now,track,2019,183290,pop,74
+All Around The World (La La La),R3HAB,All Around The World (La La La),track,2019,147840,pop,71
+Kill This Love,BLACKPINK,KILL THIS LOVE,track,2019,191050,pop,76
+Adore You,Harry Styles,Fine Line,track,2019,207139,pop,84
+Cry,Cigarettes After Sex,Cry,track,2019,256799,pop,88
+ghostin,Ariana Grande,"thank u, next",track,2019,271466,pop,71
+Mikrokosmos,BTS,MAP OF THE SOUL : PERSONA,track,2019,224225,pop,72
+Afterglow,Taylor Swift,Lover,track,2019,223293,pop,73
+wish you were gay,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",track,2019,221543,pop,75
+Why Why Why Why Why,SAULT,5,track,2019,238679,pop,71
+How to disappear,Lana Del Rey,Norman Fucking Rockwell!,track,2019,228071,pop,74
+Reason To Stay,Olivia Dean,Ok Love You Bye,track,2019,198813,pop,77
+ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,Lover,track,2019,193000,pop,73
+Falling Like The Stars,James Arthur,YOU,track,2019,212147,pop,73
+Detente,Mike Bahía,Navegando,track,2019,181845,pop,66
+Para Volver a Volver,Siempre Asi,Esencial Siempre Así,track,2019,123280,pop,44
+The Seed,AURORA,A Different Kind Of Human – Step 2,track,2019,266969,pop,69
+FANCY,TWICE,FANCY YOU,track,2019,213880,pop,75
+Mejores Amigos,Yera,Mejores Amigos,track,2019,205369,pop,63
+South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,No.6 Collaborations Project,track,2019,204466,pop,74
+Happiness is a butterfly,Lana Del Rey,Norman Fucking Rockwell!,track,2019,272485,pop,74
+Alaska,Maggie Rogers,Heard It In A Past Life,track,2019,188000,pop,72
+Tek It,Cafuné,Tek It (I Watch the Moon),track,2019,191823,pop,72
+Amor Tumbado,Natanael Cano,Mi Nuevo Yo,track,2019,221553,pop,77
+Romeo y Julieta,Pedro el Flamenkito,Romeo y Julieta,track,2019,283880,pop,43
+Déjate Querer,Lalo Ebratt,Déjate Querer,track,2019,202823,pop,56
+boyfriend (with Social House),Ariana Grande,boyfriend,track,2019,186106,pop,81
+Si Te Vas,Javi Medina,Si Te Vas,track,2019,182400,pop,44
+Don't Let Me Go,Cigarettes After Sex,Cry,track,2019,262560,pop,74
+Mi gente (con El Arrebato),Camela,Rebobinando (25 Años),track,2019,222120,pop,43
+Que Salga el Sol,Javi Medina,Solo,track,2019,221320,pop,45
+Pal Carajo,Pyllo Cortes,Pal Carajo,track,2019,192299,pop,45
+El Barrio de la Alegría,Barroso,El Barrio de la Alegría,track,2019,189589,pop,44
+Esta Noche,Mike Bahía,Navegando,track,2019,168520,pop,64
+You Need To Calm Down,Taylor Swift,Lover,track,2019,171360,pop,76
+Only Human,Jonas Brothers,Happiness Begins,track,2019,183000,pop,73
+Rayando el Sol (feat. Pablo Alborán),Maná,Rayando el Sol (feat. Pablo Alborán),track,2019,258937,pop,61
+6 de septiembre (feat. Andrés Suárez),Dani Fernández,Incendios,track,2019,237794,pop,44
+Bonita,Juanes,Más Futuro Que Pasado,track,2019,147786,pop,59
+Coyotes - Versión en Acústico El Embarcadero,Travis Birds,Coyotes (Versión en Acústico El Embarcadero),track,2019,230136,pop,45
+Presiento,Morat,Presiento,track,2019,174379,pop,52
+Falling In Love,Cigarettes After Sex,Cry,track,2019,245840,pop,74
+Don't Call Me Up,Mabel,Ivy To Roses (Mixtape),track,2019,178480,pop,72
+Aquí Me Tienes,El Arrebato,Abrazos,track,2019,199422,pop,47
+Dancing With A Stranger (with Normani),Sam Smith,Dancing With A Stranger (with Normani),track,2019,171029,pop,76
+Naked,James Arthur,YOU,track,2019,233490,pop,72
+Aleluya,Reik,Ahora,track,2019,158480,pop,62
+"break up with your girlfriend, i'm bored",Ariana Grande,"thank u, next",track,2019,190440,pop,76
+Tabú,Pablo Alborán,Tabú,track,2019,179774,pop,54
+Lo siento (feat. Sofía Reyes),Beret,Prisma,track,2019,232655,pop,60
+Dónde Están Corazón,Enrique Iglesias,Greatest Hits,track,2019,259613,pop,68
+Boy With Luv (feat. Halsey),BTS,MAP OF THE SOUL : PERSONA,track,2019,229773,pop,78
+California,Lana Del Rey,Norman Fucking Rockwell!,track,2019,305899,pop,67
+Slide Away,Miley Cyrus,SHE IS COMING,track,2019,233654,pop,65
+Harleys In Hawaii,Katy Perry,Harleys In Hawaii,track,2019,185815,pop,75
+I Feel Love,Sam Smith,I Feel Love,track,2019,254453,pop,66
+Almost (Sweet Music),Hozier,"Wasteland, Baby!",track,2019,217480,pop,69
+Lights Up,Harry Styles,Fine Line,track,2019,172215,pop,70
+Bola Rebola,Tropkillaz,Bola Rebola,track,2019,193440,pop,64
+How Do You Sleep?,Sam Smith,How Do You Sleep?,track,2019,202204,pop,67
+インフェルノ,Mrs. GREEN APPLE,インフェルノ,track,2019,212546,pop,69
+in my head,Ariana Grande,"thank u, next",track,2019,222946,pop,70
+Juliet,Cavetown,Animal Kingdom,track,2019,278991,pop,72
+Feel Special,TWICE,Feel Special,track,2019,206866,pop,73
+xanny,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",track,2019,243725,pop,71
+Love song,Lana Del Rey,Norman Fucking Rockwell!,track,2019,229325,pop,67
+I Think He Knows,Taylor Swift,Lover,track,2019,173386,pop,69
+All Of The Girls You Loved Before,Taylor Swift,All Of The Girls You Loved Before,track,2019,221407,pop,71
+Kingston,Faye Webster,Atlanta Millionaires Club,track,2019,202653,pop,79
+Kiss It Off Me,Cigarettes After Sex,Cry,track,2019,269933,pop,70
+imagine,Ariana Grande,"thank u, next",track,2019,212266,pop,70
+¿Qué Ha Pasao'?,Abraham Mateo,¿Qué Ha Pasao'?,track,2019,198053,pop,55
+Password Change,Olivia Dean,Password Change,track,2019,206000,pop,69
+The Lady in Red,The Cooltrane Quartet,The Lady in Red,track,2019,227013,pop,54
+London Boy,Taylor Swift,Lover,track,2019,190240,pop,72
+Hey Brother,Bossa Nova Covers,Bossa Nova Covers,track,2019,221226,pop,55
+Más Fuerte,Greeicy,Baila,track,2019,184760,pop,63
+I Forgot That You Existed,Taylor Swift,Lover,track,2019,170640,pop,72
+Don't Know What To Do,BLACKPINK,KILL THIS LOVE,track,2019,201081,pop,66
+HOME,BTS,MAP OF THE SOUL : PERSONA,track,2019,234177,pop,71
+Cryin',Sarah Menescal,My World,track,2019,199046,pop,54
+Never Really Over,Katy Perry,Never Really Over,track,2019,223523,pop,65
+Someone You Loved - Future Humans Remix,Lewis Capaldi,Someone You Loved (Future Humans Remix),track,2019,189052,pop,61
+MIROH,Stray Kids,Clé 1 : MIROH,track,2019,207617,pop,66
+bad idea,Ariana Grande,"thank u, next",track,2019,267106,pop,68
+Satisfaction,Bossa Nova Covers,Bossa Nova Covers,track,2019,223960,pop,55
+Turn Me On (feat. Vula),Riton,Turn Me On (feat. Vula),track,2019,208473,pop,67
+Minifalda,Greeicy,Minifalda,track,2019,178946,pop,58
+"Thunderclouds (feat. Sia, Diplo, and Labrinth)",Sia,"LABRINTH, SIA & DIPLO PRESENT... LSD",track,2019,187026,pop,69
+Ay Corazón,Cali Y El Dandee,Ay Corazón,track,2019,190287,pop,55
+So Caught Up,The Teskey Brothers,Run Home Slow,track,2019,228553,pop,62
+Death By A Thousand Cuts,Taylor Swift,Lover,track,2019,198533,pop,71
+Time,Angelo De Augustine,Tomb,track,2019,236819,pop,57
+Enamórate De Alguien Más,Morat,Enamórate De Alguien Más,track,2019,229107,pop,58
+I Think I'm OKAY (with YUNGBLUD & Travis Barker),mgk,Hotel Diablo,track,2019,169397,pop,73
+bad idea!,girl in red,bad idea!,track,2019,219638,pop,73
+Mariners Apartment Complex,Lana Del Rey,Norman Fucking Rockwell!,track,2019,247150,pop,69
+Serenata,Mike Bahía,Navegando,track,2019,206967,pop,64
+Apple Cider,beabadoobee,Loveworm,track,2019,178918,pop,77
+Joro,Wizkid,Joro,track,2019,262736,pop,67
+Intro : Persona,BTS,MAP OF THE SOUL : PERSONA,track,2019,171023,pop,63
+hope is a dangerous thing for a woman like me to have - but I have it,Lana Del Rey,Norman Fucking Rockwell!,track,2019,324498,pop,64
+Soy El Diablo - Remix,Natanael Cano,Soy El Diablo (Remix),track,2019,193621,pop,65
+BOOM,X Ambassadors,ORION,track,2019,164586,pop,59
+Boys Will Be Bugs,Cavetown,Animal Kingdom,track,2019,329049,pop,68
+Make It Right,BTS,MAP OF THE SOUL : PERSONA,track,2019,226321,pop,67
+Ritual,Tiësto,Ritual,track,2019,198995,pop,60
+HIP,MAMAMOO,reality in BLACK,track,2019,195306,pop,65
+NASA,Ariana Grande,"thank u, next",track,2019,182000,pop,66
+Andromeda,Weyes Blood,Titanic Rising,track,2019,280186,pop,67
+The greatest,Lana Del Rey,Norman Fucking Rockwell!,track,2019,300360,pop,65
+Chicken Noodle Soup (feat. Becky G),j-hope,Chicken Noodle Soup (feat. Becky G),track,2019,235497,pop,65
+Me Gusta Mi Vida,Joan Y Su Elite,Me Gusta Mi Vida,track,2019,227726,pop,68
+Body On My,Loud Luxury,Body On My,track,2019,192506,pop,61
+fake smile,Ariana Grande,"thank u, next",track,2019,208880,pop,65
+Losing My Way,FKJ,Losing My Way,track,2019,259200,pop,61
+Just to Be in Love,Alex Rasov,Just to Be in Love,track,2019,264333,pop,54
+Venice Bitch,Lana Del Rey,Norman Fucking Rockwell!,track,2019,577199,pop,66
+Dionysus,BTS,MAP OF THE SOUL : PERSONA,track,2019,249215,pop,66
+July (feat. Leon Bridges),Noah Cyrus,July (feat. Leon Bridges),track,2019,152280,pop,68
+Un Millón Como Tú,Lasso,Un Millón Como Tú,track,2019,275026,pop,62
+Good as Hell,Lizzo,Cuz I Love You (Super Deluxe),track,2019,159735,pop,68
+This City,Sam Fischer,This City,track,2019,194853,pop,67
+Idol,Mind Enterprises,Panorama EP,track,2019,255584,pop,57
+"Swan Song - From the Motion Picture ""Alita: Battle Angel""",Dua Lipa,"Swan Song (From the Motion Picture ""Alita: Battle Angel"")",track,2019,182074,pop,59
+La Cintura (feat. Flo Rida & Tini) - Remix,Alvaro Soler,Mar De Colores (Versión Extendida),track,2019,178266,pop,55
+Psycho,Red Velvet,‘The ReVe Festival’ Finale,track,2019,210560,pop,71
+Reminiscing,Michelle Simonal,International Inspirations,track,2019,198250,pop,50
+More Than I Can Bear,Luca Giacco,Café del Este - Lounge & Chill Sessions,track,2019,237750,pop,49
+夜に駆ける,YOASOBI,夜に駆ける,track,2019,261013,pop,70
+White Trainers - Demo,Olivia Dean,Ok Love You Bye,track,2019,162493,pop,66
+Piano Joint (This Kind Of Love),Michael Kiwanuka,KIWANUKA,track,2019,231586,pop,57
+El Drip,Natanael Cano,Corridos Tumbados,track,2019,142910,pop,69
+Back Down South - Bossa Nova Mix,Stereo Dub,Back Down South (Bossa Nova Mix),track,2019,164889,pop,50
+Light On,Maggie Rogers,Heard It In A Past Life,track,2019,233880,pop,71
+Masterpiece,SAULT,5,track,2019,344680,pop,64
+Somewhere in the Hills,Bossa Nova Covers,Bossa Nova Covers,track,2019,191333,pop,52
+Remember When,Wallows,Nothing Happens,track,2019,155146,pop,70
+La Plata,Juanes,Más Futuro Que Pasado,track,2019,195280,pop,51
+I Shot the Sheriff,Bossa Nova Covers,Bossa Nova Covers,track,2019,223960,pop,52
+Rescue Me,OneRepublic,Rescue Me,track,2019,158899,pop,64
+Quédate,Kany García,Contra el Viento,track,2019,199814,pop,57
+Nada Ha Cambiado,Manuel Turizo,ADN,track,2019,228837,pop,52
+In Fact (feat. Gabzy),melvitto,THENIGHTISYOUNG.,track,2019,225179,pop,67
+The Happy Man,Michelle Simonal,International Inspirations,track,2019,269000,pop,51
+All Day And Night,Jax Jones,Snacks,track,2019,169466,pop,64
+Lush Life,Bossa Nova Covers,Bossa Nova Covers,track,2019,205746,pop,53
+Juice,Lizzo,Cuz I Love You,track,2019,195144,pop,67
+Instruction (feat. Demi Lovato & Stefflon Don),Jax Jones,Snacks,track,2019,165906,pop,59
+Life Goes On,BTS,BE,track,2020,207481,pop,84
+God’s Menu,Stray Kids,GO LIVE,track,2020,167922,pop,77
+If You Love Her,Forest Blakk,If You Love Her,track,2020,217351,pop,78
+Te Esperé,Jesse & Joy,Aire (Versión Día),track,2020,216000,pop,74
+Un Beso en Madrid,TINI,TINI TINI TINI,track,2020,144351,pop,62
+CORAZÓN SIN VIDA,Aitana,11 RAZONES,track,2020,181200,pop,62
+Still With You,Jung Kook,Still With You,track,2020,239905,pop,81
+positions,Ariana Grande,Positions,track,2020,172324,pop,80
+Physical,Dua Lipa,Future Nostalgia,track,2020,193829,pop,77
+Blinding Lights (with ROSALÍA) - Remix,The Weeknd,Blinding Lights (Remix),track,2020,216123,pop,60
+Break My Heart,Dua Lipa,Future Nostalgia,track,2020,221820,pop,79
+Deseo - Remix,Maka,Bendiciones,track,2020,227926,pop,53
+Favorito,Camilo,Por Primera Vez,track,2020,209765,pop,71
+El Mismo Aire - con Pablo Alborán,Camilo,El Mismo Aire (con Pablo Alborán),track,2020,188213,pop,75
+Entre Tú Y Yo,El Duende Callejero,Nuestra Manera De Hablar,track,2020,220386,pop,49
+Dynamite,BTS,BE,track,2020,199053,pop,81
+Nuestra Historia,Kike & Manu,Nuestra Historia,track,2020,169943,pop,46
+Novia Moderna,Lin Cortés,Gitanerías,track,2020,231682,pop,48
+El Pacto,Galvan Real,El Pacto,track,2020,214792,pop,47
+A Partir De Hoy,David Bisbal,En Tus Planes,track,2020,196802,pop,68
+Ojalá Supiera,Canelita,Ojalá Supiera,track,2020,230204,pop,47
+Convénceme,India Martinez,Convénceme,track,2020,208567,pop,52
+Cuerda Auxiliar,Besmaya,Cuerda Auxiliar,track,2020,161100,pop,50
+Poquito A Poco,El Arrebato,+ Abrazos (Edición Especial),track,2020,214258,pop,49
+34+35,Ariana Grande,Positions,track,2020,173710,pop,78
+A La Calle,El Duende Callejero,A La Calle,track,2020,199749,pop,47
+Volverte A Ver,Galvan Real,Volverte A Ver,track,2020,227410,pop,56
+Todavía,Borja Rubio,Todavía,track,2020,208988,pop,50
+Como no te voy a querer,JdM,Como no te voy a querer,track,2020,228223,pop,49
+Wildfires,SAULT,Untitled (Black Is),track,2020,206947,pop,74
+My Head & My Heart,Ava Max,Heaven & Hell,track,2020,174760,pop,73
+Gitana (feat. Sergio Contreras y Demarco Flamenco),Rasel,Gitana (feat. Sergio Contreras y Demarco Flamenco),track,2020,169591,pop,50
+Love Again,Dua Lipa,Future Nostalgia,track,2020,258004,pop,78
+GIRL LIKE ME,Black Eyed Peas,TRANSLATION,track,2020,222522,pop,80
+Amigos,Galvan Real,Amigos,track,2020,196481,pop,57
+Si Tú La Quieres,David Bisbal,Si Tú La Quieres,track,2020,224761,pop,57
+Echo,Olivia Dean,Echo,track,2020,197586,pop,79
+Head & Heart (feat. MNEK),Joel Corry,Head & Heart (feat. MNEK),track,2020,166028,pop,75
+Por Primera Vez,Camilo,Por Primera Vez,track,2020,182708,pop,65
+Color Esperanza 2020,Diego Torres,Color Esperanza 2020,track,2020,217546,pop,67
+How You Like That,BLACKPINK,THE ALBUM,track,2020,182956,pop,76
+Honeypie,JAWNY,For Abby,track,2020,135581,pop,78
+Prisoner (feat. Dua Lipa),Miley Cyrus,Plastic Hearts,track,2020,169338,pop,72
+Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,The Weeknd,After Hours (Deluxe),track,2020,191013,pop,85
+party 4 u,Charli xcx,how i'm feeling now,track,2020,296653,pop,85
+Vida de Rico,Camilo,Vida de Rico,track,2020,187406,pop,61
+Back Door,Stray Kids,IN LIFE,track,2020,189286,pop,71
+Pretty Please,Dua Lipa,Future Nostalgia,track,2020,194607,pop,69
+Shinunoga E-Wa,Fujii Kaze,HELP EVER HURT NEVER,track,2020,185573,pop,78
+Chandelier,Will Paquin,Chandelier,track,2020,127464,pop,75
+Fall Into Me,Forest Blakk,I Saw Love,track,2020,226066,pop,71
+Control,Zoe Wees,Control,track,2020,230880,pop,70
+Oye,TINI,TINI TINI TINI,track,2020,173021,pop,64
+Torn,Ava Max,Heaven & Hell,track,2020,198005,pop,67
+Diamonds,Sam Smith,Love Goes,track,2020,213869,pop,67
+Locura,Cali Y El Dandee,Colegio,track,2020,209026,pop,57
+Rain On Me (with Ariana Grande),Lady Gaga,Chromatica,track,2020,182200,pop,73
+Lovefool,twocolors,Lovefool,track,2020,190487,pop,69
+Hallucinate,Dua Lipa,Future Nostalgia,track,2020,208505,pop,68
+La Bella y la Bestia,Reik,La Bella y la Bestia,track,2020,186359,pop,64
+Daechwita,Agust D,D-2,track,2020,225668,pop,75
+Dance Monkey,Bossa Nova Covers,Dance Monkey,track,2020,209000,pop,62
+Te Amo y Te Odio,Galvan Real,Te Amo y Te Odio,track,2020,216046,pop,44
+motive (with Doja Cat),Ariana Grande,Positions,track,2020,167989,pop,74
+Fever,Dua Lipa,Future Nostalgia,track,2020,156910,pop,67
+Titanic,Kany García,Mesa Para Dos,track,2020,238628,pop,62
+BEBÉ,Camilo,BEBÉ,track,2020,198706,pop,60
+Corazón Sin Vida,Aitana,Corazón Sin Vida,track,2020,181978,pop,49
+Habibi - Remix,La Cebolla,Caracas,track,2020,270284,pop,45
+Fix You,Bossa Bros,Fix You,track,2020,201000,pop,61
+That's What I Like,Bossa Nova Covers,Bossa Nova Covers,track,2020,201499,pop,61
+Te debo una canción,Shinova,Te debo una canción,track,2020,211491,pop,45
+pov,Ariana Grande,Positions,track,2020,201882,pop,76
+Killing Me Softly With His Song,Nara,Bossa Covers,track,2020,249409,pop,62
+Pretty Savage,BLACKPINK,THE ALBUM,track,2020,201122,pop,72
+Vas a encontrarte (feat. Guitarricadelafuente) - Acústica,Muerdo,Fin de la primera vida,track,2020,211493,pop,49
+Shallow,Bossa Bros,Shallow,track,2020,201000,pop,63
+You're All I Want,Cigarettes After Sex,You're All I Want,track,2020,264453,pop,76
+People You Know,Selena Gomez,Rare,track,2020,194900,pop,76
+Midnight Sky,Miley Cyrus,Plastic Hearts,track,2020,223279,pop,71
+Una Aventura,Galvan Real,Una Aventura,track,2020,198440,pop,46
+Dancing In the Moonlight,Bossa Nova Covers,Bossa Nova Covers,track,2020,212689,pop,65
+Chica Ideal,Sebastian Yatra,Chica Ideal,track,2020,183240,pop,63
+Deseos de cosas imposibles,Valeria Castro,Deseos de cosas imposibles,track,2020,214881,pop,47
+High (Remix),Maria Becerra,High (Remix),track,2020,244200,pop,58
+紅蓮華,LiSA,LEO-NiNE,track,2020,237586,pop,72
+Bésame,David Bisbal,En Tus Planes,track,2020,200961,pop,48
+Qué bonito,Valeria Castro,Qué bonito,track,2020,230000,pop,48
+Lovesick Girls,BLACKPINK,THE ALBUM,track,2020,194765,pop,72
+00:00 (Zero O’Clock),BTS,MAP OF THE SOUL : 7,track,2020,250295,pop,70
+Fly To My Room,BTS,BE,track,2020,222242,pop,68
+safety net (feat. Ty Dolla $ign),Ariana Grande,Positions,track,2020,208457,pop,72
+Before You Go - Guitar Acoustic,Lewis Capaldi,Before You Go EP,track,2020,218900,pop,64
+Blue & Grey,BTS,BE,track,2020,254950,pop,69
+Love To Hate Me,BLACKPINK,THE ALBUM,track,2020,171797,pop,64
+Stupid Love,Lady Gaga,Chromatica,track,2020,193533,pop,66
+Hot Stuff,Kygo,Hot Stuff,track,2020,199007,pop,63
+On Division St,Nation of Language,"Introduction, Presence",track,2020,194215,pop,61
+What Am I Gonna Do On Sundays?,Olivia Dean,What Am I Gonna Do On Sundays?,track,2020,209213,pop,71
+Fresa,TINI,TINI TINI TINI,track,2020,165612,pop,60
+Let's Love,David Guetta,Let's Love,track,2020,200645,pop,62
+No Te Vayas,Camilo,Por Primera Vez,track,2020,200851,pop,60
+Mystery Lady,Masego,Studying Abroad: Extended Stay,track,2020,228453,pop,74
+22,TINI,TINI TINI TINI,track,2020,159187,pop,62
+Essence (feat. Tems),Wizkid,Made In Lagos,track,2020,249033,pop,76
+Slave to Love,BossArt Ensemble,Slave to Love,track,2020,211191,pop,54
+Filter,BTS,MAP OF THE SOUL : 7,track,2020,180220,pop,71
+Moves Like Jagger,Bossa Nova Covers,Bossa Nova Covers,track,2020,223483,pop,54
+Bajo La Mesa,Morat,Bajo La Mesa,track,2020,157080,pop,56
+bloody valentine,mgk,Tickets To My Downfall,track,2020,205158,pop,70
+my ex's best friend (with blackbear),mgk,Tickets To My Downfall,track,2020,139460,pop,74
+More Than a Woman,Ituana,More Than a Woman,track,2020,178000,pop,55
+Given-Taken,ENHYPEN,BORDER : DAY ONE,track,2020,183090,pop,72
+Black Catcher,VK Blanka,Black Catcher,track,2020,195000,pop,65
+Nunca Te Olvidé,Morat,Nunca Te Olvidé,track,2020,211970,pop,57
+Break My Stride,Bossa Nova Covers,Bossa Nova Covers,track,2020,248812,pop,56
+Stand By Me,Pablo Cepeda,"Bossa Nova Covers, Vol. 1",track,2020,201525,pop,56
+Secrets,Regard,Secrets,track,2020,176766,pop,66
+Company,Sarah Menescal,Modern Jukebox,track,2020,179736,pop,55
+Forest Floor,Ocie Elliott,In That Room,track,2020,222320,pop,66
+Tanto,Jesse & Joy,Aire (Versión Día),track,2020,219760,pop,66
+Búscame,Kany García,Mesa Para Dos,track,2020,157248,pop,58
+Killshot,Magdalena Bay,A Little Rhythm and a Wicked Feeling,track,2020,236363,pop,72
+Vamos a la Playa,Loona,Stars,track,2020,179960,pop,67
+Take On Me,Bossa Nova Covers,Bossa Nova Covers,track,2020,245012,pop,57
+"Hey, Soul Sister",Rio Branco,Bossa Nova Covers,track,2020,196048,pop,57
+Shape of You,Nara,Bossa Covers,track,2020,214403,pop,58
+Cake By The Ocean,Bossa Nova Covers,Cake By The Ocean,track,2020,223106,pop,58
+if we never met - remix,John K,if we never met (remix),track,2020,186594,pop,61
+All of Me,Nara,Bossa Covers,track,2020,250575,pop,58
+Can't Take My Eyes off You,Bossa Bros,Can't Take My Eyes off You,track,2020,214738,pop,59
+Moonlight,Agust D,D-2,track,2020,163015,pop,66
+Afterglow,Ed Sheeran,Afterglow,track,2020,185486,pop,68
+ON,BTS,MAP OF THE SOUL : 7,track,2020,246380,pop,72
+MORE,K/DA,MORE,track,2020,217088,pop,68
+Black Swan,BTS,MAP OF THE SOUL : 7,track,2020,198260,pop,71
+Love Not War (The Tampa Beat),Jason Derulo,Love Not War (The Tampa Beat),track,2020,192921,pop,61
+Louder than bombs,BTS,MAP OF THE SOUL : 7,track,2020,217404,pop,66
+My Pace,Stray Kids,SKZ2020,track,2020,190306,pop,64
+Hellevator,Stray Kids,SKZ2020,track,2020,239133,pop,64
+THE BADDEST,K/DA,THE BADDEST,track,2020,162600,pop,65
+District 9,Stray Kids,SKZ2020,track,2020,213586,pop,63
+forget me too (feat. Halsey),mgk,Tickets To My Downfall,track,2020,171620,pop,71
+Crosswords,Olivia Dean,Crosswords,track,2020,153445,pop,69
+Tick Tock (feat. 24kGoldn),Clean Bandit,Tick Tock (feat. 24kGoldn),track,2020,178373,pop,65
+Telepathy,BTS,BE,track,2020,202313,pop,66
+My Time,BTS,MAP OF THE SOUL : 7,track,2020,234457,pop,66
+Pero Te Conocí,Reik,20 -- 21,track,2020,186870,pop,58
+CRY FOR ME,TWICE,CRY FOR ME,track,2020,204167,pop,69
+Cloud 9,Beach Bunny,Honeymoon,track,2020,147350,pop,72
+Crazy Over You,BLACKPINK,THE ALBUM,track,2020,163945,pop,64
+People,Agust D,D-2,track,2020,197000,pop,66
+Baby Come Home,Olivia Dean,Baby Come Home,track,2020,188320,pop,68
+Who,Lauv,~how i'm feeling~,track,2020,180413,pop,68
+Sempe,L.A.X,ZaZa Vibes,track,2020,171428,pop,63
+Suéltate el Pelo,TINI,TINI TINI TINI,track,2020,127302,pop,58
+Satisfied (Ambient Reprise),Catching Flies,Silver Linings Remixed,track,2020,195959,pop,64
+Acércate,TINI,TINI TINI TINI,track,2020,142477,pop,59
+Watermelon Sugar,Banda Do Sul,Watermelon Sugar,track,2020,212833,pop,53
+Falta Amor,Sebastian Yatra,Falta Amor,track,2020,203760,pop,56
+Lasting Lover,Sigala,Lasting Lover,track,2020,218358,pop,63
+Love Hurts,Sarah Menescal,Love Hurts,track,2020,176246,pop,52
+Hooked On a Feeling,Bossa Nova Covers,Bossa Nova Covers,track,2020,200542,pop,53
+911,Lady Gaga,Chromatica,track,2020,172133,pop,65
+In Your Eyes (feat. Alida),Robin Schulz,In Your Eyes (feat. Alida),track,2020,208222,pop,59
+Only for a Moment,Lola Marsh,Someday Tomorrow Maybe,track,2020,168213,pop,48
+Perfect,Pablo Cepeda,"Bossa Nova Covers, Vol. 1",track,2020,301005,pop,54
+We are Bulletproof : the Eternal,BTS,MAP OF THE SOUL : 7,track,2020,261542,pop,68
+UGH!,BTS,MAP OF THE SOUL : 7,track,2020,225012,pop,66
+Toate Diamantele,Luis Gabriel,Toate Diamantele,track,2020,185782,pop,57
+After the Love Has Gone,Rio Branco,Bossa Nova Covers,track,2020,234615,pop,53
+Only Happy When It Rains,Amazonics,Amazónico,track,2020,181540,pop,53
+Some Say - Felix Jaehn Remix,Nea,Some Say (Felix Jaehn Remix),track,2020,186878,pop,64
+Maria,HWASA,María,track,2020,199026,pop,70
+Last Friday Night (T.G.I.F.),Anakelly,Last Friday Night (T.G.I.F.),track,2020,210066,pop,54
+Magia (feat. Sebastián Yatra),Andrés Cepeda,Trece,track,2020,193853,pop,58
+Broke (feat. Thomas Rhett),Teddy Swims,Broke (feat. Thomas Rhett),track,2020,160692,pop,64
+Espelho,Mari Froes,Espelho,track,2020,208986,pop,61
+WANNABE,ITZY,IT'z ME,track,2020,191242,pop,69
+Let Her Go,Rio Branco,Bossa Nova Covers,track,2020,247309,pop,55
+Waiting for Love,Bossa Nova Covers,Bossa Nova Covers,track,2020,159400,pop,54
+Lovefool,Bossa Nova Covers,Bossa Nova Covers,track,2020,194000,pop,54
+Despacito,Pablo Cepeda,"Bossa Nova Covers, Vol. 1",track,2020,279010,pop,54
+Ice Cream (with Selena Gomez),BLACKPINK,THE ALBUM,track,2020,177813,pop,65
+Mon Amour - Remix,zzoilo,Mon Amour (Remix),track,2021,179940,pop,77
+A quemarropa,Fito y Fitipaldis,Cada vez cadáver,track,2021,293601,pop,55
+You Belong With Me (Taylor’s Version),Taylor Swift,Fearless (Taylor's Version),track,2021,231124,pop,82
+Ojitos Negros,Sergio Contreras,Ojitos Negros,track,2021,234000,pop,51
+Save Your Tears (with Ariana Grande) (Remix),The Weeknd,Save Your Tears (Remix),track,2021,191013,pop,81
+Where Are You Now,Lost Frequencies,Where Are You Now,track,2021,148197,pop,78
+Porfa no te vayas,Beret,Porfa no te vayas,track,2021,209712,pop,62
+Tacones Rojos,Sebastian Yatra,Tacones Rojos,track,2021,189320,pop,70
+KESI,Camilo,Mis Manos,track,2021,177255,pop,61
+Aunque No Sea Conmigo,Aitana,Aunque No Sea Conmigo,track,2021,179648,pop,58
+Millones,Camilo,Mis Manos,track,2021,221749,pop,67
+La Magia,Galvan Real,La Magia,track,2021,201052,pop,61
+Rasputin,Majestic,Rasputin,track,2021,186209,pop,80
+Besos Como Puñales,Javi Medina,Besos Como Puñales,track,2021,215261,pop,53
+Ojalá Pudiera Ir,Kike & Manu,Ojalá Pudiera Ir,track,2021,202868,pop,52
+guerrera,Valeria Castro,guerrera,track,2021,270093,pop,57
+"jealousy, jealousy",Olivia Rodrigo,SOUR,track,2021,173160,pop,81
+Inercia,IZAL,Hogar,track,2021,227808,pop,50
+Mala Vida,Luis Cortés,Mala Vida,track,2021,169381,pop,55
+Flamenco y Bachata,Daviles de Novelda,Flamenco y Bachata,track,2021,191333,pop,59
+Leave Before You Love Me (with Jonas Brothers),Marshmello,Leave Before You Love Me,track,2021,154983,pop,82
+Llueve sobre mojado,Pablo Alborán,Llueve sobre mojado,track,2021,228783,pop,55
+Cielo hermético,Fito y Fitipaldis,Cada vez cadáver,track,2021,239258,pop,58
+Alegría de Vivir,Tu Otra Bonita,Alegría de Vivir,track,2021,204090,pop,53
+Viaje Sin Vuelta,Paula Mattheus,Viaje Sin Vuelta,track,2021,200739,pop,51
+No Hay Más Que Hablar,Morat,¿A Dónde Vamos?,track,2021,211935,pop,69
+La sonrisa intacta,Shinova,La buena suerte,track,2021,206872,pop,57
+La Niña de la Escuela,Lola Indigo,La Niña,track,2021,204414,pop,64
+En Sueños,Luis Cortés,En Sueños,track,2021,192244,pop,57
+Lo Vas A Olvidar (with ROSALÍA),Billie Eilish,Lo Vas A Olvidar (with ROSALÍA),track,2021,203464,pop,62
+Volver a ser Romeo (feat. Galvan Real),Maki,X: Incondicional Trilogía Parte III,track,2021,203644,pop,52
+I Follow Rivers - The Magician Remix,Lykke Li,Wounded Rhymes (Anniversary Edition),track,2021,279635,pop,76
+Me Quedo Contigo,Miguel Campello,Con Todos Mis Respetos,track,2021,248298,pop,54
+Easy On Me,Adele,30,track,2021,224694,pop,83
+Kiss Me More (feat. SZA),Doja Cat,Planet Her,track,2021,208666,pop,86
+Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Riton,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],track,2021,169153,pop,82
+Cold Heart - PNAU Remix,Elton John,Cold Heart (PNAU Remix),track,2021,202735,pop,82
+Gitana,MARLENA,Gitana,track,2021,215107,pop,56
+i walk this earth all by myself,EKKSTACY,NEGATIVE,track,2021,145634,pop,83
+La Quiero a Morir,Miguel Campello,Con Todos Mis Respetos,track,2021,214163,pop,51
+deja vu,Olivia Rodrigo,SOUR,track,2021,215506,pop,86
+good 4 u,Olivia Rodrigo,SOUR,track,2021,178146,pop,83
+Woman,Doja Cat,Planet Her,track,2021,172626,pop,85
+Been Like This,Doja Cat,Planet Her,track,2021,177373,pop,81
+Envolver,Anitta,Envolver,track,2021,193805,pop,69
+Don't Go Yet,Camila Cabello,Don't Go Yet,track,2021,164842,pop,66
+La Distancia,Manuel Medrano,Eterno,track,2021,197186,pop,75
+De Cero,Morat,¿A Dónde Vamos?,track,2021,187373,pop,65
+No Necesito Más,Demarco Flamenco,No Necesito Más,track,2021,183765,pop,48
+I Drink Wine,Adele,30,track,2021,376169,pop,76
+Drunk-Dazed,ENHYPEN,BORDER : CARNIVAL,track,2021,193260,pop,77
+"Red Lights (Bang Chan, Hyunjin)",Stray Kids,NOEASY,track,2021,189906,pop,73
+enough for you,Olivia Rodrigo,SOUR,track,2021,202826,pop,76
+Till Forever Falls Apart,Ashe,Ashlyn,track,2021,222926,pop,72
+VIVIR ASÍ ES MORIR DE AMOR,NATHY PELUSO,VIVIR ASÍ ES MORIR DE AMOR,track,2021,257379,pop,62
+OUT OUT (feat. Charli XCX & Saweetie),Joel Corry,OUT OUT (feat. Charli XCX & Saweetie),track,2021,162603,pop,71
+Hot Blooded,New Constellations,Hot Blooded,track,2021,287000,pop,78
+The Motto,Tiësto,The Motto,track,2021,164818,pop,73
+Need to Know,Doja Cat,Planet Her,track,2021,210560,pop,79
+NDA,Billie Eilish,Happier Than Ever,track,2021,195776,pop,75
+Canción Bonita,Carlos Vives,Canción Bonita,track,2021,169559,pop,63
+Idiota,Morat,¿A Dónde Vamos?,track,2021,183693,pop,67
+De Perreo,Marlon,De Perreo,track,2021,173784,pop,46
+KESI - Remix,Camilo,KESI (Remix),track,2021,176575,pop,66
+We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,Red (Taylor's Version),track,2021,193146,pop,73
+Run,OneRepublic,Human (Deluxe),track,2021,168259,pop,73
+Norte,Inazio,Norte,track,2021,190380,pop,48
+No me lo creo RMX,Nyno Vargas,El Efecto Nyno... Continuará,track,2021,191997,pop,47
+Cada vez cadáver,Fito y Fitipaldis,Cada vez cadáver,track,2021,337226,pop,48
+Escápate Conmigo 2.0,Flowtiago,Escápate Conmigo 2.0,track,2021,254545,pop,46
+Suite,Galvan Real,Suite,track,2021,207530,pop,47
+Hypnotized,Purple Disco Machine,Exotica,track,2021,195704,pop,62
+Mess It Up,Gracie Abrams,Mess It Up,track,2021,171280,pop,77
+Something About You,Eyedress,Mulholland Drive,track,2021,153312,pop,70
+Me Enamoré De Ti,David Bisbal,20 Años Contigo,track,2021,204933,pop,60
+La Historia Interminable,ELYELLA,La Historia Interminable,track,2021,193818,pop,47
+la corriente,Valeria Castro,la corriente,track,2021,175642,pop,50
+Cold Heart - Acoustic,Elton John,Cold Heart (Acoustic),track,2021,195373,pop,64
+My Universe,Coldplay,My Universe,track,2021,228000,pop,74
+Ve y dile (feat. Antonio José),Nyno Vargas,El Efecto Nyno... Continuará,track,2021,224842,pop,48
+"Hola, mi amor (feat. Lérica, Junco)",Nyno Vargas,El Efecto Nyno... Continuará,track,2021,204734,pop,47
+Lo Que Hará Mi Boca,Antonio José,Fénix,track,2021,174653,pop,58
+Irreparable,Galvan Real,Irreparable,track,2021,202149,pop,50
+Hacerte Volar,Lori Meyers,Espacios Infinitos,track,2021,282188,pop,49
+Procuro Olvidarte,Miguel Campello,Con Todos Mis Respetos,track,2021,211792,pop,51
+brutal,Olivia Rodrigo,SOUR,track,2021,143746,pop,76
+You Right,Doja Cat,Planet Her,track,2021,186173,pop,82
+MONEY,LISA,LALISA,track,2021,168227,pop,74
+edamame,bbno$,eat ya veggies,track,2021,133706,pop,79
+CHEESE,Stray Kids,NOEASY,track,2021,182080,pop,67
+Far Away (feat. A$AP Rocky),Yebba,Dawn,track,2021,199415,pop,75
+DPM (De Pxta Madre),Kany García,DPM (De Pxta Madre),track,2021,181684,pop,58
+You,Regard,You,track,2021,233386,pop,70
+Be My Own Boyfriend,Olivia Dean,Be My Own Boyfriend,track,2021,207960,pop,73
+Butter,BTS,"Butter (Hotter, Sweeter, Cooler)",track,2021,164441,pop,69
+Feels Like,Gracie Abrams,This Is What It Feels Like,track,2021,152317,pop,74
+Los Tragos,Reik,Los Tragos,track,2021,171000,pop,61
+Can I Get It,Adele,30,track,2021,210384,pop,66
+Heartbreak Anthem (with David Guetta & Little Mix),Galantis,Heartbreak Anthem (with David Guetta & Little Mix),track,2021,183725,pop,66
+22 (Taylor's Version),Taylor Swift,Red (Taylor's Version),track,2021,230960,pop,71
+Al Aire,Morat,¿A Dónde Vamos?,track,2021,169040,pop,59
+Float,Olivia Dean,Growth,track,2021,183346,pop,74
+Overpass Graffiti,Ed Sheeran,=,track,2021,236906,pop,67
+INVISIBLE,Duran Duran,FUTURE PAST,track,2021,191459,pop,74
+FEVER,ENHYPEN,BORDER : CARNIVAL,track,2021,172106,pop,76
+Lost Cause,Billie Eilish,Happier Than Ever,track,2021,212496,pop,71
+Diamantes,Natanael Cano,A Mis 20,track,2021,211352,pop,77
+The Feels,TWICE,Formula of Love: O+T=<3,track,2021,198053,pop,74
+Christmas EveL,Stray Kids,Christmas EveL,track,2021,178529,pop,71
+DOMINO,Stray Kids,NOEASY,track,2021,198720,pop,69
+残響散歌,Aimer,残響散歌,track,2021,184898,pop,70
+I Knew You Were Trouble (Taylor's Version),Taylor Swift,Red (Taylor's Version),track,2021,219760,pop,71
+En Coma,Morat,¿A Dónde Vamos?,track,2021,203946,pop,58
+Perdiendo la Cabeza,Carlos Rivera,Crónicas de una Guerra,track,2021,165360,pop,57
+Thunderous,Stray Kids,NOEASY,track,2021,183266,pop,72
+Yesterday,Bossa Bros,Yesterday,track,2021,188385,pop,57
+Oxytocin,Billie Eilish,Happier Than Ever,track,2021,210232,pop,71
+Gone,ROSÉ,R,track,2021,207163,pop,67
+Stayin´ Alive,Bossa Bros,Stayin´ Alive,track,2021,206988,pop,58
+We're Good,Dua Lipa,Future Nostalgia (The Moonlight Edition),track,2021,165506,pop,69
+Smokin Out The Window,Bruno Mars,An Evening With Silk Sonic,track,2021,197442,pop,74
+Slipping Away,LEISURE,Sunsetter,track,2021,235506,pop,71
+On The Ground,ROSÉ,R,track,2021,168085,pop,67
+Acapulco,Jason Derulo,Acapulco,track,2021,139672,pop,66
+Sweet Child O' Mine,Bossa Nova Covers,Sweet Child O' Mine,track,2021,204154,pop,62
+Hold Me Closer,Elton John,The Lockdown Sessions,track,2021,202245,pop,67
+Permission to Dance,BTS,Permission to Dance,track,2021,187585,pop,74
+I Must Apologise,PinkPantheress,to hell with it,track,2021,108373,pop,75
+Maldita Foto,TINI,Maldita Foto,track,2021,190344,pop,58
+Simple Things,Teddy Swims,Simple Things (Piano Version),track,2021,179043,pop,68
+LALISA,LISA,LALISA,track,2021,200689,pop,69
+Skate,Bruno Mars,An Evening With Silk Sonic,track,2021,203122,pop,71
+Ruin My Life,Zara Larsson,Poster Girl,track,2021,190051,pop,78
+Let You Break My Heart Again,Laufey,Let You Break My Heart Again,track,2021,269066,pop,79
+Fearless (Taylor’s Version),Taylor Swift,Fearless (Taylor's Version),track,2021,241591,pop,75
+Stress Relief,late night drive home,Am I sinking or Am I swimming?,track,2021,205714,pop,73
+Message In A Bottle (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),track,2021,225960,pop,73
+What's New Scooby-Doo?,Simple Plan,What's New Scooby-Doo?,track,2021,68695,pop,66
+The Very First Night (Taylor's Version) (From The Vault),Taylor Swift,Red (Taylor's Version),track,2021,200280,pop,68
+OverHeated,Billie Eilish,Happier Than Ever,track,2021,214058,pop,68
+rubberband,Tate McRae,TOO YOUNG TO BE SAD,track,2021,147259,pop,70
+Date La Vuelta,Morat,¿A Dónde Vamos?,track,2021,197092,pop,60
+Hush,The Marías,CINEMA,track,2021,181893,pop,70
+0X1=LOVESONG (I Know I Love You) feat. Seori,TOMORROW X TOGETHER,The Chaos Chapter: FREEZE,track,2021,202203,pop,70
+Dragostea Din Tei (W&W Remix),O-Zone,Dragostea Din Tei (W&W Remix),track,2021,174435,pop,60
+AOK,Tai Verdes,TV,track,2021,173640,pop,68
+Stumblin' In,Chris Norman,Licorice Pizza (Original Motion Picture Soundtrack),track,2021,238853,pop,60
+When I’m Gone (with Katy Perry),Alesso,When I’m Gone (with Katy Perry),track,2021,161266,pop,66
+I Guess I Just Feel Like,John Mayer,Sob Rock,track,2021,286386,pop,64
+Not My Responsibility,Billie Eilish,Happier Than Ever,track,2021,227679,pop,69
+Cover Me In Sunshine,P!nk,Cover Me In Sunshine,track,2021,141050,pop,68
+Porte Exuberante,Natanael Cano,A Mis 20,track,2021,213943,pop,71
+Simplemente Pasan,Morat,¿A Dónde Vamos?,track,2021,181316,pop,59
+Someday,OneRepublic,Human (Deluxe),track,2021,187888,pop,66
+By Your Side (feat. Tom Grennan),Calvin Harris,By Your Side (feat. Tom Grennan),track,2021,189671,pop,62
+Primeras Veces,Morat,¿A Dónde Vamos?,track,2021,192299,pop,59
+Take You Dancing,Pablo Cepeda,Take You Dancing,track,2021,268500,pop,53
+Everywhere,Rio Branco,Bossa Nova Covers (Vol. 2),track,2021,214224,pop,53
+GOLDWING,Billie Eilish,Happier Than Ever,track,2021,151536,pop,68
+Karma Chameleon,Bossa Nova Covers,Karma Chameleon,track,2021,278610,pop,54
+Cross My Mind,Olivia Dean,Growth,track,2021,170434,pop,73
+Amoeba,Clairo,Sling,track,2021,228922,pop,75
+Shivers - Ofenbach Remix,Ed Sheeran,Shivers (Ofenbach Remix),track,2021,187247,pop,65
+Shy Away,Twenty One Pilots,Scaled And Icy,track,2021,175044,pop,68
+Follow You,Imagine Dragons,Follow You / Cutthroat,track,2021,175643,pop,63
+Wasted Love (feat. Lagique),Ofenbach,Wasted Love (feat. Lagique),track,2021,139563,pop,61
+Sweet Dreams (Are Made of This),Bossa Nova Covers,Sweet Dreams (Are Made of This),track,2021,193616,pop,54
+No Termino,Morat,¿A Dónde Vamos?,track,2021,240319,pop,56
+Ain't No Mountain High Enough,Bossa Nova Covers,Ain't No Mountain High Enough,track,2021,171667,pop,55
+Ain't No Sunshine,Nara,Ain't No Sunshine,track,2021,137926,pop,56
+Por Las Noches,Peso Pluma,Por Las Noches,track,2021,238888,pop,74
+Bed on Fire (with Ingrid Andress),Teddy Swims,Bed on Fire (with Ingrid Andress),track,2021,228507,pop,64
+Viva La Vida,Rio Branco,Viva La Vida,track,2021,213250,pop,56
+I Say a Little Prayer,Rio Branco,I Say a Little Prayer,track,2021,229500,pop,56
+I Gotta Feeling,Rio Branco,I Gotta Feeling,track,2021,231500,pop,57
+Love Again - Imanbek Remix,Dua Lipa,Love Again (Imanbek Remix),track,2021,214000,pop,63
+I Was Made for Lovin' You,Bossa Nova Covers,I Was Made for Lovin' You,track,2021,210000,pop,57
+Rakata,Arca,KICK ii,track,2021,151531,pop,59
+I Don't Know - Radio Mix,Erika,Erika (Essential Tunes),track,2021,199302,pop,69
+怪物,YOASOBI,THE BOOK 2,track,2021,205480,pop,68
+Salir Con Vida,Morat,SI AYER FUERA HOY,track,2022,176086,pop,67
+Llamada Perdida,Morat,SI AYER FUERA HOY,track,2022,165629,pop,66
+Wild Flower (with youjeen),RM,Indigo,track,2022,273499,pop,83
+Segundos Platos,Morat,SI AYER FUERA HOY,track,2022,184666,pop,70
+MANIAC,Stray Kids,ODDINARY,track,2022,182757,pop,78
+Recuerdos del Baile,Ultraligera,Recuerdos del Baile,track,2022,221720,pop,61
+París,Morat,París,track,2022,182187,pop,62
+Late Night Talking,Harry Styles,Harry's House,track,2022,177954,pop,77
+506,Morat,SI AYER FUERA HOY,track,2022,180552,pop,68
+El día menos pensado,Beret,Resiliencia,track,2022,224675,pop,61
+Debí Suponerlo,Morat,SI AYER FUERA HOY,track,2022,144631,pop,71
+23,Morat,23,track,2022,187605,pop,65
+La Fiesta,Pedro Capó,La Fiesta,track,2022,201044,pop,61
+NIGHTS LIKE THESE,Benson Boone,Walk Me Home...,track,2022,172514,pop,79
+Beso robado,Beret,Resiliencia,track,2022,259320,pop,56
+Amores Maníos,El Barrio,Atemporal,track,2022,258013,pop,50
+G3 N15,ROSALÍA,MOTOMAMI,track,2022,252121,pop,63
+Curandero,El Barrio,Atemporal,track,2022,246813,pop,49
+Levantaremos al sol,Álvaro De Luna,Levantaremos al sol,track,2022,223630,pop,51
+LA PLAYA,Nil Moliner,LA PLAYA,track,2022,214193,pop,51
+Y te voy a querer,Antoñito Molina,La ley de mi naturaleza,track,2022,256153,pop,57
+Apareciste Tú,Ruben Delallana,Apareciste Tú,track,2022,224593,pop,52
+Dharma,Sebastian Yatra,Dharma,track,2022,195760,pop,60
+5 SENTÍOS,India Martinez,Nuestro Mundo,track,2022,215320,pop,51
+Tal Vez,Salistre,Tal Vez,track,2022,208588,pop,52
+Mi Corazón Es Mío,Galvan Real,Mi Corazón Es Mío,track,2022,206590,pop,50
+Alegría,Demarco Flamenco,En una sola palabra,track,2022,193334,pop,51
+Supongo,Antoñito Molina,La ley de mi naturaleza,track,2022,208670,pop,51
+Vivir conmigo,Antoñito Molina,La ley de mi naturaleza,track,2022,227014,pop,51
+Me estoy volviendo loco,Antoñito Molina,La ley de mi naturaleza,track,2022,226086,pop,56
+Ya no me muero por nadie,Antoñito Molina,La ley de mi naturaleza,track,2022,227029,pop,54
+El Adormitar De Los Laureles,El Barrio,Atemporal,track,2022,253000,pop,50
+because i liked a boy,Sabrina Carpenter,emails i can't send,track,2022,196458,pop,79
+Hoja en Blanco - Versión flamenca,Luis Cortés,Hoja en Blanco (Versión flamenca),track,2022,197840,pop,58
+Amigos (con Maria Becerra),Pablo Alborán,La cuarta hoja,track,2022,233755,pop,60
+La Bachata,Marta Santos,La Bachata,track,2022,134736,pop,58
+Envuelto en llamas,Marta Santos,Envuelto en llamas,track,2022,174782,pop,57
+La Llama del Amor - Riega Este Querer - Rumba/Alborea,Omar Montes,Quejíos de un Maleante,track,2022,178186,pop,50
+Nonsense,Sabrina Carpenter,emails i can't send,track,2022,163648,pop,84
+Las Cosas Pequeñitas,Marta Santos,Las Cosas Pequeñitas,track,2022,166000,pop,64
+Anti-Hero,Taylor Swift,Midnights,track,2022,200690,pop,81
+Enjoy the Silence,Depeche Mode,"Violator | The 12"" Singles",track,2022,257630,pop,80
+Radio,Bershy,Radio,track,2022,201853,pop,77
+Yet To Come,BTS,Proof,track,2022,193593,pop,76
+Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],track,2022,201391,pop,73
+Hold My Hand,Lady Gaga,"Hold My Hand (Music From The Motion Picture ""Top Gun: Maverick"")",track,2022,225300,pop,71
+La Triple T,TINI,La Triple T,track,2022,167674,pop,63
+CUFF IT,Beyoncé,RENAISSANCE,track,2022,225388,pop,75
+Ditto,NewJeans,Ditto,track,2022,185506,pop,82
+Contigo,Sebastian Yatra,Contigo,track,2022,208600,pop,57
+Escapism.,RAYE,Escapism.,track,2022,272373,pop,76
+Supongo Que Lo Sabes,Ha*Ash,Haashtag,track,2022,226480,pop,74
+CASE 143,Stray Kids,MAXIDENT,track,2022,191964,pop,73
+DON'T YOU WORRY,Black Eyed Peas,DON'T YOU WORRY,track,2022,196363,pop,64
+A New Kind Of Love - Demo,Frou Frou,A New Kind Of Love (Demo),track,2022,259071,pop,80
+Nunca Al Revés,Morat,SI AYER FUERA HOY,track,2022,181775,pop,63
+About Damn Time,Lizzo,Special,track,2022,191937,pop,74
+Karma,Taylor Swift,Midnights,track,2022,204852,pop,77
+Wrecked,Imagine Dragons,Mercury - Acts 1 & 2,track,2022,244004,pop,73
+In the Dark,Purple Disco Machine,Exotica (Deluxe),track,2022,185564,pop,56
+Tan solo tú,La Llave,Numen,track,2022,137006,pop,48
+Por Si Te Vas,María Peláe,La Folcrónica,track,2022,261788,pop,48
+21 Reasons (feat. Ella Henderson),Nathan Dawe,21 Reasons (feat. Ella Henderson),track,2022,155253,pop,72
+10:35,Tiësto,10:35,track,2022,172252,pop,74
+Pena,Luis Cortés,Pena,track,2022,204418,pop,48
+she's all i wanna be,Tate McRae,i used to think i could fly,track,2022,207123,pop,79
+Lo Justo,Maka,Lo Justo,track,2022,175631,pop,48
+"You're On Your Own, Kid",Taylor Swift,Midnights,track,2022,194206,pop,78
+Cruje la cama,Raule,Limbo,track,2022,175764,pop,48
+Love Lost,Mac Miller,"I Love Life, Thank You",track,2022,162875,pop,78
+Fuera de Mi (feat. José Alma),Nyno Vargas,Fuera de Mi (feat. José Alma),track,2022,213285,pop,48
+Deep Down (feat. Never Dull),Alok,Deep Down (feat. Never Dull),track,2022,165714,pop,75
+Pink Venom,BLACKPINK,BORN PINK,track,2022,186964,pop,74
+Con Poco,Javi Medina,Ángel,track,2022,199105,pop,49
+Arrebato De Amor,Juanlu Montoya,Con Calma,track,2022,225340,pop,50
+the perfect pair,beabadoobee,Beatopia,track,2022,177533,pop,84
+Canastera,Luis Cortés,Canastera,track,2022,160799,pop,48
+Run BTS,BTS,Proof,track,2022,204939,pop,78
+Cerquita de Mí,Marta Santos,Cerquita de Mí,track,2022,180379,pop,50
+Reventar la Ciudad,Walls,Reventar la Ciudad,track,2022,209271,pop,50
+SAKURA,ROSALÍA,MOTOMAMI,track,2022,201667,pop,58
+Falling Behind,Laufey,Everything I Know About Love,track,2022,173640,pop,82
+Rush,Ayra Starr,19 & Dangerous (Deluxe),track,2022,185093,pop,73
+Shut Down,BLACKPINK,BORN PINK,track,2022,175889,pop,73
+"TASTE (Lee Know, Hyunjin, Felix)",Stray Kids,MAXIDENT,track,2022,216120,pop,69
+No Me Rajo,Hadrian,Niño De Oro,track,2022,165103,pop,63
+That That (prod.&feat. SUGA of BTS),PSY,PSY 9th,track,2022,174646,pop,71
+My You,Jung Kook,My You,track,2022,165070,pop,71
+Pistol,Cigarettes After Sex,Pistol,track,2022,234174,pop,71
+POP!,NAYEON,IM NAYEON,track,2022,168106,pop,72
+"DANÇARINA (feat. Nicky Jam, MC Pedrinho) - Remix",PEDRO SAMPAIO,"DANÇARINA (feat. Nicky Jam, MC Pedrinho) [Remix]",track,2022,212000,pop,61
+this is what falling in love feels like - Leon Leiden Remix,JVKE,this is what falling in love feels like (Leon Leiden Remix),track,2022,120157,pop,66
+Charmer,Stray Kids,ODDINARY,track,2022,188573,pop,69
+Marte,Sofía Reyes,Mal De Amores,track,2022,218800,pop,65
+uh oh,Tate McRae,uh oh,track,2022,169721,pop,75
+THE LONELIEST,Måneskin,THE LONELIEST,track,2022,247067,pop,67
+Buenos Días,Wisin,Buenos Días,track,2022,199880,pop,56
+People Watching,Conan Gray,Superache,track,2022,158536,pop,73
+understand,Omah Lay,Boy Alone,track,2022,174545,pop,69
+Die Hard,Kendrick Lamar,Mr. Morale & The Big Steppers,track,2022,239026,pop,75
+Monalisa,Lojay,Monalisa,track,2022,212975,pop,73
+Lavender Haze,Taylor Swift,Midnights,track,2022,202395,pop,73
+Ya No Vuelvas (Versión Cuarteto),Luck Ra,Ya No Vuelvas (Versión Cuarteto),track,2022,204000,pop,65
+Minefields,Faouzia,CITIZENS,track,2022,190605,pop,69
+Valentine,Laufey,Everything I Know About Love,track,2022,168906,pop,77
+...Baby One More Time,Bossa Bros,...Baby One More Time,track,2022,240100,pop,57
+Justito a Tiempo,Kany García,Justito a Tiempo,track,2022,161739,pop,55
+Use Somebody,Isaac Hale,Use Somebody,track,2022,188437,pop,60
+Numb,Marshmello,Numb,track,2022,155588,pop,71
+Read your Mind,Sabrina Carpenter,emails i can't send,track,2022,207849,pop,74
+Words (feat. Zara Larsson),Alesso,Words (feat. Zara Larsson),track,2022,142677,pop,73
+Lejos Conmigo,Greeicy,La Carta,track,2022,175853,pop,55
+Billete Grande (En Vivo),Fuerza Regida,Billete Grande (En Vivo),track,2022,163940,pop,77
+dose,Teddy Swims,Sleep is Exhausting,track,2022,180807,pop,67
+Rolling in the Deep,Bossa Nova Covers,Rolling in the Deep,track,2022,223889,pop,61
+Suzume,RADWIMPS,Suzume (Motion Picture Soundtrack),track,2022,238560,pop,71
+NIGHT DANCER,imase,POP CUBE,track,2022,210600,pop,73
+All Night Long (all Night),Eve St. Jones,French Café,track,2022,229046,pop,59
+Los Besos,Greeicy,La Carta,track,2022,202333,pop,62
+Hotel California,Bossa Bros,Hotel California,track,2022,248464,pop,61
+Typa Girl,BLACKPINK,BORN PINK,track,2022,179172,pop,69
+Agüita e Coco,Kany García,El Amor Que Merecemos,track,2022,176759,pop,60
+Cure For Me,AURORA,The Gods We Can Touch,track,2022,198853,pop,65
+Hype Boy,NewJeans,NewJeans 1st EP 'New Jeans',track,2022,179026,pop,78
+Bejeweled,Taylor Swift,Midnights,track,2022,194165,pop,74
+Where Did You Go? (feat. MNEK),Jax Jones,Where Did You Go (feat. MNEK),track,2022,177689,pop,69
+Celestial,Ed Sheeran,Celestial,track,2022,209026,pop,68
+Love For You,LOVELI LORI,Love For You,track,2022,170233,pop,76
+Stay Alive (Prod. SUGA of BTS),Jung Kook,Stay Alive (Prod. SUGA of BTS),track,2022,210928,pop,70
+Midnight Rain,Taylor Swift,Midnights,track,2022,174782,pop,75
+Tornado Warnings,Sabrina Carpenter,emails i can't send,track,2022,204179,pop,68
+Everything Matters,AURORA,The Gods We Can Touch,track,2022,213906,pop,63
+TOMBOY,i-dle,I NEVER DIE,track,2022,174386,pop,69
+New Genesis,Ado,UTA'S SONGS ONE PIECE FILM RED,track,2022,226813,pop,67
+FEARLESS,LE SSERAFIM,FEARLESS,track,2022,168437,pop,72
+After LIKE,IVE,After LIKE,track,2022,176973,pop,73
+Backlight,Ado,UTA'S SONGS ONE PIECE FILM RED,track,2022,237666,pop,68
+i'm a mess,Omah Lay,Boy Alone,track,2022,153946,pop,65
+Mi Terre CLN,Fuerza Regida,Pa Que Hablen,track,2022,172056,pop,71
+La Loto,TINI,La Loto,track,2022,190666,pop,59
+Wish I Didn't Miss You - Mahogany Sessions,Olivia Dean,Wish I Didn’t Miss You (Mahogany Sessions),track,2022,235008,pop,69
+ANTIFRAGILE,LE SSERAFIM,ANTIFRAGILE,track,2022,184444,pop,70
+De Adentro Pa Afuera,Camilo,De Adentro Pa Afuera,track,2022,189674,pop,57
+When You're Gone,Shawn Mendes,When You're Gone,track,2022,172266,pop,68
+HALAZIA,ATEEZ,SPIN OFF : FROM THE WITNESS,track,2022,197025,pop,67
+The Astronaut,Jin,The Astronaut,track,2022,282463,pop,69
+Santa Fe,Morat,SI AYER FUERA HOY,track,2022,166179,pop,57
+Tú no me conoces,Danny Ocean,@dannocean,track,2022,149787,pop,58
+2 Be Loved (Am I Ready),Lizzo,Special,track,2022,187107,pop,64
+LOVE DIVE,IVE,LOVE DIVE,track,2022,177186,pop,72
+emails i can’t send,Sabrina Carpenter,emails i can't send,track,2022,104408,pop,69
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),track,2022,182906,pop,73
+Call It Love,Felix Jaehn,Call It Love,track,2022,154560,pop,68
+Head Shoulders Knees & Toes (feat. Norma Jean Martine),Ofenbach,I,track,2022,156960,pop,65
+VENOM,Stray Kids,ODDINARY,track,2022,194840,pop,68
+I Think I Left the Stove On,Hotel Ugly,I Think I Left the Stove On,track,2022,202490,pop,73
+My Girl,Pablo Cepeda,Bossa Nova Covers Vol. 3,track,2022,174375,pop,54
+CIRCUS,Stray Kids,CIRCUS,track,2022,194440,pop,66
+Baloncito Viejo,Carlos Vives,Baloncito Viejo,track,2022,170862,pop,54
+Fantasi,TINI,Fantasi,track,2022,158080,pop,57
+Bandana,Fireboy DML,Playboy,track,2022,178225,pop,71
+Dancing Feet (feat. DNCE),Kygo,Dancing Feet (feat. DNCE),track,2022,215203,pop,61
+All By Myself,Alok,All By Myself,track,2022,171750,pop,64
+Bleed,Connor Kauffman,Bleed,track,2022,145454,pop,69
+AMG,Natanael Cano,AMG,track,2022,174942,pop,70
+Cold Heart,Pablo Cepeda,Bossa Nova Covers Vol. 4,track,2022,185417,pop,57
+Mastermind,Taylor Swift,Midnights,track,2022,191039,pop,69
+Englishman In New York (feat. Alfredo Chacon),Pablo Cepeda,Bossa Nova Covers Vol. 4,track,2022,206544,pop,55
+maybe (feat. Bring Me The Horizon),mgk,mainstream sellout,track,2022,170133,pop,70
+Cookie,NewJeans,NewJeans 1st EP 'New Jeans',track,2022,235562,pop,75
+Nxde,i-dle,I love,track,2022,178453,pop,69
+Casualidad,Sofía Reyes,Mal De Amores,track,2022,193112,pop,55
+Peru,Fireboy DML,Playboy,track,2022,187111,pop,68
+Pictures of You,Drugdealer,Hiding in Plain Sight,track,2022,189466,pop,71
+Cásate Conmigo,Silvestre Dangond,INTRUSO,track,2022,209032,pop,60
+Odo,Ado,Kyougen,track,2022,210346,pop,68
+La Morocha,Luck Ra,La Morocha,track,2023,134144,pop,74
+Haegeum,Agust D,D-DAY,track,2023,168926,pop,88
+Todo Mentira,Maka,Todo Mentira,track,2023,192839,pop,56
+Oral,Björk,Oral,track,2023,222737,pop,61
+Te Miro A La Cara,Daviles de Novelda,Te Miro A La Cara,track,2023,142900,pop,56
+Overdrive (feat. Norma Jean Martine),Ofenbach,Overdrive (feat. Norma Jean Martine),track,2023,155905,pop,77
+The Hardest Part,Olivia Dean,Messy,track,2023,176048,pop,87
+Ella Baila Sola,Eslabon Armado,Ella Baila Sola,track,2023,165671,pop,77
+la raíz,Valeria Castro,con cariño y con cuidado,track,2023,224501,pop,58
+Standing Next to You,Jung Kook,GOLDEN,track,2023,206019,pop,83
+Gente Luminosa,El Arrebato,Una Tarde Cualquiera,track,2023,236251,pop,57
+run for the hills,Tate McRae,THINK LATER,track,2023,143940,pop,84
+Todos los Besos,Siloé,Santa Trinidad,track,2023,267300,pop,68
+NUEVA VIDA,Peso Pluma,GÉNESIS,track,2023,190680,pop,82
+SUPERHÉROES,Beret,SUPERHÉROES,track,2023,200294,pop,55
+Te Comía,Maka,Te Comía,track,2023,175390,pop,56
+Pink Pony Club,Chappell Roan,The Rise and Fall of a Midwest Princess,track,2023,258034,pop,85
+ASI ES LA VIDA,Enrique Iglesias,ASI ES LA VIDA,track,2023,172095,pop,67
+ESTA COBARDÍA,Shakira Martínez,ESTA COBARDÍA,track,2023,193615,pop,52
+Recuerda,Luis Cortés,Recuerda,track,2023,193000,pop,53
+Que Se Pare el TIempo,Marta Santos,Poquito a Poquito,track,2023,160624,pop,55
+NADA QUE DECIR,Nil Moliner,Lugar Paraíso,track,2023,213850,pop,54
+DOS PRIMAVERAS,Nil Moliner,Lugar Paraíso,track,2023,175748,pop,54
+Corazón de Melón,Marta Santos,Poquito a Poquito,track,2023,177500,pop,57
+Feather,Sabrina Carpenter,emails i can’t send fwd:,track,2023,185552,pop,83
+Hablar De Nada,Viva Suecia,El Amor De La Clase Que Sea (Edición Especial),track,2023,181994,pop,54
+Duerme,Luis Cortés,Duerme,track,2023,157000,pop,52
+Candil,Fraderita,Candil,track,2023,220500,pop,54
+exes,Tate McRae,THINK LATER,track,2023,159400,pop,83
+Cupido,TINI,Cupido,track,2023,174369,pop,65
+Dive,Olivia Dean,Messy,track,2023,200759,pop,88
+El paraíso,Mikel Izal,El miedo y el paraíso,track,2023,204306,pop,62
+Si te Marchas - Remix Con Mengui y Carmelo,Fraderita,Si te Marchas (Remix Con Mengui y Carmelo),track,2023,180000,pop,53
+vampire,Olivia Rodrigo,GUTS,track,2023,219724,pop,85
+From The Start,Laufey,Bewitched,track,2023,169573,pop,88
+Me Sabe Mal,MARLENA,1000 Primeras Veces,track,2023,196225,pop,62
+Me Sabe a Sal,Marta Santos,Poquito a Poquito,track,2023,152275,pop,62
+Baby Don't Hurt Me,David Guetta,Baby Don't Hurt Me,track,2023,140017,pop,79
+Algo Sencillito,Marta Santos,Poquito a Poquito,track,2023,177338,pop,67
+Acróstico - Milan + Sasha,Shakira,Acróstico (Milan + Sasha),track,2023,170785,pop,70
+La_Original.mp3,Emilia,.mp3,track,2023,140625,pop,71
+Seven (feat. Latto) (Explicit Ver.),Jung Kook,GOLDEN,track,2023,183550,pop,85
+lacy,Olivia Rodrigo,GUTS,track,2023,177212,pop,82
+Sale el Sol en el Bajo A,Javi Medina,Sale el Sol en el Bajo A,track,2023,202508,pop,58
+Dance The Night - From Barbie The Album,Dua Lipa,Dance The Night (From Barbie The Album),track,2023,176579,pop,80
+Un Clásico,Ana Mena,bellodrama,track,2023,172891,pop,54
+greedy,Tate McRae,greedy,track,2023,131872,pop,88
+Cosas Bonitas,Pepe y Vizio,Cosas Bonitas,track,2023,221449,pop,57
+guilty conscience,Tate McRae,THINK LATER,track,2023,152049,pop,77
+Enchanted (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),track,2023,353253,pop,78
+LALALALA,Stray Kids,ROCK-STAR,track,2023,182224,pop,78
+get him back!,Olivia Rodrigo,GUTS,track,2023,211141,pop,76
+UNA CERVEZA,Fuerza Regida,Pa las Baby's Y Belikeada,track,2023,279275,pop,80
+Bite Me,ENHYPEN,DARK BLOOD,track,2023,157531,pop,80
+Blank Space (Taylor's Version),Taylor Swift,1989 (Taylor's Version),track,2023,231833,pop,75
+Ladies Room,Olivia Dean,Messy,track,2023,220372,pop,79
+MEGAVERSE,Stray Kids,ROCK-STAR,track,2023,185520,pop,74
+pretty isn’t pretty,Olivia Rodrigo,GUTS,track,2023,199422,pop,78
+Red Wine Supernova,Chappell Roan,The Rise and Fall of a Midwest Princess,track,2023,192720,pop,80
+Casual,Chappell Roan,The Rise and Fall of a Midwest Princess,track,2023,232796,pop,81
+Mi Mejor Versión,Walls,Mi Mejor Versión,track,2023,201833,pop,49
+BABY SAID,Måneskin,RUSH!,track,2023,164682,pop,72
+Yes or No,Jung Kook,GOLDEN,track,2023,147557,pop,77
+Copa Vacía,Shakira,Copa Vacía,track,2023,173547,pop,64
+Y LLORO,Junior H,$AD BOYZ 4 LIFE II,track,2023,179013,pop,86
+Te Pido,TINI,Cupido,track,2023,174893,pop,65
+Rock My Body,R3HAB,Rock My Body (with INNA & Sash!),track,2023,137419,pop,71
+all-american bitch,Olivia Rodrigo,GUTS,track,2023,165833,pop,74
+S-Class,Stray Kids,5-STAR,track,2023,195688,pop,76
+Otra Lenta,Fondo Flamenco,Flamenkito Puroh,track,2023,204715,pop,51
+Con Solo una Sonrisa,Melendi,20 Años Sin Noticias,track,2023,234611,pop,52
+Gracias,Viva Suecia,El Amor De La Clase Que Sea (Edición Especial),track,2023,217728,pop,50
+Alucin,Eugenio Esquivel,Alucin,track,2023,197114,pop,69
+bad idea right?,Olivia Rodrigo,GUTS,track,2023,184783,pop,77
+Olvidé Olvidarte,Marlon,Que Se Caiga el Cielo,track,2023,181840,pop,51
+Seven (feat. Latto) (Clean Ver.),Jung Kook,GOLDEN,track,2023,183550,pop,78
+Mi Varadero,Salistre,Mi Varadero,track,2023,150176,pop,51
+New Jeans,NewJeans,NewJeans 'Super Shy',track,2023,108986,pop,80
+SANTORINI REMIX,Enol,SANTORINI REMIX,track,2023,166714,pop,53
+Wish You The Best,Lewis Capaldi,Broken By Desire To Be Heavenly Sent,track,2023,210880,pop,76
+Rush,Troye Sivan,Something To Give Each Other,track,2023,156391,pop,79
+Para toda la vida,Miss Caffeina,Para toda la vida,track,2023,173986,pop,52
+He sido,Vanesa Martín,He sido,track,2023,199321,pop,52
+Poquito a Poquito,Marta Santos,Poquito a Poquito,track,2023,135000,pop,54
+Triana,Galvan Real,Triana,track,2023,190838,pop,51
+La Noche Perfecta - Remix,Antonio José,La Noche Perfecta (Remix),track,2023,211922,pop,51
+El Día Que Tú Te Marches,Estopa,El Día Que Tú Te Marches,track,2023,208101,pop,52
+Hora Loca,Rawayana,¿Quién trae las cornetas?,track,2023,191825,pop,68
+Seven (feat. Latto),Jung Kook,Seven (feat. Latto),track,2023,184400,pop,79
+"Peso Pluma: Bzrp Music Sessions, Vol. 55/66",Bizarrap,"Peso Pluma: Bzrp Music Sessions, Vol. 55/66",track,2023,188361,pop,70
+Super Shy,NewJeans,NewJeans 'Super Shy',track,2023,154666,pop,80
+Take Two,BTS,Take Two,track,2023,229953,pop,72
+BOUNCY (K-HOT CHILLI PEPPERS),ATEEZ,THE WORLD EP.2 : OUTLAW,track,2023,187310,pop,73
+Like Crazy,Jimin,FACE,track,2023,212241,pop,75
+ETA,NewJeans,NewJeans 2nd EP 'Get Up',track,2023,151373,pop,78
+TRUSTFALL,P!nk,TRUSTFALL,track,2023,237192,pop,70
+GODS,League of Legends,GODS,track,2023,220878,pop,73
+EXCESOS,Fuerza Regida,Pa las Baby's Y Belikeada,track,2023,187076,pop,82
+Somebody,Jung Kook,GOLDEN,track,2023,168599,pop,72
+ballad of a homeschooled girl,Olivia Rodrigo,GUTS,track,2023,203369,pop,70
+Dangerously Easy,Olivia Dean,Messy,track,2023,163826,pop,75
+Promise,Laufey,Bewitched,track,2023,234266,pop,79
+logical,Olivia Rodrigo,GUTS,track,2023,231907,pop,71
+La Diabla,Xavi,La Diabla,track,2023,172264,pop,75
+Closer to You (feat. Major Lazer),Jung Kook,GOLDEN,track,2023,170995,pop,72
+Please Don't Change (feat. DJ Snake),Jung Kook,GOLDEN,track,2023,146684,pop,73
+HARLEY QUINN,Fuerza Regida,Pa las Baby's Y Belikeada,track,2023,143327,pop,78
+Holy Ghost,Omah Lay,Holy Ghost,track,2023,186153,pop,70
+"Paris, Texas (feat. SYML)",Lana Del Rey,Did you know that there's a tunnel under Ocean Blvd,track,2023,206722,pop,72
+Out Of The Woods (Taylor's Version),Taylor Swift,1989 (Taylor's Version),track,2023,235800,pop,73
+アイドル,YOASOBI,アイドル,track,2023,213233,pop,73
+SPECIALZ,King Gnu,SPECIALZ,track,2023,238986,pop,74
+Don't Stop Me Now,Rio Branco,Bossa Nova Covers (Vol. 4),track,2023,301500,pop,62
+Queencard,i-dle,I feel,track,2023,161240,pop,72
+OMG,NewJeans,NewJeans 'OMG',track,2023,212253,pop,80
+Que Onda,Calle 24,Que Onda,track,2023,191466,pop,77
+Padam Padam,Kylie Minogue,Tension (Deluxe),track,2023,166266,pop,68
+Flowers,Bossa Nova Covers,Flowers,track,2023,216722,pop,62
+Always on My Mind,Sarah Menescal,Always on My Mind,track,2023,195759,pop,60
+Lovin On Me,Jack Harlow,Lovin On Me,track,2023,138411,pop,80
+Style (Taylor's Version),Taylor Swift,1989 (Taylor's Version),track,2023,231000,pop,76
+Hate You,Jung Kook,GOLDEN,track,2023,154236,pop,75
+El Bolero - Acústico,Yami Safdie,El Bolero (acústico),track,2023,209217,pop,63
+teenage dream,Olivia Rodrigo,GUTS,track,2023,222358,pop,72
+One Of Your Girls,Troye Sivan,Something To Give Each Other,track,2023,181481,pop,74
+Drama,aespa,Drama - The 4th Mini Album,track,2023,214973,pop,78
+Femininomenon,Chappell Roan,The Rise and Fall of a Midwest Princess,track,2023,219710,pop,75
+love is embarrassing,Olivia Rodrigo,GUTS,track,2023,154516,pop,73
+CRAZYZ,Fuerza Regida,Pa las Baby's Y Belikeada,track,2023,204815,pop,78
+3DABI,Draganov,3DABI,track,2023,202000,pop,66
+Tarde,Morat,Tarde,track,2023,162181,pop,62
+FLOWER,JISOO,ME,track,2023,173134,pop,70
+Cupid - Twin Version,FIFTY FIFTY,The Beginning,track,2023,173461,pop,75
+HOT TO GO!,Chappell Roan,The Rise and Fall of a Midwest Princess,track,2023,184841,pop,78
+3D (feat. Jack Harlow),Jung Kook,3D : The Remixes,track,2023,201812,pop,76
+we're not alike,Tate McRae,THINK LATER,track,2023,180392,pop,73
+Hits Different,Taylor Swift,Midnights (The Til Dawn Edition),track,2023,234466,pop,72
+REACT,Switch Disco,REACT,track,2023,201145,pop,66
+Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version),track,2023,146436,pop,72
+The Hardest Part (feat. Leon Bridges),Olivia Dean,The Hardest Part (feat. Leon Bridges),track,2023,176048,pop,74
+Substitution (feat. Julian Perretta),Purple Disco Machine,Substitution (feat. Julian Perretta),track,2023,181477,pop,67
+Too Sad to Dance,Jung Kook,GOLDEN,track,2023,175911,pop,71
+Sweet Venom,ENHYPEN,ORANGE BLOOD,track,2023,148753,pop,73
+Shake It Off (Taylor's Version),Taylor Swift,1989 (Taylor's Version),track,2023,219209,pop,70
+Love Me Again,V,Layover,track,2023,182293,pop,74
+SABOR FRESA,Fuerza Regida,SABOR FRESA,track,2023,156500,pop,74
+Cha Cha Cha,Käärijä,Cha Cha Cha,track,2023,175161,pop,63
+Slow Dancing,V,Layover,track,2023,187026,pop,75
+Boy's a liar Pt. 2,PinkPantheress,Boy's a liar Pt. 2,track,2023,131013,pop,73
+絆ノ奇跡,MAN WITH A MISSION,絆ノ奇跡,track,2023,223320,pop,70
+Used To Be Young,Miley Cyrus,Endless Summer Vacation,track,2023,191185,pop,69
+Sugar Sweet,Benson Boone,Sugar Sweet,track,2023,169839,pop,70
+Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version),track,2023,229477,pop,73
+Perfect Night,LE SSERAFIM,Perfect Night,track,2023,159080,pop,78
+TOPLINE (Feat. Tiger JK),Stray Kids,5-STAR,track,2023,203546,pop,70
+A Night To Remember,beabadoobee,A Night To Remember,track,2023,233388,pop,77
+hurt my feelings,Tate McRae,THINK LATER,track,2023,122416,pop,74
+Las Jordans,TINI,Cupido,track,2023,144799,pop,60
+BATTER UP,BABYMONSTER,BATTER UP,track,2023,188179,pop,74
+Feo,Morat,Feo,track,2023,177493,pop,58
+ITALODISCO,The Kolors,ITALODISCO,track,2023,199512,pop,68
+Let It Be,Rio Branco,Bossa Nova Covers (Vol. 4),track,2023,226374,pop,58
+Shot Glass of Tears,Jung Kook,GOLDEN,track,2023,167246,pop,71
+Messy,Olivia Dean,Messy,track,2023,223231,pop,72
+Dancing Queen,Rio Branco,Bossa Nova Covers (Vol. 3),track,2023,271500,pop,59
+Correcaminos,Alejandro Sanz,Correcaminos,track,2023,182106,pop,58
+Aishite Aishite Aishite,Ado,Ado's Utattemita Album,track,2023,258372,pop,72
+Africa,Rio Branco,Bossa Nova Covers (Vol. 3),track,2023,266000,pop,60
+Luck Ra | Mission 15,Alan Gomez,Luck Ra | Mission 15,track,2023,133284,pop,62
+D-Day,Agust D,D-DAY,track,2023,211373,pop,69
+My Kink Is Karma,Chappell Roan,The Rise and Fall of a Midwest Princess,track,2023,222578,pop,75
+hotline (edit),Billie Eilish,hotline (edit),track,2023,60719,pop,74
+I AM,IVE,I've IVE,track,2023,183853,pop,75
+You & Me,JENNIE,JENNIE Special Single [You & Me],track,2023,179164,pop,68
+I'm Not In Love,Bossa Bros,I'm Not In Love,track,2023,163961,pop,60
+Is It Love,Loreen,Is It Love,track,2023,143669,pop,62
+September,Rio Branco,Bossa Nova Covers (Vol. 4),track,2023,206250,pop,61
+Dance The Night,Dua Lipa,Barbie The Album,track,2023,176579,pop,70
+Smells Like Teen Spirit,Bossa Nova Covers,Smells Like Teen Spirit,track,2023,277469,pop,61
+Choose Your Fighter (From Barbie The Album),Ava Max,Choose Your Fighter (From Barbie The Album),track,2023,137514,pop,69

@@ -1,0 +1,935 @@
+name_track,artist_name_raw,artist_name_norm,name_album,type_info,release_year,duration_ms,popularity,id_genre
+Never There,Sum 41,sum 41,Order In Decline,track,2019,260093,54,2
+Stand Out Fit In,ONE OK ROCK,one ok rock,Eye of the Storm,track,2019,214573,62,2
+This Life,Vampire Weekend,vampire weekend,Father of the Bride,track,2019,268600,59,2
+Seventeen,Sharon Van Etten,sharon van etten,Remind Me Tomorrow,track,2019,265920,61,2
+MANTRA,Bring Me The Horizon,bring me the horizon,amo,track,2019,233128,62,2
+It's Alright,The Mystery Lights,the mystery lights,Too Much Tension!,track,2019,170546,58,2
+Kiss The Go-Goat,Ghost,ghost,Seven Inches of Satanic Panic,track,2019,195693,62,2
+Mario Neta,El Cuarteto De Nos,el cuarteto de nos,Jueves,track,2019,234786,54,2
+Hurricane,I Prevail,i prevail,TRAUMA,track,2019,223173,68,2
+Drugs,Falling In Reverse,falling in reverse,Drugs,track,2019,231920,61,2
+Legendary,Skillet,skillet,Victorious,track,2019,244538,63,2
+Cold as Ice,Foreigner,foreigner,"Stranger Things: Soundtrack from the Netflix Original Series, Season 3",track,2019,199480,54,2
+Invincible,TOOL,tool,Fear Inoculum,track,2019,764456,62,2
+A Las Nueve,No Te Va Gustar,no te va gustar,Otras Canciones,track,2019,202063,63,2
+Patience,Tame Impala,tame impala,Patience,track,2019,292267,65,2
+Killing Me Slowly,Bad Wolves,bad wolves,N.A.T.I.O.N.,track,2019,237065,66,2
+Scrawny,Wallows,wallows,Nothing Happens,track,2019,166520,66,2
+BOOM,X Ambassadors,x ambassadors,ORION,track,2019,164586,59,2
+Mama,Cam Cole,cam cole,I See,track,2019,147026,61,2
+Finish Line,Skillet,skillet,Victorious,track,2019,206060,64,2
+Personal Lies,Djo,djo,Twenty Twenty,track,2019,299546,64,2
+Princesa,Los Rodriguez,los rodriguez,Princesa,track,2019,270568,39,2
+Sleeptalk,Dayseeker,dayseeker,Sleeptalk (Deluxe),track,2019,223026,69,2
+Maple Syrup,The Backseat Lovers,the backseat lovers,When We Were Friends,track,2019,243529,71,2
+New Age Blues,Cam Cole,cam cole,I See,track,2019,257351,58,2
+Un hierro sin domar,Marea,marea,El azogue,track,2019,232222,33,2
+Shine A Little Light,The Black Keys,the black keys,"""Let's Rock""",track,2019,196776,59,2
+Hoy - Remezclado y Remasterizado 2019,Los De Marras,los de marras,Surrealismo (Remezclado y Remasterizado 2019),track,2019,202303,33,2
+Remember When,Wallows,wallows,Nothing Happens,track,2019,155146,70,2
+Popular Monster,Falling In Reverse,falling in reverse,Popular Monster,track,2019,220537,69,2
+Guerra Fría,Valira,valira,Ecos de Aventura,track,2019,276093,35,2
+Niamh,Celtian,celtian,En Tierra de Hadas,track,2019,226385,42,2
+Runnin' Down A Dream,Tom Petty,tom petty,The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016,track,2019,261812,69,2
+Disco,Surf Curse,surf curse,Disco,track,2019,152760,79,2
+Verano del 95,Rulo y la contrabanda,rulo y la contrabanda,Basado en hechos reales,track,2019,236373,40,2
+Quiero Que Vengas,Mala Hierba,mala hierba,Quiero Decir,track,2019,273026,39,2
+Lo/Hi,The Black Keys,the black keys,"""Let's Rock""",track,2019,177768,62,2
+38º,Walls,walls,38º,track,2019,202570,37,2
+If You Leave - Remastered 2019,Orchestral Manoeuvres In The Dark,orchestral manoeuvres in the dark,Souvenir,track,2019,269800,62,2
+Storm,Pugface,pugface,Storm,track,2019,61090,38,2
+Silencio,Celtas Cortos,celtas cortos,"30 Aniversario (Sólo recuerdo lo bueno, de lo malo nada)",track,2019,226093,44,2
+Hell N Back,Bakar,bakar,Hell N Back,track,2019,213573,72,2
+20 de abril (feat. Fito y Fitipaldis & IZAL),Celtas Cortos,celtas cortos,"30 Aniversario (Sólo recuerdo lo bueno, de lo malo nada)",track,2019,242951,47,2
+Chau,No Te Va Gustar,no te va gustar,Otras Canciones,track,2019,319393,68,2
+Social Cues,Cage The Elephant,cage the elephant,Social Cues,track,2019,219057,69,2
+I Think I'm OKAY (with YUNGBLUD & Travis Barker),mgk,mgk,Hotel Diablo,track,2019,169397,73,2
+Imagination,Foster The People,foster the people,Imagination,track,2019,256266,71,2
+World on Fire (feat. Slightly Stoopid),Stick Figure,stick figure,World on Fire,track,2019,238810,67,2
+Kilby Girl,The Backseat Lovers,the backseat lovers,When We Were Friends,track,2019,282205,77,2
+Doom And Gloom,The Rolling Stones,the rolling stones,Honk (Deluxe),track,2019,238546,51,2
+medicine,Bring Me The Horizon,bring me the horizon,amo,track,2019,227265,59,2
+striptease,carwash,carwash,striptease,track,2019,160659,61,2
+Cringe,Matt Maeson,matt maeson,Bank On The Funeral,track,2019,216213,69,2
+Fantasmas,Twin Tribes,twin tribes,Ceremony,track,2019,190525,57,2
+sugar honey ice & tea,Bring Me The Horizon,bring me the horizon,amo,track,2019,261560,59,2
+0% Angel,Mr.Kitty,mr kitty,Ephemeral,track,2019,234671,58,2
+The Runner,Foals,foals,Everything Not Saved Will Be Lost Part II,track,2019,261936,53,2
+Sweet Victory,David Glen Eisley,david glen eisley,Sweet Victory,track,2019,231042,53,2
+Descending,TOOL,tool,Fear Inoculum,track,2019,817832,58,2
+Shine,Stick Figure,stick figure,World on Fire,track,2019,269500,63,2
+Pool House,The Backseat Lovers,the backseat lovers,When We Were Friends,track,2019,269411,70,2
+"Viernes, 3AM - 2019 Remasterizado",Serú Girán,seru giran,La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019),track,2019,265312,54,2
+Ready To Let Go,Cage The Elephant,cage the elephant,Social Cues,track,2019,187973,61,2
+Oh! Darling - 2019 Mix,The Beatles,the beatles,Abbey Road (Super Deluxe Edition),track,2019,207146,51,2
+Constitución,Las eras,las eras,Austral,track,2019,220800,57,2
+Seeing It Through,WildHeart,wildheart,Seeing It Through,track,2019,209000,44,2
+God's Gonna Cut You Down,Marilyn Manson,marilyn manson,God's Gonna Cut You Down,track,2019,160538,55,2
+Raspberry Jam,Allah-Las,allah-las,Raspberry Jam,track,2019,228306,57,2
+Can't Fight This Feeling,REO Speedwagon,reo speedwagon,"Stranger Things: Soundtrack from the Netflix Original Series, Season 3",track,2019,292973,52,2
+Bad Woman Blues,Beth Hart,beth hart,War In My Mind,track,2019,215911,48,2
+Soy,Cruzando El Charco,cruzando el charco,Lo Que Somos,track,2019,191530,60,2
+Broken Boy,Cage The Elephant,cage the elephant,Social Cues,track,2019,163207,61,2
+Outside Of This Town,"Christone ""Kingfish"" Ingram",christone kingfish ingram,Kingfish,track,2019,248035,50,2
+Lonely,WildHeart,wildheart,Lonely,track,2019,188445,44,2
+Save Me,Skillet,skillet,Victorious,track,2019,223240,56,2
+Harmony Hall,Vampire Weekend,vampire weekend,Father of the Bride,track,2019,308733,60,2
+Animal,WildHeart,wildheart,Animal,track,2019,197969,45,2
+The Bottom of It,Fruit Bats,fruit bats,Gold Past Life,track,2019,181400,62,2
+Die To Live,Volbeat,volbeat,"Rewind, Replay, Rebound (Deluxe)",track,2019,182466,54,2
+Keeper,Reignwolf,reignwolf,Hear Me Out,track,2019,186992,56,2
+Forgotten Ghosts,Jadu Heart,jadu heart,Melt Away,track,2019,308000,55,2
+Dreamin (with blackbear),The Score,the score,Pressure,track,2019,198640,54,2
+Tell Me Lies,The Black Keys,the black keys,"""Let's Rock""",track,2019,219890,53,2
+TRIALS,STARSET,starset,DIVISIONS,track,2019,258506,59,2
+Brand New Numb,Motionless In White,motionless in white,Disguise,track,2019,222461,62,2
+in the dark,Bring Me The Horizon,bring me the horizon,amo,track,2019,271186,60,2
+Honky Tonk Women,The Rolling Stones,the rolling stones,Honky Tonk Women / You Can't Always Get What You Want,track,2019,182706,58,2
+Esos Ojos,No Te Va Gustar,no te va gustar,Otras Canciones,track,2019,175731,57,2
+Hot Rod,Dayglow,dayglow,Fuzzybrain,track,2019,204014,66,2
+MAYDAY (feat. Ryo from Crystal Lake),coldrain,coldrain,THE SIDE EFFECTS,track,2019,227011,58,2
+Out For Blood,Sum 41,sum 41,Order In Decline,track,2019,216571,54,2
+Do Your Worst,Rival Sons,rival sons,Feral Roots,track,2019,210493,54,2
+Bailemos (feat. Isma Romero) - Acústico,Dani Fernández,dani fernandez,Incendios y Cenizas,track,2019,218578,29,2
+Jungle,Somebody's Child,somebody s child,Jungle,track,2019,280613,60,2
+Dark Crow,MAN WITH A MISSION,man with a mission,Dark Crow,track,2019,278186,55,2
+De Vuelta de Ná,Sinkope,sinkope,Adicción Limitada,track,2019,304896,30,2
+Copla el precipicio,Marea,marea,El azogue,track,2019,289198,31,2
+Good Luck,Broken Bells,broken bells,Good Luck,track,2019,206813,58,2
+I Just Wanna Shine,Fitz and The Tantrums,fitz and the tantrums,All the Feels,track,2019,207925,63,2
+Now That You're Gone,The Raconteurs,the raconteurs,Help Us Stranger (With Track-by-Track Commentary),track,2019,240985,52,2
+Let Me Be Sad,I Prevail,i prevail,TRAUMA,track,2019,214226,61,2
+I Really Wish I Hated You,blink-182,blink-182,NINE,track,2019,191061,55,2
+La Grasa de las Capitales - 2019 Remasterizado,Serú Girán,seru giran,La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019),track,2019,268320,49,2
+Habit,Still Woozy,still woozy,Habit,track,2019,153871,61,2
+Sober,Bad Wolves,bad wolves,N.A.T.I.O.N.,track,2019,195477,59,2
+Wasted Nights,ONE OK ROCK,one ok rock,Eye of the Storm,track,2019,224746,56,2
+wonderful life (feat. Dani Filth),Bring Me The Horizon,bring me the horizon,amo,track,2019,274403,55,2
+Don't Stop,The Rolling Stones,the rolling stones,Honk (Deluxe),track,2019,239146,46,2
+Lo Nuestro Tiene Magia,Cruzando El Charco,cruzando el charco,Lo Que Somos,track,2019,193909,57,2
+When I'm Gone,Dirty Honey,dirty honey,Dirty Honey,track,2019,205090,51,2
+I See,Cam Cole,cam cole,I See,track,2019,246499,49,2
+El Último Polvo,Caramelos De Cianuro,caramelos de cianuro,Acústico Retrovisor,track,2019,272480,42,2
+Star,Allah-Las,allah-las,LAHS,track,2019,248344,54,2
+Victorious,Skillet,skillet,Victorious,track,2019,245715,54,2
+Here We Go,Norman,norman,Here We Go,track,2019,143280,49,2
+Turning Away,Sum 41,sum 41,Order In Decline,track,2019,230806,47,2
+Low Down Rolling Stone,Gary Clark Jr.,gary clark jr,This Land,track,2019,258200,51,2
+Just Like a Movie,Wallows,wallows,Nothing Happens (5th Anniversary Edition),track,2019,247613,59,2
+Chances,Five For Fighting,five for fighting,Chilled Summer,track,2019,215200,53,2
+nihilist blues (feat. Grimes),Bring Me The Horizon,bring me the horizon,amo,track,2019,325501,54,2
+Motion,Boy Harsher,boy harsher,Country Girl Uncut,track,2019,239832,54,2
+Walk Like a Motherfucker,Ghost Funk Orchestra,ghost funk orchestra,A Song For Paul,track,2019,185160,53,2
+My Name Is..,Once Monsters,once monsters,My Name Is..,track,2019,222710,54,2
+Fate,Boy Harsher,boy harsher,Careful,track,2019,257892,52,2
+Suit in the Back,Quaker City Night Hawks,quaker city night hawks,QCNH,track,2019,173253,50,2
+Blood Sport,Sleep Token,sleep token,Sundowning,track,2019,247200,62,2
+ECHO,STARSET,starset,DIVISIONS,track,2019,216720,57,2
+Alligator,Of Monsters and Men,of monsters and men,FEVER DREAM,track,2019,184026,55,2
+Black and Red,Reignwolf,reignwolf,Hear Me Out,track,2019,219522,52,2
+Culling Voices,TOOL,tool,Fear Inoculum,track,2019,605369,55,2
+Love Too Much,Keane,keane,Cause And Effect (Deluxe),track,2019,189186,47,2
+Did My Best,The Voidz,the voidz,Did My Best,track,2019,296938,54,2
+original me (feat. dan reynolds of imagine dragons),YUNGBLUD,yungblud,original me (feat. dan reynolds of imagine dragons),track,2019,205320,53,2
+Runaway Girl,Kakkmaddafakka,kakkmaddafakka,Diplomacy,track,2019,182761,43,2
+Darkside,blink-182,blink-182,NINE,track,2019,180952,55,2
+Sing To Me,MISSIO,missio,Sing To Me,track,2019,189920,55,2
+Leviathan,Volbeat,volbeat,"Rewind, Replay, Rebound (Deluxe)",track,2019,275933,54,2
+Viva La Victoria,Eclipse,eclipse,Paradigm,track,2019,191669,53,2
+Loner,YUNGBLUD,yungblud,Loner,track,2019,215185,54,2
+mother tongue,Bring Me The Horizon,bring me the horizon,amo,track,2019,217424,57,2
+Hombre Con Alas,El Cuarteto De Nos,el cuarteto de nos,Jueves,track,2019,226080,49,2
+Come on In,Thorbjørn Risager & The Black Tornado,thorbjørn risager the black tornado,Come on In,track,2019,249750,48,2
+Low Blow,HONEYMOAN,honeymoan,Body,track,2019,237293,57,2
+Go,The Black Keys,the black keys,"""Let's Rock""",track,2019,146596,51,2
+hope for the underrated youth,YUNGBLUD,yungblud,the underrated youth,track,2019,240906,54,2
+Last Day Under The Sun,Volbeat,volbeat,"Rewind, Replay, Rebound (Deluxe)",track,2019,287400,55,2
+heavy metal (feat. Rahzel),Bring Me The Horizon,bring me the horizon,amo,track,2019,240586,56,2
+The House of the Rising Sun,The Animals,the animals,The House of the Rising Sun: Best of The Animals,track,2019,269906,59,2
+British Bombs,Declan McKenna,declan mckenna,British Bombs,track,2019,297714,54,2
+"Somewhere Only We Know - Live at Live 8, Hyde Park, London, 2nd July 2005",Keane,keane,"Live 8 (Live, July 2005)",track,2019,247740,46,2
+Thy Mission,The Garden,the garden,Thy Mission,track,2019,221000,56,2
+Las Estrellas,Caramelos De Cianuro,caramelos de cianuro,Acústico Retrovisor,track,2019,199680,38,2
+Every Time You Leave,I Prevail,i prevail,TRAUMA,track,2019,216626,62,2
+Watch Your Mouth,The Backseat Lovers,the backseat lovers,When We Were Friends,track,2019,271176,64,2
+Weekend Friend,Goth Babe,goth babe,Weekend Friend,track,2019,209454,63,2
+Listerine,Dayglow,dayglow,Fuzzybrain,track,2019,215555,57,2
+Over My Shoulder,Mike + The Mechanics,mike the mechanics,Out Of The Blue,track,2019,296706,43,2
+The River,Twin Tribes,twin tribes,Ceremony,track,2019,236568,51,2
+Sweet Chaos,DAY6,day6,The Book of Us : Entropy,track,2019,227240,54,2
+La Grange - 2019 Remaster,ZZ Top,zz top,Goin' 50,track,2019,232506,46,2
+Fly Like an Eagle,Stereophonics,stereophonics,Kind (Deluxe),track,2019,272586,49,2
+Eagle Birds,The Black Keys,the black keys,"""Let's Rock""",track,2019,160543,47,2
+She Plays Bass,beabadoobee,beabadoobee,She Plays Bass,track,2019,207106,56,2
+Jealous,Eyedress,eyedress,Jealous,track,2019,122338,48,2
+Polar Onion,Allah-Las,allah-las,LAHS,track,2019,166364,47,2
+Tell Me When It’s Over,Sheryl Crow,sheryl crow,Threads,track,2019,296933,56,2
+Try Hard Fool,The Growlers,the growlers,Natural Affair,track,2019,191091,52,2
+Cracking,Crumb,crumb,Jinx,track,2019,111986,56,2
+Loving You,Chris Rea,chris rea,One Fine Day,track,2019,233826,45,2
+Dylan Thomas,Better Oblivion Community Center,better oblivion community center,Better Oblivion Community Center,track,2019,216786,52,2
+Right Now,Fire From The Gods,fire from the gods,American Sun,track,2019,225026,55,2
+7:24,Volbeat,volbeat,"Rewind, Replay, Rebound (Deluxe)",track,2019,250333,47,2
+Paranoid,I Prevail,i prevail,TRAUMA,track,2019,144546,59,2
+Hymn For A Droid,Psychedelic Porn Crumpets,psychedelic porn crumpets,And Now For The Whatchamacallit,track,2019,207453,50,2
+Rush,The Score,the score,Stay,track,2019,176443,50,2
+Sanitarios,Caramelos De Cianuro,caramelos de cianuro,Acústico Retrovisor,track,2019,226613,39,2
+Some Place Else,MorMor,mormor,Some Place Else,track,2019,214885,47,2
+El Divorcio,Vico y su Grupo Karicia,vico y su grupo karicia,La Guitarra y Yo,track,2019,178026,49,2
+why you gotta kick me when i'm down?,Bring Me The Horizon,bring me the horizon,amo,track,2019,268860,52,2
+Puedo Sentirlo (feat. Julieta Venegas),David Lebón,david lebon,Lebón & Co.,track,2019,207396,49,2
+Put It on the Line (Theme from Borderlands),The Heavy,the heavy,Put It on the Line (Theme from Borderlands),track,2019,197234,51,2
+The Dirt (Est. 1981) (feat. Machine Gun Kelly),Mötley Crüe,motley crue,The Dirt Soundtrack,track,2019,232000,51,2
+Fire Walk With Me,The Black Keys,the black keys,"""Let's Rock""",track,2019,178229,47,2
+Houston,Allah-Las,allah-las,LAHS,track,2019,133448,52,2
+Your Mind Is A Picture,Sean Koch,sean koch,Your Mind Is A Picture,track,2019,203684,46,2
+Sapphire,Alcest,alcest,Spiritual Instinct,track,2019,300503,50,2
+Skin and Bones,Cage The Elephant,cage the elephant,Social Cues,track,2019,196170,58,2
+Always There,Greta Van Fleet,greta van fleet,Always There,track,2019,322000,50,2
+Only Friend,Wallows,wallows,Nothing Happens,track,2019,181600,56,2
+Night Running,Cage The Elephant,cage the elephant,Social Cues,track,2019,208125,56,2
+HEY CHILD,X Ambassadors,x ambassadors,ORION,track,2019,208653,51,2
+Orbitron,Duster,duster,Capsule Losing Contact,track,2019,138266,60,2
+Easy Way Out,LEISURE,leisure,Twister,track,2019,232447,47,2
+In Degrees,Foals,foals,Everything Not Saved Will Be Lost Part I,track,2019,297632,48,2
+When Am I Gonna Lose You,Local Natives,local natives,Violet Street,track,2019,264213,59,2
+Rylan,The National,the national,I Am Easy to Find,track,2019,223853,45,2
+Pelvis On Fire,Volbeat,volbeat,"Rewind, Replay, Rebound (Deluxe)",track,2019,185266,49,2
+"Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",Five Finger Death Punch,five finger death punch,"Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",track,2019,274615,48,2
+forget me too (feat. Halsey),mgk,mgk,Tickets To My Downfall,track,2020,171620,71,2
+Not The Same Anymore,The Strokes,the strokes,The New Abnormal,track,2020,337333,61,2
+At The Door,The Strokes,the strokes,The New Abnormal,track,2020,310373,61,2
+Obey (with YUNGBLUD),Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,220538,63,2
+Eternal Summer,The Strokes,the strokes,The New Abnormal,track,2020,375320,61,2
+Cherry Flavoured,The Neighbourhood,the neighbourhood,Chip Chrome & The Mono-Tones,track,2020,208453,69,2
+Túnel de la Vida,El Plan De La Mariposa,el plan de la mariposa,Estado de Enlace,track,2020,240218,67,2
+Stargazing,The Neighbourhood,the neighbourhood,Chip Chrome & The Mono-Tones (Deluxe),track,2020,217026,71,2
+Sympathy For The Devil,Guns N' Roses,guns n roses,Greatest Hits,track,2020,455560,57,2
+Monsters (feat. blackbear),All Time Low,all time low,"Wake Up, Sunshine",track,2020,174067,69,2
+Borderline,Tame Impala,tame impala,The Slow Rush,track,2020,237800,86,2
+Kyoto,Phoebe Bridgers,phoebe bridgers,Punisher,track,2020,184524,65,2
+So We Won't Forget,Khruangbin,khruangbin,Mordechai,track,2020,298333,63,2
+CITY OF ANGELS (feat. YUNGBLUD) - YUNGBLUD Remix,24kGoldn,24kgoldn,CITY OF ANGELS (feat. YUNGBLUD) [YUNGBLUD Remix],track,2020,177138,63,2
+Parasite Eve,Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,291812,66,2
+Bad Decisions,The Strokes,the strokes,The New Abnormal,track,2020,293360,63,2
+Is It True,Tame Impala,tame impala,The Slow Rush,track,2020,239266,77,2
+Barcos Hundiéndose,La Maravillosa Orquesta del Alcohol,la maravillosa orquesta del alcohol,Ninguna Ola,track,2020,229252,33,2
+Ode To The Mets,The Strokes,the strokes,The New Abnormal,track,2020,351786,75,2
+The Adults Are Talking,The Strokes,the strokes,The New Abnormal,track,2020,309053,82,2
+Kick You When You're Down,AC/DC,ac dc,POWER UP,track,2020,190328,54,2
+Selfless,The Strokes,the strokes,The New Abnormal,track,2020,222093,78,2
+Rodeada de idiotas,Cobardes,cobardes,Ceniza y viento,track,2020,270326,34,2
+Demon Fire,AC/DC,ac dc,POWER UP,track,2020,210361,61,2
+Sin Ti No Hay Color,Sinkope,sinkope,Por Pensar Le Dio al Hombre,track,2020,302946,35,2
+The Wall & I,Nation of Language,nation of language,"Introduction, Presence",track,2020,304714,57,2
+Montaña Rusa,Noan,noan,Montaña Rusa,track,2020,166467,36,2
+Galaxia,Sidecars,sidecars,Ruido de fondo,track,2020,245080,35,2
+Breathe Deeper,Tame Impala,tame impala,The Slow Rush,track,2020,372866,72,2
+Merece la Pena,Pole.,pole,Merece la Pena,track,2020,194223,40,2
+Figure You Out,VOILÀ,voila,Long Story Short,track,2020,163436,75,2
+Chandelier,Will Paquin,will paquin,Chandelier,track,2020,127464,75,2
+1x1 (feat. Nova Twins),Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,209598,67,2
+Como un burro amarrado en la puerta del baile,El Último De La Fila,el ultimo de la fila,Canciones que nunca se irán. Los 90,track,2020,217093,42,2
+Teardrops,Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,215003,70,2
+Mi Pequeño Chernóbil,Leiva,leiva,Mi Pequeño Chernóbil,track,2020,260030,40,2
+Brooklyn Bridge To Chorus,The Strokes,the strokes,The New Abnormal,track,2020,235946,65,2
+bloody valentine,mgk,mgk,Tickets To My Downfall,track,2020,205158,70,2
+The Twist,Chubby Checker,chubby checker,Dancin' Party: The Chubby Checker Collection (1960-1966),track,2020,155040,63,2
+El Carro de la Vida - Versión Acústica,Sinkope,sinkope,El Carro de la Vida (Versión Acústica),track,2020,287873,46,2
+my ex's best friend (with blackbear),mgk,mgk,Tickets To My Downfall,track,2020,139460,74,2
+Como Si Fueras a Morir Mañana - Madrid Nuclear - En Directo,Leiva,leiva,Madrid Nuclear - En Directo,track,2020,283373,43,2
+Shot In The Dark,AC/DC,ac dc,POWER UP,track,2020,185131,63,2
+Why Are Sundays So Depressing,The Strokes,the strokes,The New Abnormal,track,2020,275666,71,2
+Kingslayer (feat. BABYMETAL),Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,220041,76,2
+Lost In Yesterday,Tame Impala,tame impala,The Slow Rush,track,2020,249586,72,2
+Crazy Train,Ozzy Osbourne,ozzy osbourne,Blizzard Of Ozz (40th Anniversary Expanded Edition),track,2020,293183,81,2
+One More Hour,Tame Impala,tame impala,The Slow Rush,track,2020,432560,74,2
+Freakin' Out On the Interstate,Briston Maroney,briston maroney,Freakin' Out On The Interstate (Acoustic Version [Live]),track,2020,251906,70,2
+Time (You and I),Khruangbin,khruangbin,Mordechai,track,2020,342189,61,2
+cotton candy,YUNGBLUD,yungblud,weird!,track,2020,167365,57,2
+Red Bellied Black Snake,The Beefs,the beefs,Red Bellied Black Snake,track,2020,173933,56,2
+Ordinary Man (feat. Elton John),Ozzy Osbourne,ozzy osbourne,Ordinary Man (feat. Elton John),track,2020,301730,54,2
+Don't Be Shy,Yusuf / Cat Stevens,yusuf cat stevens,Tea For The Tillerman (Super Deluxe),track,2020,171293,51,2
+Carry On,Falling In Reverse,falling in reverse,Carry On,track,2020,294765,57,2
+"god save me, but don't drown me out",YUNGBLUD,yungblud,weird!,track,2020,217510,57,2
+On Track,Tame Impala,tame impala,The Slow Rush,track,2020,301786,62,2
+Dirty,grandson,grandson,Death Of An Optimist,track,2020,208296,62,2
+Posthumous Forgiveness,Tame Impala,tame impala,The Slow Rush,track,2020,366066,63,2
+Black - Live MTV Unplugged,Pearl Jam,pearl jam,MTV Unplugged,track,2020,330768,61,2
+body bag (feat. YUNGBLUD & Bert McCracken of The Used),mgk,mgk,Tickets To My Downfall (SOLD OUT Deluxe),track,2020,170074,62,2
+Two-Way Mirror,Loathe,loathe,I Let It in and It Took Everything,track,2020,300186,65,2
+OK,Wallows,wallows,OK,track,2020,193293,61,2
+Is It Really You?,Loathe,loathe,I Let It in and It Took Everything,track,2020,287627,69,2
+One More Year,Tame Impala,tame impala,The Slow Rush,track,2020,324013,63,2
+Instant Destiny,Tame Impala,tame impala,The Slow Rush,track,2020,194706,60,2
+All They Wanted,Panchiko,panchiko,Ferric Oxide (Demos 1997 - 2001),track,2020,127875,69,2
+Kids,Young Gun Silver Fox,young gun silver fox,Canyons,track,2020,185506,48,2
+Psycho Killer,Talking Heads,talking heads,Psycho Killer: 1977 Rock,track,2020,261413,53,2
+Father And Son,Yusuf / Cat Stevens,yusuf cat stevens,Tea For The Tillerman²,track,2020,229933,43,2
+Carry On,The Score,the score,Carry On,track,2020,169171,54,2
+El Favor,Las Pastillas del Abuelo,las pastillas del abuelo,2020,track,2020,243984,62,2
+Another Life,Jadu Heart,jadu heart,Hyper Romance,track,2020,232615,60,2
+Witch's Spell,AC/DC,ac dc,POWER UP,track,2020,222258,53,2
+Esperando El Impacto,Bersuit Vergarabat,bersuit vergarabat,Mate con amigos,track,2020,217200,30,2
+Funnel Of Love,Wanda Jackson,wanda jackson,The Capitol Singles 1959-1961,track,2020,128426,56,2
+The Well,Marcus King,marcus king,El Dorado,track,2020,177093,59,2
+Lonely,Palaye Royale,palaye royale,The Bastards,track,2020,186249,63,2
+Sencillamente,Bersuit Vergarabat,bersuit vergarabat,Lo + tranquilo,track,2020,307306,32,2
+Ludens,Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,278506,58,2
+La chispa adecuada,Heroes Del Silencio,heroes del silencio,90's Rock Bands,track,2020,328293,53,2
+"Eat, Sleep, Wake (Nothing But You)",Bombay Bicycle Club,bombay bicycle club,Everything Else Has Gone Wrong,track,2020,219893,57,2
+Monsters (feat. Demi Lovato and blackbear),All Time Low,all time low,Monsters (feat. Demi Lovato and blackbear),track,2020,174424,65,2
+Hurt,Oliver Tree,oliver tree,Ugly is Beautiful,track,2020,145147,63,2
+Princesa en paro,Cobardes,cobardes,Ceniza y viento,track,2020,185353,31,2
+A Little Bit Off,Five Finger Death Punch,five finger death punch,F8,track,2020,190718,68,2
+Primavera 2020 - Remasterizá,Amenoskuarto,amenoskuarto,Primavera 2020 (Remasterizá),track,2020,280636,30,2
+"If You Want To Sing Out, Sing Out",Yusuf / Cat Stevens,yusuf cat stevens,Tea For The Tillerman (Super Deluxe),track,2020,165133,58,2
+Only You,Theophilus London,theophilus london,Bebey,track,2020,215446,62,2
+mars,YUNGBLUD,yungblud,weird!,track,2020,181837,60,2
+Jerk,Oliver Tree,oliver tree,Ugly is Beautiful,track,2020,135020,62,2
+Devil's Advocate,The Neighbourhood,the neighbourhood,Chip Chrome & The Mono-Tones,track,2020,186306,67,2
+September Again,Nation of Language,nation of language,"Introduction, Presence",track,2020,233656,53,2
+Buscando en la basura (feat. Pedro Fernández Razkin) - En directo,Playa Cuberris,playa cuberris,El último concierto - EP (En directo),track,2020,281277,31,2
+Bipolar (con Cepeda),Pol 3.14,pol 3 14,Bipolar (con Cepeda),track,2020,251219,33,2
+Wild Reputation,AC/DC,ac dc,POWER UP,track,2020,174393,53,2
+acting like that (feat. Machine Gun Kelly),YUNGBLUD,yungblud,weird!,track,2020,191066,63,2
+Sol Del Sur,Sun Room,sun room,Sol Del Sur,track,2020,145298,57,2
+Ohms,Deftones,deftones,Ohms,track,2020,250222,62,2
+Lamb's Wool,Foster The People,foster the people,Lamb's Wool,track,2020,276360,59,2
+Keep Your Eyes Peeled,ULTRA SUNN,ultra sunn,Keep Your Eyes Peeled,track,2020,230945,56,2
+flutter,julie,julie,flutter,track,2020,267491,61,2
+Outlaws & Outsiders,Cory Marks,cory marks,Who I Am,track,2020,197234,63,2
+Don't Look At Me,POORSTACY,poorstacy,The Breakfast Club (Deluxe Edition),track,2020,188237,58,2
+Dreamer,Foxy Shazam,foxy shazam,Burn,track,2020,170783,54,2
+Glimmer,Tame Impala,tame impala,The Slow Rush,track,2020,128826,57,2
+Tu Encanto,Conociendo Rusia,conociendo rusia,Tu Encanto,track,2020,211992,51,2
+Somebody That I Used to Know,Three Days Grace,three days grace,Somebody That I Used to Know,track,2020,209719,57,2
+Which One Is the Jellyfish?,Aunt Cynthia's Cabin,aunt cynthia s cabin,Misty Woman,track,2020,264466,51,2
+Panic,From Ashes to New,from ashes to new,Panic,track,2020,200800,58,2
+"Dear Diary,",Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,164797,56,2
+Blackout,Solence,solence,Direction,track,2020,200904,52,2
+Genesis,Deftones,deftones,Ohms,track,2020,317281,60,2
+Summer Madness - Exclusive Cover Version,Khruangbin,khruangbin,Late Night Tales: Khruangbin,track,2020,201917,54,2
+Dying Breed,The Killers,the killers,Imploding The Mirage,track,2020,246000,50,2
+Misty Woman,Aunt Cynthia's Cabin,aunt cynthia s cabin,Misty Woman,track,2020,271600,53,2
+Realize,AC/DC,ac dc,POWER UP,track,2020,217324,50,2
+Driving In Style,Thundermother,thundermother,Heat Wave,track,2020,223666,52,2
+Green River,Eilen Jewell,eilen jewell,Green River,track,2020,177493,49,2
+strawberry lipstick,YUNGBLUD,yungblud,weird!,track,2020,163861,54,2
+November Rain,Guns N' Roses,guns n roses,Greatest Hits,track,2020,536960,51,2
+It Might Be Time,Tame Impala,tame impala,The Slow Rush,track,2020,273026,58,2
+Hechicera,Los Diablitos,los diablitos,Los Diablitos,track,2020,229598,45,2
+Dangerous Ground,H.E.A.T,h e a t,H.E.A.T II,track,2020,246826,42,2
+Wild Stare,Giant Rooks,giant rooks,ROOKERY,track,2020,194480,56,2
+Magic Mountain,Hollow Ship,hollow ship,Future Remains,track,2020,212666,55,2
+Nothing Else Matters - Live,Metallica,metallica,S&M2,track,2020,399600,46,2
+One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee),Bring Me The Horizon,bring me the horizon,POST HUMAN: SURVIVAL HORROR,track,2020,243140,56,2
+Visitor,Of Monsters and Men,of monsters and men,Visitor,track,2020,207226,53,2
+Roses,Awaken I Am,awaken i am,Roses,track,2020,193309,59,2
+Losing My Religion,R.E.M.,r e m,Losing My Religion,track,2020,267733,45,2
+He Sentido Amor,Jaime Enrique Aymara,jaime enrique aymara,Todos Sus Éxitos,track,2020,221657,44,2
+Don't Cry (Original),Guns N' Roses,guns n roses,Greatest Hits,track,2020,284093,50,2
+Aloe Lite,Good Kid,good kid,Good Kid 2,track,2020,149292,58,2
+Baby Girl,Young Gun Silver Fox,young gun silver fox,Canyons,track,2020,231153,45,2
+Animal in Me,Solence,solence,Direction,track,2020,187321,53,2
+We Could Start a War,Somebody's Child,somebody s child,20-Something,track,2020,213066,56,2
+Sensations of Cool,TTRRUUCES,ttrruuces,TTRRUUCES,track,2020,222546,52,2
+Ya No Mires Atrás,Luis Alberto Spinetta,luis alberto spinetta,Ya No Mires Atrás,track,2020,223532,51,2
+Must Be a Dream,Tempesst,tempesst,Must Be a Dream,track,2020,238280,55,2
+Amor de Arena,Toño y su Grupo Centella,tono y su grupo centella,Volumen 1,track,2020,272040,53,2
+Through The Mists Of Time,AC/DC,ac dc,POWER UP,track,2020,212235,50,2
+Sweet Child O' Mine,Guns N' Roses,guns n roses,Greatest Hits,track,2020,355266,49,2
+VIEWS - Acoustic Live - Kids Against the Machine,Noga Erez,noga erez,VIEWS,track,2020,177525,41,2
+Me & You Together Song,The 1975,the 1975,Notes On A Conditional Form,track,2020,207223,57,2
+Until the End,Avenged Sevenfold,avenged sevenfold,Diamonds in the Rough,track,2020,285613,59,2
+Shampoo Bottles,Peach Pit,peach pit,You and Your Friends,track,2020,224266,61,2
+Arkansas,Chris Stapleton,chris stapleton,Starting Over,track,2020,178426,62,2
+Untitled Demo 1997,Panchiko,panchiko,Ferric Oxide (Demos 1997 - 2001),track,2020,160750,60,2
+Lost in Translation,The Neighbourhood,the neighbourhood,Chip Chrome & The Mono-Tones,track,2020,190226,56,2
+She Wants Me (To Be Loved),The Happy Fits,the happy fits,What Could Be Better,track,2020,199413,58,2
+Good Girls (Don’t Get Used),Beach Bunny,beach bunny,Good Girls (Don’t Get Used),track,2020,215402,57,2
+A Sad Cartoon,Loathe,loathe,I Let It in and It Took Everything,track,2020,315880,62,2
+El Farolito (Acústico),Ciro y los Persas,ciro y los persas,Guerras (Un Viaje en el Tiempo),track,2020,302731,53,2
+Donde Estás Amor,Toño y su Grupo Centella,tono y su grupo centella,Volumen 1,track,2020,229947,49,2
+Enemy of My Enemy,All Them Witches,all them witches,Nothing as the Ideal,track,2020,209643,47,2
+Throw My Bones,Deep Purple,deep purple,Whoosh!,track,2020,218693,44,2
+Echo (Ready for War),Autumn Kings,autumn kings,Echo (Ready for War),track,2020,200131,52,2
+Caroline,Crash Adams,crash adams,Caroline,track,2020,200337,51,2
+teresa,YUNGBLUD,yungblud,weird!,track,2020,204212,51,2
+Así Es El Amor,Jaime Enrique Aymara,jaime enrique aymara,Todos Sus Éxitos,track,2020,181719,39,2
+The Best,AWOLNATION,awolnation,Angel Miners & The Lightning Riders,track,2020,223320,54,2
+Lancaster Nights,Charlie Burg,charlie burg,Lancaster Nights,track,2020,190469,53,2
+Dance Of The Clairvoyants,Pearl Jam,pearl jam,Gigaton,track,2020,265306,48,2
+Rejection,AC/DC,ac dc,POWER UP,track,2020,246462,47,2
+Siempre Pierdo En El Amor,Jaime Enrique Aymara,jaime enrique aymara,Todos Sus Éxitos,track,2020,203104,40,2
+Eternos,Leonora Post Punk,leonora post punk,Eternos,track,2020,168812,47,2
+41,All Them Witches,all them witches,Nothing as the Ideal,track,2020,320350,49,2
+Judas Effect,Vestron Vulture,vestron vulture,Lionheart,track,2020,192000,53,2
+Bad Kids,TTRRUUCES,ttrruuces,TTRRUUCES,track,2020,206626,54,2
+Ando Rodando - Remasterizado,Gustavo Santaolalla,gustavo santaolalla,Santaolalla (Remasterizado),track,2020,205689,39,2
+Blue On Black,Five Finger Death Punch,five finger death punch,A Decade of Destruction Vol. 2,track,2020,274615,52,2
+Arthur's Theme (Best That You Can Do),Christopher Cross,christopher cross,80s Love,track,2020,233720,49,2
+Summertime,Mareux,mareux,Predestiny,track,2020,217651,57,2
+Last Resort - 2020,Papa Roach,papa roach,20/20,track,2020,202400,50,2
+Living In A Ghost Town,The Rolling Stones,the rolling stones,Living In A Ghost Town,track,2020,247010,49,2
+Blinding Ornaments,Vulkan,vulkan,Technatura,track,2020,246563,50,2
+Horses,Slomosa,slomosa,Slomosa,track,2020,297605,48,2
+Aries (feat. Peter Hook and Georgia),Gorillaz,gorillaz,"Song Machine, Season One: Strange Timez (Deluxe)",track,2020,253333,54,2
+Kerosene!,Yves Tumor,yves tumor,Heaven To A Tortured Mind,track,2020,305506,57,2
+Little Bastards,Palaye Royale,palaye royale,The Bastards,track,2020,218326,55,2
+Mi Corazón Sufrido,Jaime Enrique Aymara,jaime enrique aymara,Todos Sus Éxitos,track,2020,223515,40,2
+In My Mind's Desert,Slomosa,slomosa,Slomosa,track,2020,292731,49,2
+July,Betcha,betcha,Feels Like We’ve Been Here Before,track,2020,207586,56,2
+Talk to a Friend,Rain City Drive,rain city drive,To Better Days,track,2020,211235,62,2
+La Leyenda Del Hada Y El Mago,Rata Blanca,rata blanca,Top Rock en español 90s,track,2020,322426,48,2
+Lost Day,Other Lives,other lives,For Their Love,track,2020,175452,48,2
+Blue,NewDad,newdad,Blue,track,2020,198426,55,2
+Tonight Is The Night I Die,Palaye Royale,palaye royale,The Bastards,track,2020,172170,55,2
+Darkness Settles In,Five Finger Death Punch,five finger death punch,F8,track,2020,281803,58,2
+Dancin' Party,Chubby Checker,chubby checker,Dancin' Party: The Chubby Checker Collection (1960-1966),track,2020,128000,45,2
+Tomorrow's Dust,Tame Impala,tame impala,The Slow Rush,track,2020,326840,57,2
+HALF-WAY & ONE STEP FORWARD,Marilyn Manson,marilyn manson,WE ARE CHAOS,track,2020,196880,49,2
+Can't Be Mine,Bad Nerves,bad nerves,Bad Nerves,track,2020,124480,47,2
+Choker,Twenty One Pilots,twenty one pilots,Scaled And Icy,track,2021,223065,63,2
+Stress Relief,late night drive home,late night drive home,Am I sinking or Am I swimming?,track,2021,205714,73,2
+Jumpin' Jack Flash,The Rolling Stones,the rolling stones,Jumpin' Jack Flash / Child Of The Moon,track,2021,222933,60,2
+A quemarropa,Fito y Fitipaldis,fito y fitipaldis,Cada vez cadáver,track,2021,293601,55,2
+Saturday,Twenty One Pilots,twenty one pilots,Scaled And Icy,track,2021,172232,64,2
+Bitter Taste,Billy Idol,billy idol,Bitter Taste,track,2021,266759,61,2
+Shotgun Blues,Volbeat,volbeat,Servant Of The Mind (Deluxe),track,2021,267826,66,2
+Ganas de Verte,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,183833,67,2
+la di die (feat. Jaden Hossler),Nessa Barrett,nessa barrett,la di die (feat. Jaden Hossler),track,2021,195191,66,2
+Amtrak,Los Retros,los retros,Looking Back,track,2021,176751,69,2
+Let The Bad Times Roll,The Offspring,the offspring,Let The Bad Times Roll (Deluxe Edition),track,2021,198546,63,2
+Coming For You,The Offspring,the offspring,Let The Bad Times Roll (Deluxe Edition),track,2021,228586,60,2
+Interludio,Robe,robe,Mayéutica,track,2021,191971,64,2
+The Perfect Girl,Mareux,mareux,The Perfect Girl,track,2021,194423,76,2
+Hong Kong,C. Tangana,c tangana,El Madrileño,track,2021,203506,54,2
+Cielo hermético,Fito y Fitipaldis,fito y fitipaldis,Cada vez cadáver,track,2021,239258,58,2
+LA PAURA DEL BUIO,Måneskin,maneskin,Teatro d'ira - Vol. I,track,2021,209786,61,2
+Sentado en el camino,Mala Hierba,mala hierba,No hacer nada es elegir,track,2021,244924,34,2
+fleabag,YUNGBLUD,yungblud,fleabag,track,2021,176988,65,2
+Shy Away,Twenty One Pilots,twenty one pilots,Scaled And Icy,track,2021,175044,68,2
+Trouble’s Coming,Royal Blood,royal blood,Typhoons,track,2021,228400,62,2
+Ya no soy yo,Walls,walls,Ya no soy yo,track,2021,176733,37,2
+Nothing Else Matters,Miley Cyrus,miley cyrus,Nothing Else Matters,track,2021,395785,58,2
+Partirme la cara,"Walls, Daniel Sabater",walls daniel sabater,Partirme la cara,track,2021,190934,37,2
+Follow You,Imagine Dragons,imagine dragons,Follow You / Cutthroat,track,2021,175643,63,2
+Holier Than Thou - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,227573,60,2
+CORALINE,Måneskin,maneskin,Teatro d'ira - Vol. I,track,2021,300413,70,2
+Segundo movimiento: Mierda de filosofía,Robe,robe,Mayéutica,track,2021,286397,55,2
+Media ración,Mala Hierba,mala hierba,No hacer nada es elegir,track,2021,247338,37,2
+Matador - Remasterizado 2008,Los Fabulosos Cadillacs,los fabulosos cadillacs,Obras Cumbres,track,2021,275893,68,2
+Pensamientos,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,233839,74,2
+Low Profile,Xavi Castle,xavi castle,Brief Stories About the Universe,track,2021,99936,39,2
+La Noche Suena,David Otero,david otero,Otero y Yo,track,2021,201840,40,2
+Con uñas y dientes,Marlon,marlon,Marlon,track,2021,219113,40,2
+Cada vez cadáver,Fito y Fitipaldis,fito y fitipaldis,Cada vez cadáver,track,2021,337226,48,2
+El Renacer del Guerrero,Benito Kamelas,benito kamelas,Resiliencia,track,2021,269076,41,2
+Resiliencia,Benito Kamelas,benito kamelas,Resiliencia,track,2021,244155,41,2
+Don't Tread on Me - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,240160,60,2
+BLACKOUT,Turnstile,turnstile,GLOW ON,track,2021,173279,66,2
+Levante,Benito Kamelas,benito kamelas,Resiliencia,track,2021,303658,44,2
+Nothing Else Matters - Remastered 2021,Metallica,metallica,Metallica (Remastered Deluxe Box Set),track,2021,388733,84,2
+En algún lugar (feat. Santi Balmes & Víctor Cabezuelo),Mikel Erentxun,mikel erentxun,Amigos de Guardia,track,2021,238426,42,2
+Wherever I May Roam - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,404333,69,2
+Enter Sandman - Remastered 2021,Metallica,metallica,Metallica (Remastered Deluxe Box Set),track,2021,331560,85,2
+Stumblin' In,Chris Norman,chris norman,Licorice Pizza (Original Motion Picture Soundtrack),track,2021,238853,60,2
+The Unforgiven - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,387160,75,2
+Sad But True - Remastered 2021,Metallica,metallica,Metallica (Remastered Deluxe Box Set),track,2021,324600,75,2
+MAMMAMIA,Måneskin,maneskin,MAMMAMIA,track,2021,186789,63,2
+One By One,The Blue Stones,the blue stones,Hidden Gems,track,2021,251266,59,2
+Wait A Minute My Girl,Volbeat,volbeat,Servant Of The Mind (Deluxe),track,2021,140053,59,2
+Hellraiser - 30th Anniversary Edition,Ozzy Osbourne,ozzy osbourne,Hellraiser (30th Anniversary Edition),track,2021,295881,57,2
+Origami,The Rare Occasions,the rare occasions,Big Whoop,track,2021,174182,64,2
+The Writing on the Wall,Iron Maiden,iron maiden,Senjutsu,track,2021,373898,55,2
+"Turn It Up, Bitch",Limp Bizkit,limp bizkit,STILL SUCKS,track,2021,140763,61,2
+Cuchillos Guantanamera,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,252125,61,2
+Ode to a Conversation Stuck in Your Throat,Del Water Gap,del water gap,Del Water Gap,track,2021,199232,69,2
+Light My Love,Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,270887,64,2
+Wrecked,Imagine Dragons,imagine dragons,Wrecked,track,2021,244004,59,2
+Temple Of Ekur,Volbeat,volbeat,Servant Of The Mind (Deluxe),track,2021,259173,55,2
+Teletransporte,Noan,noan,Teletransporte,track,2021,179258,30,2
+Shakin' Off The Rust,The Blue Stones,the blue stones,Hidden Gems,track,2021,222936,58,2
+Escalofrío,Caramelos De Cianuro,caramelos de cianuro,Control,track,2021,216416,46,2
+Days Of Future Past,Iron Maiden,iron maiden,Senjutsu,track,2021,243754,51,2
+Typhoons,Royal Blood,royal blood,Typhoons,track,2021,236933,55,2
+Lost in Echoes,Caskets,caskets,Lost Souls,track,2021,217814,61,2
+Tan vacío (feat. Hens),Walls,walls,Tan vacío (feat. Hens),track,2021,158083,31,2
+No Te Imaginás,No Te Va Gustar,no te va gustar,Luz,track,2021,211204,60,2
+Magia de Luna,Celtian,celtian,Sendas de Leyenda,track,2021,259680,40,2
+The God That Failed - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,308506,56,2
+Oblivion,Royal Blood,royal blood,Typhoons,track,2021,161253,57,2
+Flaca,Andrés Calamaro,andres calamaro,Dios Los Cría,track,2021,226858,39,2
+Izan Nahi Dut,Huntza,huntza,Ezin Ezer Espero,track,2021,184367,32,2
+Inolvidable (feat. J Heras),Enol,enol,Casi Superstar,track,2021,204497,30,2
+I Don't Care,VIOLENT VIRA,violent vira,I Don't Care,track,2021,181028,69,2
+Skinny,KALEO,kaleo,Surface Sounds,track,2021,222316,57,2
+Para No Olvidar,Andrés Calamaro,andres calamaro,Dios Los Cría,track,2021,244482,36,2
+"it only gets worse, i promise",EKKSTACY,ekkstacy,NEGATIVE,track,2021,154640,60,2
+Seminare - 2021 Remasterizado,Serú Girán,seru giran,Serú Girán (Remasterizado 2021),track,2021,202513,61,2
+My Friend of Misery - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,409666,56,2
+Built By Nations,Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,238985,59,2
+Buscando algo,Fran Mariscal,fran mariscal,BUSCANDO ALGO,track,2021,201642,32,2
+Glass Heart,Caskets,caskets,Lost Souls,track,2021,224421,64,2
+Aquí Contigo,Noan,noan,Aquí Contigo,track,2021,181717,33,2
+Perdido,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,247375,62,2
+Llegó el crujido,Mala Hierba,mala hierba,No hacer nada es elegir,track,2021,287254,33,2
+Tu lista de Spotify,llvna,llvna,Tu lista de Spotify,track,2021,147500,33,2
+Mi Tormenta,Kamikazes,kamikazes,Fuego Polar,track,2021,242426,33,2
+Colorado,Milky Chance,milky chance,Trip Tape,track,2021,174347,59,2
+Through the Never - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,244533,58,2
+Triste Canción de Amor,Sublevados,sublevados,Triste Canción de Amor,track,2021,198543,33,2
+Ring Ring,Poncho K,poncho k,Calíope,track,2021,217000,34,2
+Heat Above,Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,341255,63,2
+Of Wolf and Man - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,256573,59,2
+Tainted Love,Milky Chance,milky chance,Trip Tape,track,2021,179473,58,2
+Encuentro con un Ángel Amateur - En Vivo,Indio Solari,indio solari,Encuentro con un Ángel Amateur (En Vivo),track,2021,213681,57,2
+La Parte de Adelante,Los Fabulosos Cadillacs,los fabulosos cadillacs,Obras Cumbres,track,2021,272840,60,2
+I'm Not A Vampire - Revamped,Falling In Reverse,falling in reverse,I'm Not A Vampire (Revamped),track,2021,376816,54,2
+Good F**King Music,Solence,solence,Deafening,track,2021,206433,62,2
+It Won't Always Be Like This,Inhaler,inhaler,It Won't Always Be Like This,track,2021,244906,61,2
+Monacillo,Argonaut & Wasp,argonaut wasp,STARLIGHT 99,track,2021,235000,56,2
+DiE4u,Bring Me The Horizon,bring me the horizon,DiE4u,track,2021,207141,56,2
+Last Resort (Reloaded),Papa Roach,papa roach,Last Resort (Reloaded),track,2021,137297,62,2
+Rain (from The Suicide Squad),grandson,grandson,Rain (from The Suicide Squad),track,2021,236040,57,2
+Age of Machine,Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,413524,52,2
+Free Bird - Edit,Lynyrd Skynyrd,lynyrd skynyrd,Kid Friendly Classic Rock,track,2021,259840,52,2
+Waiting On A War,Foo Fighters,foo fighters,Medicine At Midnight,track,2021,253836,53,2
+BETTER OFF DEAD,jxdn,jxdn,Tell Me About Tomorrow,track,2021,155673,57,2
+t r a n s p a r e n t s o u l feat. Travis Barker,WILLOW,willow,lately I feel EVERYTHING,track,2021,168398,64,2
+"My Way, Soon",Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,255217,52,2
+Van Horn,Saint Motel,saint motel,The Original Motion Picture Soundtrack,track,2021,161120,58,2
+Golpes en el Corazón,Los Auténticos Decadentes,los autenticos decadentes,Golpes en el Corazón,track,2021,211268,53,2
+Boilermaker,Royal Blood,royal blood,Typhoons,track,2021,209480,52,2
+then i met her,EKKSTACY,ekkstacy,NEGATIVE,track,2021,138306,56,2
+Wet Dream,Wet Leg,wet leg,Wet Dream,track,2021,140080,53,2
+Flaca,Maurizio Terracina,maurizio terracina,Flaca,track,2021,220733,40,2
+Volver a Casa,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,183882,59,2
+Walk,Saint Chaos,saint chaos,Seeing Red,track,2021,170210,50,2
+Va a Ser Difícil Olvidar,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,233868,60,2
+The One That You Love,LP,lp,Churches,track,2021,223426,41,2
+Verbenita,Bayron Caicedo,bayron caicedo,Tú Patrón Vol.2,track,2021,224160,44,2
+The Struggle Within - Remastered 2021,Metallica,metallica,Metallica (Remastered 2021),track,2021,232648,52,2
+In My Dreams,Gary Moore,gary moore,How Blue Can You Get,track,2021,342080,53,2
+Hard Skool,Guns N' Roses,guns n roses,Hard Skool,track,2021,221892,53,2
+Heavy Days,Still Corners,still corners,Heavy Days,track,2021,227683,50,2
+I WANNA BE YOUR SLAVE (with Iggy Pop),Måneskin,maneskin,I WANNA BE YOUR SLAVE (with Iggy Pop),track,2021,171905,50,2
+Becoming,Volbeat,volbeat,Servant Of The Mind (Deluxe),track,2021,253346,54,2
+Smells Like Teen Spirit - Remastered 2021,Nirvana,nirvana,Smells Like Teen Spirit / In Bloom / On A Plain / Lithium / Breed,track,2021,300893,57,2
+Out Of Style,Limp Bizkit,limp bizkit,STILL SUCKS,track,2021,202862,56,2
+Drowned in Emotion,Caskets,caskets,Lost Souls,track,2021,222567,58,2
+El Satánico Dr. Cadillac (Versión '93) - Remasterizado 2008,Los Fabulosos Cadillacs,los fabulosos cadillacs,Obras Cumbres,track,2021,256773,60,2
+help herself,bbno$,bbno,help herself,track,2021,188571,61,2
+Everything In Its Right Place,Radiohead,radiohead,KID A MNESIA,track,2021,251426,56,2
+Rising Sun,Jon and Roy,jon and roy,Know Your Mind,track,2021,202808,52,2
+Freaks (feat. Travis Barker),Surf Curse,surf curse,Freaks (Remixes),track,2021,149859,57,2
+Afterlife,Holding Absence,holding absence,The Greatest Mistake of My Life,track,2021,226546,62,2
+Always,The Snuts,the snuts,W.L. (Deluxe),track,2021,203949,59,2
+Resentment,A Day To Remember,a day to remember,You're Welcome,track,2021,227266,62,2
+A Kiss,THE DRIVER ERA,the driver era,Girlfriend,track,2021,271854,57,2
+No More Tears,Ozzy Osbourne,ozzy osbourne,No More Tears (30th Anniversary Expanded Edition),track,2021,444982,58,2
+Dad Vibes,Limp Bizkit,limp bizkit,STILL SUCKS,track,2021,132206,59,2
+Face to Face,Citizen Soldier,citizen soldier,This Is Your Sign Part I,track,2021,223317,54,2
+Surefire,Wilderado,wilderado,Wilderado,track,2021,241194,61,2
+Campos Elíseos,Airbag,airbag,Al Parecer Todo Ha Sido una Trampa,track,2021,276936,58,2
+Don’t Let Me Down - First Rooftop Performance,The Beatles,the beatles,Let It Be (Super Deluxe),track,2021,209453,55,2
+Nos Queremos y Qué,Chacalon Jr,chacalon jr,Nos Queremos y Qué,track,2021,172401,49,2
+One Day,Lovejoy,lovejoy,Are You Alright?,track,2021,144374,58,2
+Qué Puedo Hacer,Chacalon Jr,chacalon jr,Qué Puedo Hacer,track,2021,281379,48,2
+Mente Sucia,Neeus,neeus,Mente Sucia,track,2021,175803,38,2
+Cheer Up Baby,Inhaler,inhaler,It Won't Always Be Like This,track,2021,233906,55,2
+Broken Bells,Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,350641,50,2
+Shot in the Dark,John Mayer,john mayer,Sob Rock,track,2021,249080,53,2
+Tantas Veces,Andrés Calamaro,andres calamaro,Dios Los Cría,track,2021,199018,41,2
+Me Voy Me Voy,Gerardo Moran,gerardo moran,"Los Super Amigos, Vol. 2",track,2021,214087,41,2
+The Bandit,Kings of Leon,kings of leon,When You See Yourself,track,2021,250961,53,2
+When It Breaks,Inhaler,inhaler,It Won't Always Be Like This,track,2021,222746,55,2
+i won't run,Keanu Bicol,keanu bicol,i won't run,track,2021,158947,57,2
+RATA-TATA,Royal Republic,royal republic,RATA-TATA,track,2021,191013,50,2
+hesitation,Andrew Garden,andrew garden,hesitation,track,2021,177804,57,2
+Stardust Chords,Greta Van Fleet,greta van fleet,The Battle at Garden’s Gate,track,2021,297489,52,2
+Let It Ride,The Blue Stones,the blue stones,Hidden Gems,track,2021,217786,51,2
+The Cure,Caramelos De Cianuro,caramelos de cianuro,Control,track,2021,217400,40,2
+Rollin' On,Jackie Venson,jackie venson,Love Transcends,track,2021,308077,46,2
+Beauty and the Beast,The Rose,the rose,Beauty and the Beast,track,2021,264613,51,2
+Vibrate,Drug Store Romeos,drug store romeos,The world within our bedrooms,track,2021,154533,56,2
+love race (feat. Kellin Quinn),mgk,mgk,love race (feat. Kellin Quinn),track,2021,188779,55,2
+WANNA BE (feat. Machine Gun Kelly),jxdn,jxdn,Tell Me About Tomorrow,track,2021,158021,53,2
+How to Disappear Completely,Radiohead,radiohead,KID A MNESIA,track,2021,356333,53,2
+Flaca,Mati Sertic,mati sertic,Blues Covers,track,2021,235662,36,2
+"Hello (Live at Knebworth, 11 August '96)",Oasis,oasis,Knebworth 1996 (Live),track,2021,175536,47,2
+Motion Picture Soundtrack,Radiohead,radiohead,KID A MNESIA,track,2021,200482,56,2
+Vampiro,French Police,french police,Haunted Castle (Extended Play),track,2021,136803,55,2
+Way Less Sad,AJR,ajr,OK ORCHESTRA,track,2021,207595,51,2
+No Son Of Mine,Foo Fighters,foo fighters,Medicine At Midnight,track,2021,208696,50,2
+its alright :),Kevin Walkman,kevin walkman,its alright :),track,2021,202048,58,2
+Astronaut In The Ocean,Our Last Night,our last night,Astronaut In The Ocean,track,2021,134200,58,2
+Dagen Før,Volbeat,volbeat,Servant Of The Mind (Deluxe),track,2021,249693,51,2
+Rollin' (Air Raid Vehicle),Limp Bizkit,limp bizkit,Rock Party 2021,track,2021,213880,55,2
+Body Dysmorphia,Eyedress,eyedress,Mulholland Drive,track,2021,125085,48,2
+Let’s Get The Party Started (feat. Bring Me The Horizon),Tom Morello,tom morello,The Atlas Underground Fire,track,2021,212572,54,2
+Innocent,MYTCH,mytch,Innocent,track,2021,225790,54,2
+Mistake,Stellar,stellar,Mistake,track,2021,151580,54,2
+Occasional Rain,The War On Drugs,the war on drugs,I Don’t Live Here Anymore,track,2021,294040,49,2
+Alter Ego,KALEO,kaleo,Surface Sounds,track,2021,248132,49,2
+For The Wicked,Friday Pilots Club,friday pilots club,For The Wicked,track,2021,173933,56,2
+Change,The War On Drugs,the war on drugs,I Don’t Live Here Anymore,track,2021,364333,50,2
+The Devil Rages On,Volbeat,volbeat,Servant Of The Mind (Deluxe),track,2021,310000,50,2
+Mindreader,A Day To Remember,a day to remember,You're Welcome,track,2021,173520,58,2
+Quarterback,Wallows,wallows,Quarterback,track,2021,180386,60,2
+Booty Call,Caramelos De Cianuro,caramelos de cianuro,Control,track,2021,177141,42,2
+Drinking with Cupid,VOILÀ,voila,Happy Never After,track,2022,172939,66,2
+Call Me Little Sunshine,Ghost,ghost,IMPERA,track,2022,284266,65,2
+Therapy,VOILÀ,voila,Happy Never After,track,2022,201391,68,2
+Soldier of Heaven,Sabaton,sabaton,The War to End All Wars,track,2022,218000,65,2
+Misery,Memphis May Fire,memphis may fire,Remade In Misery,track,2022,192176,64,2
+Masterpiece,Motionless In White,motionless in white,Scoring The End Of The World,track,2022,206648,72,2
+Gloom,Djo,djo,DECIDE,track,2022,120808,67,2
+Black Summer,Red Hot Chili Peppers,red hot chili peppers,Black Summer,track,2022,232412,61,2
+Synchronize,Milky Chance,milky chance,Trip Tape II,track,2022,164576,63,2
+U&ME,alt-J,alt-j,The Dream,track,2022,198840,56,2
+Wild Child,The Black Keys,the black keys,Dropout Boogie,track,2022,164866,63,2
+Tabaco y Alcohol,llvna,llvna,Tabaco y Alcohol,track,2022,145124,36,2
+SPIT IN MY FACE!,ThxSoMch,thxsomch,SPIT IN MY FACE!,track,2022,147874,80,2
+B-Side,Khruangbin,khruangbin,Texas Moon,track,2022,274391,63,2
+Ángel exterminador (feat. Bunbury),Ilegales,ilegales,La lucha por la vida,track,2022,242414,37,2
+Killed by Death,Motörhead,motorhead,All the Aces,track,2022,278373,58,2
+Malas Noticias - En Directo,Los Suaves,los suaves,La Noche Más Suave (En Directo),track,2022,204094,35,2
+THE LONELIEST,Måneskin,maneskin,THE LONELIEST,track,2022,247067,67,2
+SUPERMODEL,Måneskin,maneskin,SUPERMODEL,track,2022,148064,65,2
+Se acaba el baile,Marea,marea,Los potros del tiempo,track,2022,219522,37,2
+Reventar la Ciudad,Walls,walls,Reventar la Ciudad,track,2022,209271,50,2
+THE DEATH OF PEACE OF MIND,Bad Omens,bad omens,THE DEATH OF PEACE OF MIND,track,2022,241499,77,2
+Mariella,Khruangbin,khruangbin,Texas Moon,track,2022,310553,71,2
+Wipe Out,The Surfaris,the surfaris,"Stranger Things: Soundtrack from the Netflix Series, Season 4",track,2022,133986,59,2
+Money For Nothing - Single Edit / Remastered 2022,Dire Straits,dire straits,Money For Nothing (Remastered 2022),track,2022,248280,67,2
+Me da igual,Charlie USG,charlie usg,Me da igual,track,2022,171871,50,2
+Sagitario (Mi Madre Me Va A Matar),Hens,hens,Sagitario (Mi Madre Me Va A Matar),track,2022,171817,37,2
+Bleed,Connor Kauffman,connor kauffman,Bleed,track,2022,145454,69,2
+Lo que nunca te dije,Charlie USG,charlie usg,Lo que nunca te dije,track,2022,160632,50,2
+Nuestra fosa,Marea,marea,Los potros del tiempo,track,2022,273865,44,2
+Cuesta Arriba,Walls,walls,Cuesta Arriba,track,2022,164470,43,2
+ME MATA(S),Noan,noan,ME MATA(S),track,2022,184533,46,2
+Los niños del parque,Walls,walls,Los Niños del Parque,track,2022,197217,43,2
+En Dos,Walls,walls,Los Niños del Parque,track,2022,187873,47,2
+Bailemos - On The Road,Dani Fernández,dani fernandez,Entre las dudas y el azar,track,2022,252648,41,2
+Buena muerte,Marea,marea,Los potros del tiempo,track,2022,218742,43,2
+Estrella (feat. La La Love You),Despistaos,despistaos,Estrella (feat. La La Love You),track,2022,196175,42,2
+Te Lloré Un Río,Maná,mana,Te Lloré Un Río,track,2022,230811,66,2
+Just the Two of Us,"Grover Washington, Jr.",grover washington jr,In the Name of Love: The Elektra Recordings 1979-1984,track,2022,237106,62,2
+I Want It All - Single Version,Queen,queen,The Miracle (Collector's Edition),track,2022,241586,68,2
+Master of Puppets,Metallica,metallica,"Stranger Things: Soundtrack from the Netflix Series, Season 4",track,2022,514479,71,2
+Just Pretend,Bad Omens,bad omens,THE DEATH OF PEACE OF MIND,track,2022,204676,80,2
+maybe (feat. Bring Me The Horizon),mgk,mgk,mainstream sellout,track,2022,170133,70,2
+Oysters In My Pocket,Royel Otis,royel otis,Oysters In My Pocket,track,2022,162338,75,2
+A Symptom Of Being Human,Shinedown,shinedown,Planet Zero,track,2022,248454,69,2
+life imitates life,quannnic,quannnic,kenopsia,track,2022,203294,65,2
+Hunter’s Moon,Ghost,ghost,IMPERA,track,2022,196106,59,2
+Talk,beabadoobee,beabadoobee,Beatopia,track,2022,158293,66,2
+Playing God,Polyphia,polyphia,Remember That You Will Die,track,2022,205925,62,2
+Untitled #9 - Smáskifa 1,Sigur Rós,sigur ros,( ) [2022 Remaster],track,2022,278040,60,2
+So Called Life,Three Days Grace,three days grace,EXPLOSIONS,track,2022,206642,66,2
+make up sex (feat. blackbear),mgk,mgk,mainstream sellout,track,2022,122570,62,2
+Scoring The End Of The World (feat. Mick Gordon),Motionless In White,motionless in white,Scoring The End Of The World,track,2022,228354,61,2
+Just Dance,Sable,sable,Viral Covers,track,2022,174453,59,2
+CHOKE,The Warning,the warning,ERROR,track,2022,231854,57,2
+Body Paint,Arctic Monkeys,arctic monkeys,The Car,track,2022,290584,58,2
+The Funeral,YUNGBLUD,yungblud,The Funeral,track,2022,211197,57,2
+Concorde,"Black Country, New Road",black country new road,Ants From Up There,track,2022,363773,57,2
+The Place Where He Inserted the Blade,"Black Country, New Road",black country new road,Ants From Up There,track,2022,433360,61,2
+Notion - Acoustic,The Rare Occasions,the rare occasions,Notion (Acoustic),track,2022,195503,62,2
+She's a Lover,Red Hot Chili Peppers,red hot chili peppers,Unlimited Love,track,2022,221092,59,2
+Eddie,Red Hot Chili Peppers,red hot chili peppers,Return of the Dream Canteen,track,2022,341986,57,2
+The Boat I Row,Tame Impala,tame impala,The Slow Rush B-Sides & Remixes,track,2022,238320,66,2
+No Love In LA,Palaye Royale,palaye royale,Fever Dream,track,2022,202209,60,2
+Fighter,The Score,the score,Metamorph,track,2022,156666,60,2
+Far Rider,Still Corners,still corners,Far Rider,track,2022,425748,53,2
+Verona,Muse,muse,Will Of The People,track,2022,297962,53,2
+Compliance,Muse,muse,Will Of The People,track,2022,250860,52,2
+Where The Silence Goes,LEAP,leap,One Million Pieces,track,2022,173369,58,2
+Enemies,The Score,the score,Metamorph,track,2022,161592,58,2
+LA FINE,Måneskin,maneskin,LA FINE,track,2022,200588,51,2
+If I Can Dream (From The Original Motion Picture Soundtrack ELVIS),Måneskin,maneskin,If I Can Dream (From The Original Motion Picture Soundtrack ELVIS),track,2022,196000,54,2
+Head Up,The Score,the score,Metamorph,track,2022,169977,58,2
+Will Of The People,Muse,muse,Will Of The People,track,2022,198849,54,2
+Fire and Rain,James Taylor,james taylor,"Stranger Things: Soundtrack from the Netflix Series, Season 4",track,2022,202613,56,2
+New Gold (feat. Tame Impala and Bootie Brown),Gorillaz,gorillaz,New Gold (feat. Tame Impala and Bootie Brown),track,2022,215149,63,2
+Princesa equivocada - 2022 Remaster,Ilegales,ilegales,Ilegales (Edición Deluxe),track,2022,239533,37,2
+Whole Lotta Shakin' Going On - Remastered 2022,Jerry Lee Lewis,jerry lee lewis,The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022),track,2022,173453,57,2
+Gran Vía 82,Charlie USG,charlie usg,Gran Vía 82,track,2022,184734,40,2
+Step Aside,Goodbye June,goodbye june,See Where The Night Goes,track,2022,247895,52,2
+November Rain - 2022 Version,Guns N' Roses,guns n roses,Use Your Illusion I (Deluxe Edition),track,2022,535733,59,2
+Won’t Stand Down,Muse,muse,Will Of The People,track,2022,209061,56,2
+Darkness At The Heart Of My Love,Ghost,ghost,IMPERA,track,2022,298573,62,2
+Kill The Noise,Papa Roach,papa roach,Ego Trip,track,2022,188127,63,2
+Motels,Royel Otis,royel otis,Motels,track,2022,203434,63,2
+Viernes 13,Charlie USG,charlie usg,Todo lo que por fin me atreví a decirte,track,2022,199944,45,2
+Beautiful James,Placebo,placebo,Never Let Me Go,track,2022,248543,51,2
+Más me duele a mí,Marea,marea,Los potros del tiempo,track,2022,279565,33,2
+Mientras Bailas Sola,Despistaos,despistaos,Ilusionismo,track,2022,214280,33,2
+Belo Horizonte,Cari Cari,cari cari,Welcome To Kookoo Island,track,2022,226165,59,2
+Face It Alone,Queen,queen,Face It Alone,track,2022,247186,53,2
+Voices In My Head,Falling In Reverse,falling in reverse,Voices In My Head,track,2022,191414,63,2
+Is It Really You?,Sleep Token,sleep token,Is It Really You?,track,2022,279593,63,2
+Dangerous State of Mind,Chri$tian Gate$,chri tian gate,Dangerous State of Mind,track,2022,115620,64,2
+San Quentin,Nickelback,nickelback,Get Rollin',track,2022,211457,66,2
+Mimos Son Mimos,Babasonicos,babasonicos,Trinchera,track,2022,177540,58,2
+Make Believe,Memphis May Fire,memphis may fire,Remade In Misery,track,2022,229007,62,2
+Bad Habits (feat. Bring Me The Horizon),Ed Sheeran,ed sheeran,Bad Habits (feat. Bring Me The Horizon),track,2022,250763,59,2
+Bad Things,I Prevail,i prevail,TRUE POWER,track,2022,228260,62,2
+When You Know (Where You Come From),Scorpions,scorpions,Rock Believer (Deluxe),track,2022,262146,52,2
+Kill Or Be Killed,Muse,muse,Will Of The People,track,2022,299060,50,2
+Good Will Hunting,"Black Country, New Road",black country new road,Ants From Up There,track,2022,297906,56,2
+Lux Æterna,Metallica,metallica,Lux Æterna,track,2022,205679,53,2
+Hayloft II (SMASHUP),Mother Mother,mother mother,Hayloft II (SMASHUP),track,2022,223509,58,2
+NI QUE VALIERAS TANTO,Maria De Los Angeles,maria de los angeles,El Legado,track,2022,234150,46,2
+Definition of ugly is,The Rose,the rose,HEAL,track,2022,230279,54,2
+El Botellazo,Angel Guaraca,angel guaraca,El Botellazo,track,2022,194930,45,2
+Warning Signs,Band of Horses,band of horses,Things Are Great,track,2022,260866,51,2
+Give Me a Reason,Boy Harsher,boy harsher,The Runner (Original Soundtrack),track,2022,265560,55,2
+DISCIPLE,The Warning,the warning,ERROR,track,2022,220055,54,2
+Memories (with WILLOW),YUNGBLUD,yungblud,YUNGBLUD,track,2022,155919,55,2
+cough drops,almost monday,almost monday,cough drops,track,2022,163990,63,2
+No Time to Explain,Good Kid,good kid,No Time to Explain,track,2022,156122,59,2
+Chaos Space Marine,"Black Country, New Road",black country new road,Ants From Up There,track,2022,216680,55,2
+Haldern,"Black Country, New Road",black country new road,Ants From Up There,track,2022,305213,56,2
+Three Chords,Goodbye June,goodbye june,See Where The Night Goes,track,2022,227753,47,2
+ANIMAL,Tomas Chris,tomas chris,Butterfly,track,2022,201871,50,2
+i just want to hide my face,EKKSTACY,ekkstacy,misery,track,2022,132840,56,2
+Human Crime,Pixies,pixies,Human Crime,track,2022,187956,51,2
+Sour,The Rose,the rose,HEAL,track,2022,200581,55,2
+One Step Ahead,Jack Johnson,jack johnson,One Step Ahead,track,2022,191647,57,2
+Rorschach,El Cuarteto De Nos,el cuarteto de nos,Lámina Once,track,2022,237075,52,2
+Free Them (feat. Teddy Swims),ONE OK ROCK,one ok rock,Luxury Disease,track,2022,192888,48,2
+2am,Foals,foals,Life Is Yours,track,2022,224178,54,2
+emo girl (feat. WILLOW),mgk,mgk,mainstream sellout,track,2022,159096,62,2
+Historia de amor,Mabell de la Rosa,mabell de la rosa,Historia de amor,track,2022,240022,47,2
+"What, Me Worry?",Portugal. The Man,portugal the man,"What, Me Worry?",track,2022,177397,58,2
+Take Me Out,Franz Ferdinand,franz ferdinand,Hits To The Head,track,2022,239708,54,2
+Here Ever After,Red Hot Chili Peppers,red hot chili peppers,Unlimited Love,track,2022,230342,55,2
+Humans,Night Tapes,night tapes,Humans,track,2022,251690,60,2
+ZOMBIFIED,Falling In Reverse,falling in reverse,ZOMBIFIED,track,2022,218520,61,2
+Natural Born Killer,Dynazty,dynazty,Final Advent,track,2022,205826,54,2
+MONEY,The Warning,the warning,ERROR,track,2022,194896,55,2
+Peace and Love,Red Hot Chili Peppers,red hot chili peppers,Return of the Dream Canteen,track,2022,243224,55,2
+Tippa My Tongue,Red Hot Chili Peppers,red hot chili peppers,Return of the Dream Canteen,track,2022,260808,55,2
+Parasite,Connor Kauffman,connor kauffman,Parasite,track,2022,145890,60,2
+White Braids & Pillow Chair,Red Hot Chili Peppers,red hot chili peppers,Unlimited Love,track,2022,220523,55,2
+sTraNgeRs,Bring Me The Horizon,bring me the horizon,sTraNgeRs,track,2022,195747,60,2
+Billie Toppy,Men I Trust,men i trust,Billie Toppy,track,2022,195289,60,2
+Yen,Slipknot,slipknot,"The End, So Far",track,2022,283786,59,2
+Basketball Shoes,"Black Country, New Road",black country new road,Ants From Up There,track,2022,757440,54,2
+Quisiera embriagarme,Azucena Aymara,azucena aymara,Solo Éxitos,track,2022,196069,43,2
+Ya No Sos Igual,2 minutos,2 minutos,Ya No Sos Igual,track,2022,222541,45,2
+ABC (feat. Sophia Black),Polyphia,polyphia,Remember That You Will Die,track,2022,152361,58,2
+Can I Call You Tonight? / Quarterback,Cal in Red,cal in red,Can I Call You Tonight? / Quarterback,track,2022,195310,57,2
+Cuando Florezca El Amor,Juanita Burbano,juanita burbano,Mis Mejores Éxitos,track,2022,259320,44,2
+In The Air Tonight,State of Mine,state of mine,In The Air Tonight,track,2022,300631,58,2
+Save Yourself,ONE OK ROCK,one ok rock,Luxury Disease,track,2022,197995,54,2
+Vertigo,Edwin Rosen,edwin rosen,Vertigo,track,2022,210191,67,2
+9 lives,mgk,mgk,mainstream sellout (life in pink deluxe),track,2022,181496,58,2
+Kryptonite (Reloaded),Jeris Johnson,jeris johnson,Kryptonite (Reloaded),track,2022,157799,63,2
+Lifetime,Three Days Grace,three days grace,EXPLOSIONS,track,2022,176235,60,2
+Let Me Let You Go,ONE OK ROCK,one ok rock,Luxury Disease,track,2022,180211,55,2
+Self-Destruction,I Prevail,i prevail,TRUE POWER,track,2022,146176,62,2
+Bye Bye,Babasonicos,babasonicos,Trinchera,track,2022,250760,58,2
+Rock Believer,Scorpions,scorpions,Rock Believer (Deluxe),track,2022,237128,49,2
+DOCTORA II,Piti Fernández,piti fernandez,Caminos Bríos,track,2022,337538,57,2
+NO ESCAPE,HEALTH,health,DISCO4 :: PART II,track,2022,214333,56,2
+her smile,Keanu Bicol,keanu bicol,butterfly / her smile,track,2022,235536,56,2
+Intro,"Black Country, New Road",black country new road,Ants From Up There,track,2022,54906,52,2
+Watcher In The Sky,Ghost,ghost,IMPERA,track,2022,348333,53,2
+Along,GHOSTWOMAN,ghostwoman,Ghost Woman,track,2022,201986,48,2
+That Girl,Emei,emei,That Girl,track,2022,140426,58,2
+Time,The Rose,the rose,HEAL,track,2022,190784,51,2
+The Fight Within,Memphis May Fire,memphis may fire,Remade In Misery,track,2022,234114,55,2
+Troublemaker,Black Pontiac,black pontiac,From Bad to Worse (And Back Again),track,2022,204760,57,2
+Don't Miss,The Blue Stones,the blue stones,Pretty Monster,track,2022,187666,52,2
+NOTHING ON THE LINE,George Barnett,george barnett,NOTHING ON THE LINE,track,2022,204650,56,2
+Ghosts (How Can I Move On),Muse,muse,Will Of The People,track,2022,217034,47,2
+Club De Vampiros,French Police,french police,Club De Vampiros,track,2022,189428,54,2
+Tu Reino Está Aquí - En Vivo,Generación 12,generacion 12,Tu Reino Está Aquí (En Vivo),track,2022,333871,52,2
+Sad Disco,flipturn,flipturn,Shadowglow,track,2022,227213,63,2
+No Choice,Tame Impala,tame impala,The Slow Rush B-Sides & Remixes,track,2022,221826,56,2
+Moment In The Sun - Bonus Track,Sunflower Bean,sunflower bean,Headful of Sugar,track,2022,189634,43,2
+We Don't Know What Tomorrow Brings,The Smile,the smile,A Light for Attracting Attention,track,2022,196752,50,2
+Sultans Of Swing - Remastered 2022,Dire Straits,dire straits,Money For Nothing (Remastered 2022),track,2022,348680,47,2
+Bowling Alley Thug,Surf Hat,surf hat,Surf Hat,track,2022,179217,60,2
+Let Em' Out,PERSONA 749,persona 749,Let Em' Out,track,2022,209361,56,2
+The Girl Is Mine (with Paul McCartney),Michael Jackson,michael jackson,Thriller 40,track,2022,221677,51,2
+Renegades,ONE OK ROCK,one ok rock,Luxury Disease,track,2022,244538,57,2
+veil,akiaura,akiaura,veil,track,2022,107776,58,2
+Human Nature,Michael Jackson,michael jackson,Thriller 40,track,2022,245913,53,2
+Survivor,All Good Things,all good things,Survivor,track,2022,193840,54,2
+Brothers In Arms - Edit / Remastered 2022,Dire Straits,dire straits,Money For Nothing (Remastered 2022),track,2022,298840,45,2
+Camino Largo Versión 2,Angel Guaraca,angel guaraca,Camino Largo Versión 2,track,2022,213132,44,2
+Waiting On The Sky To Change,STARSET,starset,Waiting On The Sky To Change,track,2022,244135,59,2
+EVOLVE,The Warning,the warning,ERROR,track,2022,213308,53,2
+Do You,GHOSTWOMAN,ghostwoman,Ghost Woman,track,2022,184760,51,2
+The Shape I'm Takin',Red Hot Chili Peppers,red hot chili peppers,The Shape I'm Takin',track,2022,215365,52,2
+BRIGHTSIDE,The Lumineers,the lumineers,BRIGHTSIDE,track,2022,229773,52,2
+Nunca Lo Olvides,Airbag,airbag,Nunca Lo Olvides,track,2023,299810,67,2
+More the Victim,Linkin Park,linkin park,Meteora 20th Anniversary Edition,track,2023,161000,63,2
+The End of a Gun,GHOSTWOMAN,ghostwoman,"Anne, If",track,2023,191451,62,2
+Eyes Without A Face,Sinnerella,sinnerella,Eyes Without A Face,track,2023,135206,68,2
+From the Start,Good Kid,good kid,From the Start,track,2023,150047,76,2
+Kool Aid,Royel Otis,royel otis,Sofa Kings,track,2023,216665,71,2
+Take Me Back To Eden,Sleep Token,sleep token,Take Me Back To Eden,track,2023,500116,76,2
+Fighting Myself,Linkin Park,linkin park,Meteora 20th Anniversary Edition,track,2023,201428,69,2
+VALENTINE,Måneskin,maneskin,RUSH! (ARE U COMING?),track,2023,216997,65,2
+GOSSIP (feat. Tom Morello),Måneskin,maneskin,GOSSIP (feat. Tom Morello),track,2023,168280,67,2
+Nada que perder,Robe,robe,Se nos lleva el aire,track,2023,370000,67,2
+Weak In Your Light,Nation of Language,nation of language,Strange Disciple,track,2023,255438,63,2
+Sofa King,Royel Otis,royel otis,Sofa Kings,track,2023,196317,69,2
+Dial Tone,Catch Your Breath,catch your breath,Shame On Me,track,2023,200495,70,2
+OWN MY MIND,Måneskin,maneskin,RUSH!,track,2023,191856,63,2
+Tu mejor versión,Rulo y la contrabanda,rulo y la contrabanda,5,track,2023,194986,37,2
+Lost,Linkin Park,linkin park,Lost,track,2023,199342,70,2
+El ataque de las chicas cocodrilo,Hombres G,hombres g,El ataque de las chicas cocodrilo,track,2023,157833,49,2
+Viajando por el interior,Robe,robe,Se nos lleva el aire,track,2023,415000,53,2
+novio del año,Paula Koops,paula koops,novio del año,track,2023,154719,42,2
+Ininteligible,Robe,robe,Se nos lleva el aire,track,2023,409000,52,2
+Watch The World Burn,Falling In Reverse,falling in reverse,Watch The World Burn,track,2023,203948,67,2
+Confeti,Rulo y la contrabanda,rulo y la contrabanda,5,track,2023,236597,38,2
+Cuenta conmigo,Hens,hens,No Me Odio Tanto,track,2023,166717,39,2
+Foaming,Day We Ran,day we ran,Foaming,track,2023,193906,67,2
+Mi Mejor Versión,Walls,walls,Mi Mejor Versión,track,2023,201833,49,2
+Hate.,ThxSoMch,thxsomch,Hate.,track,2023,134769,71,2
+Uróboros,Albertucho,albertucho,El regreso del Perro Andaluz,track,2023,217900,41,2
+Colateral,Lemot,lemot,Colateral,track,2023,151356,42,2
+Me has jodido el ciclo del sueño,Hens,hens,No Me Odio Tanto,track,2023,161500,39,2
+Para volverte a decir,Arco,arco,Sol,track,2023,191231,46,2
+No Me Haces Bien,Calero LDN,calero ldn,No Me Haces Bien,track,2023,260342,43,2
+Cansado de estar triste,Xavibo,xavibo,Papel de Burbujas,track,2023,175867,45,2
+BABY SAID,Måneskin,maneskin,RUSH!,track,2023,164682,72,2
+HOOLIGANG,Joey Valence & Brae,joey valence brae,PUNK TACTICS,track,2023,168000,69,2
+scars,Novulent,novulent,VOL. 1,track,2023,95002,71,2
+HONEY (ARE U COMING?),Måneskin,maneskin,RUSH!,track,2023,167276,72,2
+PUNK TACTICS,Joey Valence & Brae,joey valence brae,PUNK TACTICS,track,2023,143609,73,2
+Lo noto,Hombres G,hombres g,Del rosa al amarillo,track,2023,259079,62,2
+Hard to Say I'm Sorry,Chicago,chicago,Love from Chicago,track,2023,221413,65,2
+Hey Jude - 2015 Mix,The Beatles,the beatles,The Beatles 1967 – 1970 (2023 Edition),track,2023,431453,71,2
+OFF MY FACE,Måneskin,maneskin,RUSH! (ARE U COMING?),track,2023,149835,66,2
+"I'll Try Anything Once (""You Only Live Once"" demo) - Heart In a Cage B-Side",The Strokes,the strokes,The Singles - Volume 01,track,2023,194651,58,2
+Killer,Mareux,mareux,Lovers From The Past,track,2023,186706,65,2
+Jesus He Knows Me,Ghost,ghost,Jesus He Knows Me,track,2023,245240,58,2
+Psycho In My Head,Skillet,skillet,Dominion: Day of Destiny,track,2023,197480,63,2
+Angry,The Rolling Stones,the rolling stones,Angry,track,2023,226735,55,2
+BLA BLA BLA,Måneskin,maneskin,RUSH!,track,2023,184660,55,2
+So Good at Being in Trouble,Unknown Mortal Orchestra,unknown mortal orchestra,II (10 Year Anniversary Edition),track,2023,230146,62,2
+Living In A Haze,Milky Chance,milky chance,Living In A Haze,track,2023,173369,58,2
+Blame Brett,The Beaches,the beaches,Blame My Ex,track,2023,177003,68,2
+unknown feelings,Novulent,novulent,unknown feelings,track,2023,134627,70,2
+wonder if you care,flyingfish,flyingfish,wonder if you care,track,2023,134556,68,2
+Silent Running (feat. Adeleye Omotayo),Gorillaz,gorillaz,Cracker Island,track,2023,266338,62,2
+Human - Edit,The Human League,the human league,Human,track,2023,228093,60,2
+STARTAFIGHT,Joey Valence & Brae,joey valence brae,PUNK TACTICS,track,2023,187301,61,2
+READ YOUR DIARY,Måneskin,maneskin,RUSH!,track,2023,150695,58,2
+No More Lies,Thundercat,thundercat,No More Lies,track,2023,327217,64,2
+Happier (feat. Oli Sykes of Bring Me The Horizon),YUNGBLUD,yungblud,Happier (feat. Oli Sykes of Bring Me The Horizon),track,2023,204458,61,2
+Suffocation - Slowed,noturgf,noturgf,Suffocation (Slowed),track,2023,64842,64,2
+72 Seasons,Metallica,metallica,72 Seasons,track,2023,459120,56,2
+Sentada en un Bar,Cecy Narvaez,cecy narvaez,ÉXITOS,track,2023,242068,51,2
+She got the bomb,Billylildove,billylildove,She got the bomb,track,2023,131394,58,2
+DON'T WANNA SLEEP,Måneskin,maneskin,RUSH!,track,2023,156057,56,2
+Mess It Up,The Rolling Stones,the rolling stones,Hackney Diamonds,track,2023,243687,52,2
+Veneno para Olvidar,Hipatia Balseca,hipatia balseca,Por Siempre,track,2023,233826,51,2
+FEEL,Måneskin,maneskin,RUSH!,track,2023,167969,55,2
+Feeling For You,Milky Chance,milky chance,Living In A Haze,track,2023,221560,59,2
+"Within You, Within Me",Meltt,meltt,Eternal Embers,track,2023,198613,63,2
+Last Resort - Reimagined,Falling In Reverse,falling in reverse,Last Resort (Reimagined),track,2023,283714,62,2
+GASOLINE,Måneskin,maneskin,RUSH!,track,2023,221062,58,2
+En el mismo bar,De Rancho,de rancho,Camper Season,track,2023,162500,34,2
+Back To Me,The Rose,the rose,DUAL,track,2023,224968,62,2
+Mimi's Delivery Service,Good Kid,good kid,Mimi's Delivery Service,track,2023,178924,67,2
+Diamante Roto,El Mató a un Policía Motorizado,el mato a un policia motorizado,Súper Terror,track,2023,181766,36,2
+Shame On Me,Catch Your Breath,catch your breath,Shame On Me,track,2023,201723,68,2
+I Ran (So Far Away) - Single Edit,A Flock Of Seagulls,a flock of seagulls,A Flock Of Seagulls (Deluxe),track,2023,221798,63,2
+Children of the Sky (a Starfield song),Imagine Dragons,imagine dragons,Children of the Sky (a Starfield song),track,2023,207611,60,2
+Right Thing,Bayonne,bayonne,Temporary Time,track,2023,222773,65,2
+XAO,Marlon,marlon,Que Se Caiga el Cielo,track,2023,140703,35,2
+Tu gemido sabe a rejas,Mala Hierba,mala hierba,Tu gemido sabe a rejas,track,2023,237826,36,2
+Caricias en tu espalda (feat. MARLENA),Despistaos,despistaos,Caricias en tu espalda (feat. MARLENA),track,2023,184867,35,2
+Aprender de lo Vivido,Periferia,periferia,Fortuna o Discordia,track,2023,180736,36,2
+La Marea Nunca Te la Va a Devolver,Rojuu,rojuu,Salsa Valentina,track,2023,127625,46,2
+Pls Cheat On Me,Precious Pepala,precious pepala,Pls Cheat On Me,track,2023,171022,61,2
+Make It Out Alive,ONE OK ROCK,one ok rock,Make It Out Alive,track,2023,209799,61,2
+Fight Fire With Gasoline,Self Deception,self deception,You Are Only As Sick As Your Secrets,track,2023,228727,58,2
+Realize,Trxy!,trxy,Realize,track,2023,115401,63,2
+Paradox,Survive Said The Prophet,survive said the prophet,Paradox,track,2023,241153,54,2
+Rinsed,Dean Blunt,dean blunt,Rinsed,track,2023,106805,65,2
+Baby Queen,Gorillaz,gorillaz,Cracker Island,track,2023,220105,58,2
+Fall Into,Ally Nicholas,ally nicholas,Fall Into,track,2023,186857,63,2
+Entre dos tierras,Till Lindemann,till lindemann,Entre dos tierras,track,2023,225128,48,2
+Pass The Nirvana,Pierce The Veil,pierce the veil,The Jaws Of Life,track,2023,197373,69,2
+Red Hearts,Marlon Funaki,marlon funaki,Red Hearts,track,2023,197111,63,2
+This Is Why,Paramore,paramore,This Is Why,track,2023,206700,63,2
+LosT,Bring Me The Horizon,bring me the horizon,LosT,track,2023,205368,62,2
+Look What You've Done,Radio Free Alice,radio free alice,Radio Free Alice,track,2023,193413,56,2
+never enough,otuka,otuka,never enough,track,2023,112622,62,2
+Think Fast (feat. Weezer),Dominic Fike,dominic fike,Sunburn,track,2023,222839,64,2
+Into The Otherside,The Listros,the listros,Into The Otherside,track,2023,215782,59,2
+Under You,Foo Fighters,foo fighters,But Here We Are,track,2023,219393,54,2
+Lifeline,The Rose,the rose,DUAL,track,2023,161833,54,2
+Negrita Consentida,Marcelo Bedoya,marcelo bedoya,Karahuay,track,2023,212600,48,2
+Need A Favor,Jelly Roll,jelly roll,Whitsitt Chapel,track,2023,197400,74,2
+kisses,Slowdive,slowdive,everything is alive,track,2023,237434,58,2
+DArkSide,Bring Me The Horizon,bring me the horizon,DArkSide,track,2023,164790,59,2
+You're Beautiful,The Rose,the rose,DUAL,track,2023,235175,56,2
+Timezones,Schur,schur,The Unsure Mixtape,track,2023,212517,57,2
+Hangfire,Wind Walkers,wind walkers,What If I Break?,track,2023,195217,64,2
+Monolith,Twin Tribes,twin tribes,Monolith,track,2023,264656,61,2
+Osmosis,Good Kid,good kid,Good Kid 3,track,2023,173122,60,2
+21 Gun Salute,Catch Your Breath,catch your breath,Shame On Me,track,2023,226240,64,2
+Until I Know,Panchiko,panchiko,Failed at Math(s),track,2023,203368,67,2
+Lovers From The Past,Mareux,mareux,Lovers From The Past,track,2023,199280,62,2
+Alice,Steven Rodriguez,steven rodriguez,Alice,track,2023,154277,57,2
+Only in Your Eyes,Meltt,meltt,Eternal Embers,track,2023,207774,60,2
+Off The Edge (with LUNA AURA),VOILÀ,voila,The Cure for Breathing,track,2023,164469,60,2
+MARK CHAPMAN,Måneskin,maneskin,RUSH!,track,2023,220167,52,2
+KOOL KIDS,Måneskin,maneskin,RUSH! (ARE U COMING?),track,2023,163177,53,2
+Going Kokomo,Royel Otis,royel otis,Sofa Kings,track,2023,190626,58,2
+Tu Misterioso Alguien,Miranda!,miranda,Hotel Miranda!,track,2023,239359,57,2
+Geneva Strangemod,Glyders,glyders,Maria's Hunt,track,2023,160615,56,2
+Bogus Operandi,The Hives,the hives,The Death Of Randy Fitzsimmons,track,2023,223785,50,2
+Great Time To Be Human,Jagwar Twin,jagwar twin,Great Time To Be Human,track,2023,203108,62,2
+The Narcissist,Blur,blur,The Ballad of Darren,track,2023,245225,54,2
+Bring Me To Life - Remastered 2023,Evanescence,evanescence,Bring Me To Life (Demo / Remastered),track,2023,236400,57,2
+rose,jaydes,jaydes,ghetto cupid,track,2023,126233,65,2
+We Didn’t Start The Fire,Fall Out Boy,fall out boy,We Didn’t Start The Fire,track,2023,215530,62,2
+Good enough,Xdinary Heroes,xdinary heroes,Deadlock,track,2023,237533,58,2
+Emergency Contact,Pierce The Veil,pierce the veil,The Jaws Of Life,track,2023,240000,68,2
+for her,whatsaheart,whatsaheart,for her,track,2023,174680,62,2
+Sleepwalking,All Time Low,all time low,Tell Me I'm Alive,track,2023,187344,59,2
+Modern Girls & Old Fashion Men - Reptilia B-Side,The Strokes,the strokes,The Singles - Volume 01,track,2023,218417,54,2
+No Soy de Tu Clase,Bayron Caicedo,bayron caicedo,"En la Vida Hay Que Gozar, Vol. 3",track,2023,214595,45,2
+I Wanna Dance With You,Royel Otis,royel otis,Sofa Kings,track,2023,174761,56,2
+Counting Stars,No Resolve,no resolve,Counting Stars,track,2023,232184,59,2
+"You're Not Gone, You're Just Dead!",VIOLENT VIRA,violent vira,Till' Death Was Never Enough,track,2023,175229,64,2
+Death Of An Executioner,Pierce The Veil,pierce the veil,The Jaws Of Life,track,2023,267800,67,2
+El Locutorio,Bayron Caicedo,bayron caicedo,"En la Vida Hay Que Gozar, Vol. 3",track,2023,186105,42,2
+Paper Machete,Queens of the Stone Age,queens of the stone age,In Times New Roman...,track,2023,202776,52,2
+another soul,MICO,mico,the tears we fight EP,track,2023,177142,57,2
+Metaphor,Marlon Funaki,marlon funaki,Metaphor,track,2023,237794,60,2
+Dead Talk,Wind Walkers,wind walkers,What If I Break?,track,2023,195085,61,2
+The New Thing Dies,Ray Bull,ray bull,Easy Way To Lose,track,2023,228500,51,2
+Rigor Mortis Radio,The Hives,the hives,The Death Of Randy Fitzsimmons,track,2023,148738,45,2
+harder to lie.,elijah,elijah,harder to lie.,track,2023,210124,61,2
+With Or Without You,Pacifica,pacifica,Freak Scene,track,2023,154337,49,2
+En la Vida Hay Que Gozar,Bayron Caicedo,bayron caicedo,"En la Vida Hay Que Gozar, Vol. 3",track,2023,219892,43,2
+If Darkness Had a Son,Metallica,metallica,72 Seasons,track,2023,396293,51,2
+zzz,60 juno,60 juno,zzz,track,2023,177662,59,2
+Screaming Suicide,Metallica,metallica,72 Seasons,track,2023,330453,52,2
+Dummy,Portugal. The Man,portugal the man,Chris Black Changed My Life,track,2023,145093,58,2
+Shadows Follow,Metallica,metallica,72 Seasons,track,2023,371880,51,2
+Voces de Invierno,Jero Jones,jero jones,Transferencia,track,2023,193218,46,2
+WORTHLESS,d4vd,d4vd,Petals to Thorns,track,2023,163049,61,2
+Find A Way,Balu Brigada,balu brigada,Find A Way,track,2023,227000,57,2
+Meeting The Master,Greta Van Fleet,greta van fleet,Starcatcher,track,2023,312084,52,2
+That's Why We Fight (feat. Koe Wetzel),Ella Langley,ella langley,Excuse The Mess,track,2023,163973,74,2
+La Mitad de Mi,Bayron Caicedo,bayron caicedo,"En la Vida Hay Que Gozar, Vol. 3",track,2023,237145,45,2
+Untitled #13,glwzbll,glwzbll,Untitled #13,track,2023,115054,58,2
+DYWTYLM,Sleep Token,sleep token,Take Me Back To Eden,track,2023,240737,64,2
+Perfect,Bayonne,bayonne,Temporary Time,track,2023,199986,57,2
