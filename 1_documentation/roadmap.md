@@ -13,6 +13,7 @@ Este documento describe la hoja de ruta y organización del proyecto académico 
 Analizar si la pandemia del COVID-19 ha tenido algún tipo de impacto en las tendencias de consumo musical, identificando cambios en popularidad de artistas, géneros y canciones antes, durante y después de la pandemia.
 
 * Rango de años: 2019-2023
+* Periodoso establecidos: pre-pandemia (2019), pandemia (2020–2021) y post-pandemia (2022–2023)
 * Géneros musicales: Rock, Pop, Latin y Chill
 
 2. PLANIFICACIÓN Y ORGANIZACIÓN:
@@ -28,8 +29,8 @@ Analizar si la pandemia del COVID-19 ha tenido algún tipo de impacto en las ten
 3. FASES DEL PROYECTO:
 
 * Extracción de datos:
-  - Mediante el uso del API de Spotify, se  extraen datos como artista, género, tipo (canción, álbum), nombre, año de lanzamiento y duración de sus canciones.
-  - A travñes del API de  Last.fm se extrae información relativa a artistas, su número de reproducciones y volumen de oyentes.
+  - Mediante el uso del API de Spotify se  extraen datos como artista, género, tipo (canción, álbum), nombre, año de lanzamiento y duración de sus canciones, con un muestreo de aproximadamente 200 canciones por año y género.
+  - A través del API de  Last.fm se extrae información relativa a artistas, su número de reproducciones y volumen de oyentes.
    
 * Crear base de datos:
   - Guardar la información recopilada en una BBDD 
@@ -71,7 +72,6 @@ Cada día (5–7 min) (Breve, ágil, sin discusiones técnicas).
 2. ¿Qué haré hoy?
 3. ¿Qué bloqueos tengo?
 
-Breve, ágil, sin discusiones técnicas largas.
 
 6. ACUERDOS DEL EQUIPO:
 
@@ -83,8 +83,8 @@ Breve, ágil, sin discusiones técnicas largas.
 
 * Visual Studio Code
 * GitHub
-* MySQL
-* API de lastfm y de Spotify
+* MySQL Workbench
+* API de Lastfm y de Spotify
 * IA como herramienta de apoyo para documentación y resolución de dudas.
 
 
