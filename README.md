@@ -143,3 +143,12 @@ Análisis y visualización en notebooks
 
 Este enfoque permite reproducir los resultados y facilitar la comprensión del
 proceso analítico completo.
+
+
+## 👥 Autoría
+
+Proyecto realizado por:
+- Valentina Castillo
+- Ana María Castro
+- María José Moral
+- Nieves Sánchez
