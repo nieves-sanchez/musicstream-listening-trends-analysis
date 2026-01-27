@@ -145,6 +145,13 @@ Este enfoque permite reproducir los resultados y facilitar la comprensión del
 proceso analítico completo.
 
 
+## 📽️ Presentación del proyecto
+
+La presentación final del proyecto puede consultarse en el siguiente enlace:
+
+📄 [Ver presentación (PDF)](1_documentation/presentation_resonance_analytics.pdf)
+
+
 ## 👥 Autoría
 
 Proyecto realizado por:
