@@ -1,12 +1,8 @@
-# Resonance Analytics: Measuring the Sound of Social Change 📊🎶
+#  MusicStream — Análisis de tendencias musicales (2019–2023) 📊🎶
 
-Este proyecto académico analiza el impacto de la pandemia de la COVID-19 en las
-tendencias de consumo musical en España, comparando la evolución de artistas,
-géneros y canciones antes, durante y después de la pandemia.
+Proyecto de análisis de datos centrado en la evolución del consumo musical en España antes, durante y después de la pandemia (2019–2023).
 
-El estudio se centra en el periodo 2019–2023 y combina datos procedentes de
-distintas plataformas musicales con el objetivo de identificar cambios
-significativos en el consumo musical asociados al contexto social de la pandemia.
+El objetivo es identificar cambios en la popularidad de artistas, géneros y canciones combinando datos extraídos mediante APIs públicas y estructurados en una base de datos relacional.
 
 ---
 
