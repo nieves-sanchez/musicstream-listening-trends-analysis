@@ -6,6 +6,11 @@ El objetivo es identificar cambios en la popularidad de artistas, géneros y can
 
 ---
 
+**📌 Mi contribución en este proyecto**  
+Me encargué de la extracción y limpieza de datos desde la API de Last.fm, el diseño de la base de datos relacional en MySQL, el EDA en SQL para validar la carga en Workbench, y la mitad de las consultas analíticas finales.
+
+---
+
 ## 🎯 Objetivo del proyecto
 
 Analizar si la pandemia de la COVID-19 ha tenido un impacto en las tendencias de
