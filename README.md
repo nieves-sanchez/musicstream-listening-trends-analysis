@@ -7,7 +7,17 @@ El objetivo es identificar cambios en la popularidad de artistas, géneros y can
 ---
 
 **📌 Mi contribución en este proyecto**  
-Me encargué de la extracción y limpieza de datos desde la API de Last.fm, el diseño de la base de datos relacional en MySQL, el EDA en SQL para validar la carga en Workbench, y la mitad de las consultas analíticas finales.
+Extracción y limpieza de datos de la API de Last.fm por género, primera versión del modelo de la base de datos en MySQL Workbench y notebook de comprobaciones de la carga.
+
+---
+
+## Resumen del proyecto
+
+- **Pregunta:** ¿cambió el consumo musical en España antes, durante y después de la pandemia (2019–2023)?
+- **Datos:** APIs de Spotify y Last.fm, cargados en una base de datos MySQL.
+- **Equipo:** 4 personas: Ana María Castro, María José Moral, Valentina Castillo y yo. Este repositorio es mi fork del repositorio del equipo.
+- **Hallazgos del equipo:** la producción de álbumes creció durante la pandemia en los cuatro géneros analizados; Pop y Latin recuperaron antes la popularidad y Rock se mantuvo más estable.
+- **Limitaciones:** muestra de unas 200 canciones por año y género; el género Chill no tiene datos de popularidad en Spotify.
 
 ---
 
@@ -46,7 +56,7 @@ El modelo incluye tablas principales para artistas, canciones y géneros.
 
 El diagrama entidad-relación del modelo puede consultarse aquí:
 
-📎 `1_documentation/resonance_analytics_diagram.svg`
+![Diagrama entidad-relación](1_documentation/resonance_analytics_eer.svg)
 
 ---
 
